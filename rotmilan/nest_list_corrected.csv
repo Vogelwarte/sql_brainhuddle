@@ -1,0 +1,1179 @@
+ID,nest_name,nest_status,tree_species,country,canton,elev_swiss_maps,coordX,coordY,municipality,location
+1,Liebistorf_Allmend,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,526.9,7.192582184,46.91631911,Liebistorf,Allmend
+2,Gurmels_Kleinbösingen,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,547.7,7.202359535,46.8961364,Gurmels,Kleinbösingen
+3,Bösingen_Noflenau,nest gone,Fagus sylvatica (Beech),Switzerland,FR,525.9,7.263064147,46.89249516,Bösingen,Noflenau
+4,Ueberstorf_Lenglod,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,629.6,7.342329865,46.87976277,Ueberstorf,Lenglod
+5,Ueberstorf_Niedermettlen,nest gone,Fagus sylvatica (Beech),Switzerland,FR,647.5,7.320410929,46.87275269,Ueberstorf,Niedermettlen
+6,Ueberstorf_Banholz 15,nest gone,Fagus sylvatica (Beech),Switzerland,FR,650.2,7.296879163,46.86776033,Ueberstorf,Banholz 
+7,Ueberstorf_Ledeu beech,present,Fagus sylvatica (Beech),Switzerland,FR,661.6,7.299341213,46.85912787,Ueberstorf,Ledeu
+8,Schmitten_Bunziwil 15,nest gone,Fagus sylvatica (Beech),Switzerland,FR,623.8,7.264549152,46.85554473,Schmitten,Bunziwil 
+9,Schmitten_Rütihubel,nest gone,Fagus sylvatica (Beech),Switzerland,FR,682,7.216437101,46.85264537,Schmitten,Rütihubel
+10,Ueberstorf_Summerau edge,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,765.2,7.330223762,46.85275693,Ueberstorf,Summerau
+11,Ueberstorf_Mischlere,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,689.3,7.300774342,46.85259902,Ueberstorf,Mischlere
+12,Ueberstorf_Summerau center,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,757.8,7.330222749,46.85237892,Ueberstorf,Summerau 
+13,Schmitten_Ettelberg,nest gone,Fagus sylvatica (Beech),Switzerland,FR,673.7,7.265470472,46.85043678,Schmitten,Ettelberg
+14,Heitenried_Breitenried,nest gone,Fagus sylvatica (Beech),Switzerland,FR,686.4,7.289220257,46.84874339,Heitenried,Breitenried
+15,Schmitten_Lanthenholz,tree gone,Fagus sylvatica (Beech),Switzerland,FR,689.8,7.244464196,46.84362935,Schmitten,Lanthenholz
+16,Lossy_Lossy,NA,Picea abies (Norwegian Spruce),Switzerland,FR,658.3,7.107634779,46.83950872,Lossy,Lossy
+17,St. Antoni_Menzishus,nest gone,Abies alba (Silver fir),Switzerland,FR,686.5,7.269676175,46.83481819,St. Antoni,Menzishus
+18,Düdingen_Horia edge,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,643.2,7.20746787,46.83453783,Düdingen,Horia
+19,Düdingen_Horia center,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,647.5,7.207116219,46.83401538,Düdingen,Horia 
+20,Düdingen_St. Wolfgangholz spruce,nest gone,Abies alba (Silver fir),Switzerland,FR,622.1,7.18175413,46.83378105,Düdingen,St. Wolfgangholz spruce
+21,Tafers_Angstorfwäldli,nest gone,Quercus robur (English Oak),Switzerland,FR,668.1,7.219761024,46.83179157,Tafers,Angstorfwäldli
+22,St. Antoni_Lehwil pinus,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,710.9,7.281206641,46.8318483,St. Antoni,Lehwil 
+23,St. Antoni_Lehwil beech,present,Fagus sylvatica (Beech),Switzerland,FR,698.3,7.280897432,46.83003081,St. Antoni,Lehwil
+24,St. Antoni_Lehwil picea,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,699.2,7.281383406,46.82968067,St. Antoni,Lehwil
+25,Düdingen_Kastels beech,nest gone,Fagus sylvatica (Beech),Switzerland,FR,642.6,7.176293607,46.82465627,Düdingen,Kastels 
+26,Düdingen_Kastels prunus,nest gone,Prunus (Cherry/Apple),Switzerland,FR,648.6,7.176321754,46.82426053,Düdingen,Kastels 
+27,Heitenried_Winterlingen,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,745.4,7.292121745,46.82339828,Heitenried,Winterlingen
+28,St. Antoni_Bächlisbrunnen,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,785.8,7.265794971,46.8189895,St. Antoni,Bächlisbrunnen
+29,Tafers_Chly Maggenberg,tree gone,Acer sp (maple),Switzerland,FR,673.2,7.208242211,46.81296846,Tafers,Chly Maggenberg
+30,St. Antoni_ Sellenried,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,764.4,7.261675148,46.81263242,St. Antoni,Sellenried
+31,St. Antoni_Obermonten,present,Prunus (Cherry/Apple),Switzerland,FR,807.3,7.276178612,46.80859718,St. Antoni,Obermonten
+32,Alterswil_Seliholz,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,761.9,7.251087016,46.80929614,Alterswil,Seliholz
+33,Alterswil_Beniwil,active,Abies alba (Silver fir),Switzerland,FR,759.9,7.259446381,46.80129473,Alterswil,Beniwil
+34,Alterswil_Tolgli,present,Abies alba (Silver fir),Switzerland,FR,749.3,7.250110782,46.80003825,Alterswil,Tolgli
+35,Alterswil_Ober Geriwil,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,824.2,7.272908022,46.79859857,Alterswil,Ober Geriwil
+36,Alterswil_Weiermattenmoos,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,804,7.284054734,46.79423353,Alterswil,Weiermattenmoos
+37,Alterswil_Wolgiswil_S,present,Fagus sylvatica (Beech),Switzerland,FR,734,7.238017135,46.7938377,Alterswil,Wolgiswil
+38,Alterswil_Äschlenberg,nest gone,Fagus sylvatica (Beech),Switzerland,FR,759.7,7.262018856,46.78787761,Alterswil,Äschlenberg
+39,Alterswil_Chleholz larch,nest gone,Larix decidua (larch),Switzerland,FR,880.8,7.289738155,46.78520075,Alterswil,Chleholz
+40,St. Ursen_Plentsch,nest gone,Fagus sylvatica (Beech),Switzerland,FR,734.2,7.213939848,46.77904913,St. Ursen,Plentsch
+41,Alterswil_Baletswil,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,774.6,7.244908423,46.7788363,Alterswil,Baletswil
+42,St. Ursen_Röschiwil,nest gone,Fagus sylvatica (Beech),Switzerland,FR,773.1,7.218408024,46.77511788,St. Ursen,Röschiwil
+43,Tentlingen_Vieille Rossmatta,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,697.6,7.182436467,46.76780115,Tentlingen,Vieille Rossmatta
+44,Brünisried_Holzgasse,nest gone,Abies alba (Silver fir),Switzerland,FR,877.7,7.276593841,46.76665216,Brünisried,Holzgasse
+45,Zumholz_Brand street,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,812,7.290661755,46.75902527,Zumholz,Brand
+46,St. Sylvester_Unterbuech,nest gone,Fagus sylvatica (Beech),Switzerland,FR,746.3,7.202084961,46.75337004,St. Sylvester,Unterbuech
+47,Giffers_Moosmatta,nest gone,Fagus sylvatica (Beech),Switzerland,FR,849.9,7.237812058,46.75069521,Giffers,Moosmatta
+48,St. Sylvester_Tschüpru,nest gone,Fagus sylvatica (Beech),Switzerland,FR,767.1,7.215180907,46.74831411,St. Sylvester,Tschüpru
+49,Vuippens_Vuippens,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,693.8,7.07802079,46.65626092,Vuippens,Vuippens
+50,Echarlens_Stande_de_tir,nest gone,Fagus sylvatica (Beech),Switzerland,FR,725.1,7.089780367,46.64191367,Echarlens,Stande
+51,Bas-Intyamon_Grandvillard,NA,Picea abies (Norwegian Spruce),Switzerland,FR,752.6,7.09652443,46.54662533,Bas-Intyamon,Grandvillard
+52,Haute-Intyamon_Lessoc,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,804.4,7.050919195,46.50644761,Haute-Intyamon,Lessoc
+53,Englisberg_Lower,nest gone,Fraxinus sp (Ash),Switzerland,BE,634.7,7.477285974,46.90429201,Englisberg,Lower
+54,Englisberg_Upper,nest gone,Fraxinus sp (Ash),Switzerland,BE,636.7,7.477377733,46.90413006,Englisberg,Upper
+55,Niedermuhlern_Schür pinus,nest gone,Pinus sylvestris (Scots pine),Switzerland,BE,863.1,7.464053075,46.86840449,Niedermuhlern,Schür
+56,Gerzensee_Rüti,NA,Fagus sylvatica (Beech),Switzerland,BE,674.8,7.54743661,46.85157097,Gerzensee,Rüti
+57,Gerzensee_Lake,NA,Betula (Birch),Switzerland,BE,603.1,7.549057612,46.82985469,Gerzensee,Lake
+58,Buchholterberg_Badhaus,tree gone,Abies alba (Silver fir),Switzerland,BE,857,7.691893907,46.82167657,Buchholterberg,Badhaus
+59,Kirchdorf_Tree nursery,NA,Picea abies (Norwegian Spruce),Switzerland,BE,594.8,7.54807446,46.81027272,Kirchdorf,Tree nursery
+60,Steffisburg_Siechenboden lower,tree gone,Picea abies (Norwegian Spruce),Switzerland,BE,633.3,7.615674291,46.78460556,Steffisburg,Siechenboden lower
+61,Steffisburg_Siechenboden upper,tree gone,Picea abies (Norwegian Spruce),Switzerland,BE,633.7,7.615713224,46.78449755,Steffisburg,Siechenboden upper
+62,Horrenbach-Buchen_Rüttegg,NA,Picea abies (Norwegian Spruce),Switzerland,BE,983.7,7.765506518,46.7833765,Horrenbach-Buchen,Rüttegg
+63,Uetendorf_Eichberg,nest gone,Fraxinus sp (Ash),Switzerland,BE,574,7.563366817,46.78291117,Uetendorf,Eichberg
+64,Kalchstätten_Herrenmatt,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,818.7,7.300320919,46.76438076,Kalchstätten,Herrenmatt
+65,Frutigen_Frutigen,NA,Picea abies (Norwegian Spruce),Switzerland,BE,836.4,7.639136276,46.57820968,Frutigen,Frutigen
+66,Grolley_S,nest gone,Quercus robur (English Oak),Switzerland,FR,642.9,7.064355931,46.8253329,Grolley,S
+67,Léchelles_Léchelles,nest gone,Abies alba (Silver fir),Switzerland,FR,620.9,7.033212019,46.82599996,Léchelles,Léchelles
+68,Ponthaux_Ponthaux,nest gone,Quercus robur (English Oak),Switzerland,FR,672.6,7.045314284,46.80734078,Ponthaux,Ponthaux
+70,Corserey_North_Corserey,nest gone,Fagus sylvatica (Beech),Switzerland,FR,650.9,6.982182508,46.77768093,Corserey,North
+71,Corserey_Les Vuettes,NA,Picea abies (Norwegian Spruce),Switzerland,FR,673.4,6.995057378,46.76774675,Corserey,Les Vuettes
+72,Onnens_Onnens,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,708.1,7.036894833,46.78045083,Onnens,Onnens
+73,Bösingen_Waldheim,present,Quercus robur (English Oak),Switzerland,FR,567.1,7.25764568,46.8922438,Bösingen,Waldheim
+74,Wünnewil_Staffels,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,564.5,7.267460832,46.88402831,Wünnewil,Staffels
+75,Alterswil_Galteren,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,679.7,7.227995976,46.80084498,Alterswil,Galteren
+76,St. Ursen_Hattenberg,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,663.8,7.190728108,46.80362138,St. Ursen,Hattenberg
+77,Pierrafortscha_Bois de morvin,nest gone,Abies alba (Silver fir),Switzerland,FR,771.2,7.19401019,46.78197649,Pierrafortscha,Bois de morvin
+78,Oberschrot_Tolenhubel,nest gone,Fraxinus sp (Ash),Switzerland,FR,880.2,7.267785222,46.73736804,Oberschrot,Tolenhubel
+79,Sangernboden_Rainwald,nest gone,Abies alba (Silver fir),Switzerland,BE,1035.8,7.340831182,46.7172149,Sangernboden,Rainwald
+80,Guggisberg_Hirschmatt,nest gone,Fagus sylvatica (Beech),Switzerland,BE,939.5,7.322353157,46.75802776,Guggisberg,Hirschmatt
+81,Guggisberg_Steinachere,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,1022.6,7.321547435,46.76135524,Guggisberg,Steinachere
+82,Guggisberg_Brannele Tilia,nest gone,"Tilia sp (lime, linden)",Switzerland,BE,1099.5,7.325121918,46.76707098,Guggisberg,Brannele
+83,Schwarzenburg_Herrenholz,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,863,7.35417795,46.80424743,Schwarzenburg,Herrenholz
+84,Mamishaus_Hausmattweid beech,nest gone,Fagus sylvatica (Beech),Switzerland,BE,857.8,7.364336278,46.80961582,Mamishaus,Hausmattweid beech
+85,Mamishaus_Dunti,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,846.6,7.369878881,46.80913359,Mamishaus,Dunti
+86,Mamishaus_Rümlisberg,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,866.4,7.372020292,46.80445728,Mamishaus,Rümlisberg
+87,Wahlern_Gänsemoos,nest gone,Abies alba (Silver fir),Switzerland,BE,835.3,7.351520451,46.83514447,Wahlern,Gänsemoos
+88,Wahlern_Althaus,tree gone,Abies alba (Silver fir),Switzerland,BE,845,7.34881061,46.83308242,Wahlern,Althaus
+89,Mittelhäusern_Hubel,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,709.8,7.374357398,46.87581861,Mittelhäusern,Hubel
+90,Guggisberg_Willmesacher,present,Abies alba (Silver fir),Switzerland,BE,1042,7.321559545,46.76777799,Guggisberg,Willmesacher
+91,Tafers_Rohrholz,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,712.9,7.23894474,46.81907143,Tafers,Rohrholz
+92,Düdingen_Unter St. Wolfgangholz beech,nest gone,Fagus sylvatica (Beech),Switzerland,FR,616,7.177925979,46.83393427,Düdingen,Unter St. Wolfgangholz beech
+93,Tentlingen_Lottenacher,nest gone,Fagus sylvatica (Beech),Switzerland,FR,713,7.198680334,46.77718287,Tentlingen,Lottenacher
+94,Düdingen_Cholberehölzli,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,606.5,7.210565035,46.86445364,Düdingen,Cholberehölzli
+95,Oberschrot_Bärfeli,nest gone,Fraxinus sp (Ash),Switzerland,FR,935.4,7.260028826,46.74055848,Oberschrot,Bärfeli
+96,Tentlingen_Bärg,nest gone,Fagus sylvatica (Beech),Switzerland,FR,724.1,7.195512314,46.77414468,Tentlingen,Bärg
+97,Wünnewil_Nussbaumen,nest gone,NA,Switzerland,FR,573.6,7.278564063,46.88710288,Wünnewil,Nussbaumen
+98,Alterswil_Chleholz picea,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,880.8,7.288978281,46.78531669,Alterswil,Chleholz picea
+99,Schmitten_Betlehemholz,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,663.6,7.232495864,46.85698437,Schmitten,Betlehemholz
+100,Oberschrot_Sali_15,nest gone,Quercus robur (English Oak),Switzerland,FR,922.6,7.267488357,46.74019217,Oberschrot,Sali
+101,Brünisried_Weidli,nest gone,Larix decidua (larch),Switzerland,FR,877.7,7.270292119,46.76403431,Brünisried,Weidli
+102,Plaffeien_Mülleren,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,836.4,7.299954264,46.73411963,Plaffeien,Mülleren
+103,Tafers_Brunnenbergrain,nest gone,Abies alba (Silver fir),Switzerland,FR,718.5,7.225334569,46.81127469,Tafers,Brunnenbergrain
+104,Bourguillon_Tannholz,nest gone,Fagus sylvatica (Beech),Switzerland,FR,696.7,7.194334206,46.79996805,Bourguillon,Tannholz
+105,Schmitten_Lanthenholz old,tree gone,Abies alba (Silver fir),Switzerland,FR,698.9,7.24987369,46.83758459,Schmitten,Lanthenholz old
+106,Wünnewil_Staffels S,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,623.4,7.260342192,46.87847626,Wünnewil,Staffels S
+107,Erlenbach_football,nest gone,Fagus sylvatica (Beech),Switzerland,BE,675.2,7.562862307,46.65976372,Erlenbach,football
+108,Sangernboden_Spittelwald,nest gone,Abies alba (Silver fir),Switzerland,BE,1012.2,7.33899486,46.7130124,Sangernboden,Spittelwald
+109,Brünisried_Berghölzli,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,939,7.283419109,46.75145941,Brünisried,Berghölzli
+110,Villarsel_Nesslera,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,670,7.187506399,46.76145267,Villarsel,Nesslera
+111,Fribourg_Ste Croix,nest gone,Fagus sylvatica (Beech),Switzerland,FR,612.2,7.155922034,46.79842181,Fribourg,Ste Croix
+112,Schwarzenburg_Waldgasse,nest gone,Abies alba (Silver fir),Switzerland,BE,855.9,7.32769638,46.80706709,Schwarzenburg,Waldgasse
+113,Schmitten_Betlehem,nest gone,Quercus robur (English Oak),Switzerland,FR,652.1,7.227666103,46.85137142,Schmitten,Betlehem
+114,Wünnewil_Golf,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,582.8,7.297159287,46.87589243,Wünnewil,Golf
+115,Agriswil_Chriegsmatt,NA,Fagus sylvatica (Beech),Switzerland,FR,472,7.209255854,46.955771,Agriswil,Chriegsmatt
+116,Alterswil_Seliholz tree row,present,Quercus robur (English Oak),Switzerland,FR,711.8,7.255796513,46.80949104,Alterswil,Seliholz tree row
+117,Alterswil_Baletswil lower,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,767.4,7.245100124,46.78014096,Alterswil,Baletswil lower
+118,Villarsel_Commanderie,nest gone,Fagus sylvatica (Beech),Switzerland,FR,701.8,7.177933377,46.76233066,Villarsel,Commanderie
+119,Bösingen_Noflenau picea,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,534.2,7.263693963,46.89250513,Bösingen,Noflenau picea
+120,Alterswil_Rüti,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,805.9,7.26534377,46.77621568,Alterswil,Rüti
+121,St. Sylvester_Unterbuech N,nest gone,Fagus sylvatica (Beech),Switzerland,FR,727.8,7.201855483,46.75495276,St. Sylvester,Unterbuech N
+122,Alterswil_Wolperswil,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,737.9,7.249020516,46.78238744,Alterswil,Wolperswil
+123,Brünisried_Obere Weier,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,896.2,7.27908733,46.75139943,Brünisried,Obere Weier
+124,Plaffeien_Hohliebi,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,908.2,7.283011575,46.7295639,Plaffeien,Hohliebi
+125,Schmitten_Ober Zirkels,nest gone,Quercus robur (English Oak),Switzerland,FR,631.3,7.270773673,46.85684042,Schmitten,Ober Zirkels
+126,Giffers_Moosmatta beech,nest gone,Fagus sylvatica (Beech),Switzerland,FR,840.8,7.230285942,46.75221282,Giffers,Moosmatta beech
+127,Düdingen_St.Wolgangholz S,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,650.2,7.179250216,46.83114872,Düdingen,St.Wolgangholz S
+128,St. Ursen_Tasberg,tree gone,Fagus sylvatica (Beech),Switzerland,FR,675.5,7.200388207,46.79359414,St. Ursen,Tasberg
+129,Granges-Paccots_Foire,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,567,7.153966117,46.82883945,Granges-Paccots,Foire
+130,Märstetten_Neuburg,NA,Fagus sylvatica (Beech),Switzerland,TG,484.6,9.095033132,47.59980514,Märstetten,Neuburg
+131,Flamatt_Zehnthus,tree gone,Fraxinus sp (Ash),Switzerland,FR,600.3,7.28554309,46.8874813,Flamatt,Zehnthus
+132,Cordast_Fineta,nest gone,Fagus sylvatica (Beech),Switzerland,FR,650.7,7.148323581,46.86641691,Cordast,Fineta
+133,Flamatt_Vorschalta,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,593.9,7.341776354,46.88836179,Flamatt,Vorschalta
+134,Ueberstorf_Hundsflueh,present,Fagus sylvatica (Beech),Switzerland,FR,644.4,7.349573021,46.87878822,Ueberstorf,Hundsflueh
+135,Ueberstorf_Cholholz,active_24,Fagus sylvatica (Beech),Switzerland,FR,611.8,7.351047101,46.8758659,Ueberstorf,Cholholz
+136,Ueberstorf_Ufem Burst,active_24,Fagus sylvatica (Beech),Switzerland,FR,704.3,7.347685592,46.87016023,Ueberstorf,Ufem Burst
+137,Albligen_Walismatt,tree gone,Picea abies (Norwegian Spruce),Switzerland,BE,704.9,7.318284036,46.84454114,Albligen,Walismatt
+138,Ueberstorf_Ledeu spruce,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,657.7,7.298711853,46.85909112,Ueberstorf,Ledeu spruce
+139,Schmitten_Bunziwil S,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,606.7,7.26395664,46.85629043,Schmitten,Bunziwil S
+140,Ependes_Ependes,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,696.8,7.149559304,46.75888876,Ependes,Ependes
+141,Villarsel_N,nest gone,Fagus sylvatica (Beech),Switzerland,FR,706,7.174667371,46.76366345,Villarsel,N
+142,Ackenmatt_Mühle,tree gone,Abies alba (Silver fir),Switzerland,BE,702.7,7.35887509,46.85185423,Ackenmatt,Mühle
+143,Kriessbaumen_Pfadflüeh,nest gone,Abies alba (Silver fir),Switzerland,BE,936.5,7.340185498,46.78368164,Kriessbaumen,Pfadflüeh
+144,Milken_Pt. 961,present,Abies alba (Silver fir),Switzerland,BE,956.3,7.360833071,46.79517587,Milken,Pt. 961
+145,Schmitten_Ettelberg power line,nest gone,Fagus sylvatica (Beech),Switzerland,FR,663.3,7.267368645,46.85137517,Schmitten,Ettelberg power line
+146,Niedermuhlern_Schür center,NA,Picea abies (Norwegian Spruce),Switzerland,BE,865.2,7.465810933,46.86906975,Niedermuhlern,Schür center
+147,Tentlingen_Vieille Rossmatta N,nest gone,Fagus sylvatica (Beech),Switzerland,FR,693.5,7.177738988,46.7673137,Tentlingen,Vieille Rossmatta N
+148,Plasselb_Allmet,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,892,7.255487313,46.72937886,Plasselb,Allmet
+149,Bösingen_Gertholz,tree gone,Pinus sylvestris (Scots pine),Switzerland,FR,569.6,7.247022421,46.89074218,Bösingen,Gertholz
+150,St. Antoni_Lampertshalten,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,755,7.259114876,46.81812458,St. Antoni,Lampertshalten
+151,Heitenried_Schürgraben,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,697.4,7.284124821,46.84708143,Heitenried,Schürgraben
+152,Düdingen_Balliswil,nest gone,Fagus sylvatica (Beech),Switzerland,FR,616.9,7.17338083,46.82534216,Düdingen,Balliswil
+153,Neuenegg_Brüggli,nest gone,Pinus sylvestris (Scots pine),Switzerland,BE,589.8,7.30294528,46.90128417,Neuenegg,Brüggli
+154,Schmitten_Fillistorf,nest gone,Fagus sylvatica (Beech),Switzerland,FR,627.4,7.235590122,46.86056108,Schmitten,Fillistorf
+155,St. Antoni_Steinberg,nest gone,Fagus sylvatica (Beech),Switzerland,FR,863.9,7.278642879,46.81695739,St. Antoni,Steinberg
+156,Ueberstorf_Oberholzwald,nest gone,Pinus strobus (Weymouth pine),Switzerland,FR,777.1,7.340953315,46.85781306,Ueberstorf,Oberholzwald
+157,Lanzenhäusern_Finel,tree gone,Abies alba (Silver fir),Switzerland,BE,703.3,7.348308626,46.85083881,Lanzenhäusern,Finel
+158,Rechthalten_Moosholz,nest gone,Larix decidua (larch),Switzerland,FR,885.5,7.247137692,46.75959883,Rechthalten,Moosholz
+159,Düdingen_Meierisli,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,582,7.175034119,46.84359764,Düdingen,Meierisli
+160,Guggisberg_Underbalm,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,1038.4,7.341254278,46.75774877,Guggisberg,Underbalm
+161,Liebistorf_Längeberg,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,571.2,7.189271256,46.91127456,Liebistorf,Längeberg
+162,Kalchstätten_Chlyni Heid,nest gone,Abies alba (Silver fir),Switzerland,BE,933.7,7.305466407,46.77980508,Kalchstätten,Chlyni Heid
+163,Riedstätt_Mittlisried,active,Abies alba (Silver fir),Switzerland,BE,998.4,7.320382403,46.77911999,Riedstätt,Mittlisried
+164,Milken_Milkeholz,nest gone,Abies alba (Silver fir),Switzerland,BE,898.2,7.354639171,46.79422692,Milken,Milkeholz
+165,Milken_Halten,nest gone,Abies alba (Silver fir),Switzerland,BE,913.8,7.364115363,46.78978241,Milken,Halten
+166,Zumholz_Brand edge,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,827.5,7.290112454,46.75886264,Zumholz,Brand edge
+167,Bundtels_Galmisberg,nest gone,Fagus sylvatica (Beech),Switzerland,FR,649,7.216609939,46.8615601,Bundtels,Galmisberg
+168,Bösingen_Fendringen,present,Pinus sylvestris (Scots pine),Switzerland,FR,614.3,7.234580371,46.88119454,Bösingen,Fendringen
+169,Litzistorf_Ulmus,nest gone,Ulmus sp,Switzerland,FR,570.9,7.225590217,46.87550202,Litzistorf,Ulmus
+170,Tafers_Rohr,active_24,Abies alba (Silver fir),Switzerland,FR,720.4,7.237841744,46.82317138,Tafers,Rohr
+171,Riffenmatt_Büel,nest gone,Abies alba (Silver fir),Switzerland,BE,1106.2,7.358892093,46.78062909,Riffenmatt,Büel
+172,Zollhaus_Martisgräbli,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,961.2,7.30441765,46.72288966,Zollhaus,Martisgräbli
+173,Brünisried_Brügi,nest gone,Populus sp (Poplar),Switzerland,FR,849.1,7.267820641,46.76731395,Brünisried,Brügi
+174,Alterswil_Punt,nest gone,Quercus robur (English Oak),Switzerland,FR,783.4,7.28263976,46.78987782,Alterswil,Punt
+175,Ueberstorf_Banholz center,present,Fagus sylvatica (Beech),Switzerland,FR,673.3,7.297303841,46.86588084,Ueberstorf,Banholz center
+176,Schwarzenburg_Chilchermatt,tree gone,Picea abies (Norwegian Spruce),Switzerland,BE,872.9,7.35382919,46.80936554,Schwarzenburg,Chilchermatt
+177,St. Antoni_Guglenberg,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,775.5,7.261900708,46.81177821,St. Antoni,Guglenberg
+178,Onnens_16,NA,Picea abies (Norwegian Spruce),Switzerland,FR,711,7.036829361,46.7804506,Onnens,NA
+179,Ependes_Ependes W,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,695.9,7.148983332,46.75889629,Ependes,Ependes W
+180,Villarsel_very N,present,Fagus sylvatica (Beech),Switzerland,FR,700.2,7.17410125,46.7643188,Villarsel,very N
+181,Brünisried_Haltli,nest gone,Fraxinus sp (Ash),Switzerland,FR,899.6,7.278043016,46.7548702,Brünisried,Haltli
+182,Oberschrot_Sali,present,Picea abies (Norwegian Spruce),Switzerland,FR,907.2,7.268100246,46.7411646,Oberschrot,Sali
+183,Riffenmatt_Schlüchtli,nest gone,Fagus sylvatica (Beech),Switzerland,BE,1041.2,7.358644001,46.77015813,Riffenmatt,Schlüchtli
+184,St. Antoni_Balbertsmatt,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,778.5,7.29727546,46.80722214,St. Antoni,Balbertsmatt
+185,Kalchstätten_Lade,nest gone,Abies alba (Silver fir),Switzerland,BE,885.6,7.308135694,46.7820988,Kalchstätten,Lade
+186,St. Ursen_Röschiwil N,present,Fagus sylvatica (Beech),Switzerland,FR,766.9,7.218366713,46.77561255,St. Ursen,Röschiwil N
+187,St. Sylvester_Flüeli,nest gone,Fagus sylvatica (Beech),Switzerland,FR,827.2,7.229777304,46.7403899,St. Sylvester,Flüeli
+188,Plasselb_March,nest gone,Fagus sylvatica (Beech),Switzerland,FR,902.6,7.243662099,46.73989286,Plasselb,March
+189,Noréaz_Noréaz_16,NA,Fagus sylvatica (Beech),Switzerland,FR,608.4,7.024463365,46.81332985,Noréaz,Noréaz
+190,Corserey_Vuettes fraxinus,NA,Fraxinus sp (Ash),Switzerland,FR,660.3,6.981637714,46.77091409,Corserey,Vuettes fraxinus
+191,Niedermuhlern_Schür picea,NA,Picea abies (Norwegian Spruce),Switzerland,BE,863.8,7.46550925,46.86904283,Niedermuhlern,Schür picea
+192,St. Ursen_Neumatt,tree gone,Abies alba (Silver fir),Switzerland,FR,645.9,7.213271597,46.80096967,St. Ursen,Neumatt
+193,Bourguillon_Gottéron,active,Fagus sylvatica (Beech),Switzerland,FR,644.7,7.188624322,46.80247436,Bourguillon,Gottéron
+194,Alterswil_Seliholz edge,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,756.2,7.251899433,46.80926149,Alterswil,Seliholz edge
+195,Kalchstätten_Birche,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,867.1,7.300917942,46.7765523,Kalchstätten,Birche
+196,Flamatt_Türrisgraben,nest gone,Fagus sylvatica (Beech),Switzerland,FR,611.7,7.310789789,46.88089199,Flamatt,Türrisgraben
+197,Ueberstorf_Guldifeld,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,659.2,7.321451966,46.87654079,Ueberstorf,Guldifeld
+198,St. Antoni_Menzishus top,nest gone,Abies alba (Silver fir),Switzerland,FR,715.2,7.270339792,46.83396419,St. Antoni,Menzishus top
+199,Corserey_N larix,nest gone,Larix decidua (larch),Switzerland,FR,645.9,6.981405002,46.77672429,Corserey,N larix
+200,Alterswil_Äschlenberg 16,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,757.3,7.262918314,46.785162390000004,Alterswil,Äschlenberg 16
+201,Alterswil_Wolgiswil spruce,tree gone,Abies alba (Silver fir),Switzerland,FR,719.5,7.237087773,46.79368313,Alterswil,Wolgiswil spruce
+202,Bulle_Clos aux Cerfs,NA,Picea abies (Norwegian Spruce),Switzerland,FR,713.3,7.071742201,46.59602401,Bulle,Clos aux Cerfs
+203,Bulle_La Perause,nest gone,Larix decidua (larch),Switzerland,FR,861.8,7.031877525,46.60254489,Bulle,La Perause
+204,Bulle_Mollenchins,nest gone,Abies alba (Silver fir),Switzerland,FR,908.8,7.010019452,46.60376883,Bulle,Mollenchins
+205,Düdingen_Tiefmoos,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,581.7,7.166029218,46.84069792,Düdingen,Tiefmoos
+206,Düdingen_Unter St. Wolfgangholz,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,649.9,7.179250433,46.83110374,Düdingen,Unter St. Wolfgangholz
+207,Giffers_Obertswil,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,766.5,7.220428222,46.77095688,Giffers,Obertswil
+208,Guggisberg_Brannele,nest gone,Abies alba (Silver fir),Switzerland,BE,1067.1,7.319587732,46.76553607,Guggisberg,Brannele
+209,Heitenried_Hinter Schönfels,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,786.8,7.318561661,46.831858,Heitenried,Hinter Schönfels
+210,Kalchstätten_Kalchstätten,present,Picea abies (Norwegian Spruce),Switzerland,BE,997.4,7.314249279,46.77565918,Kalchstätten,Kalchstätten
+211,Mamishaus_Hausmattweid spruce,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,863.8,7.363654399,46.81003815,Mamishaus,Hausmattweid spruce
+212,Riffenmatt_Dorfmatte,present,Abies alba (Silver fir),Switzerland,BE,945.3,7.337853333,46.78431825,Riffenmatt,Dorfmatte
+213,Sales_Pra Barlatey,NA,Picea abies (Norwegian Spruce),Switzerland,FR,824.8,6.955388598,46.62657845,Sales,Pra Barlatey
+214,Schwarzenburg_Zälg,tree gone,Abies alba (Silver fir),Switzerland,BE,856.7,7.356954297,46.81337978,Schwarzenburg,Zälg
+215,St. Antoni_Bächlisbrunnen 16,nest gone,Abies alba (Silver fir),Switzerland,FR,783.8,7.266397111,46.81918832,St. Antoni,Bächlisbrunnen 16
+216,St. Antoni_Ufem Berg,tree gone,Abies alba (Silver fir),Switzerland,FR,713.3,7.26972362,46.83224559,St. Antoni,Ufem Berg
+217,Tafers_Brunnenberg,present,Abies alba (Silver fir),Switzerland,FR,735.1,7.240371924,46.8123004,Tafers,Brunnenberg
+218,Tentlingen_ Vieille Rossmatta power line,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,701.5,7.181393599,46.76687226,Tentlingen, Vieille Rossmatta power line
+219,Ueberstorf_Summerau new nest,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,778.8,7.329268572,46.85178451,Ueberstorf,Summerau new nest
+220,Villarsel_new nest,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,701.5,7.176426794,46.76257907,Villarsel,new nest
+221,Chavannes-sous-Orsonnens_La Pâle,NA,Picea abies (Norwegian Spruce),Switzerland,FR,651.4,6.992201094,46.72230788,Chavannes-sous-Orsonnens,La Pâle
+222,Wünnewil_Mülital,nest gone,Abies alba (Silver fir),Switzerland,FR,637.5,7.270855663,46.86414474,Wünnewil,Mülital
+223,Alterswil_Rüti 16,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,808,7.265893839,46.77617154,Alterswil,Rüti 16
+224,Sangernboden_underi Burg,nest gone,Abies alba (Silver fir),Switzerland,BE,1099.5,7.355247137,46.71547236,Sangernboden,underi Burg
+225,St. Ursen_Stöckholz,nest gone,Abies alba (Silver fir),Switzerland,FR,768,7.226351301,46.78613441,St. Ursen,Stöckholz
+226,Le Mouret_Essert,present,Fagus sylvatica (Beech),Switzerland,FR,876,7.15410059,46.7410185,Le Mouret,Essert
+227,Farvagny_Fôret de Montbau,NA,Abies alba (Silver fir),Switzerland,FR,801.5,7.057909373,46.71611497,Farvagny,Fôret de Montbau
+228,Treyvaux_Kiesgrube,NA,Fagus sylvatica (Beech),Switzerland,FR,741,7.1227639720000004,46.72796288,Treyvaux,Kiesgrube
+229,Ueberstorf_Banholz edge,nest gone,Fagus sylvatica (Beech),Switzerland,FR,649.5,7.296380333,46.86792162,Ueberstorf,Banholz edge
+230,Altavilla_N,NA,Picea abies (Norwegian Spruce),Switzerland,FR,525,7.146423392,46.93349008,Altavilla,N
+231,Schmitten Bunziwil Fraxinus,tree gone,Fraxinus sp (Ash),Switzerland,FR,643.6,7.263684269,46.85537249,Schmitten Bunziwil Fraxinus,NA
+232,St.Sylvester_Unterbbuech NEW,tree gone,Fagus sylvatica (Beech),Switzerland,FR,714.9,7.202379568,46.75482791,St.Sylvester,Unterbbuech NEW
+237,Riedstätt_Eigen,nest gone,Abies alba (Silver fir),Switzerland,BE,864.6,7.326577228,46.79263656,Riedstätt,Eigen
+238,Bösingen_Grenchen,nest gone,Fagus sylvatica (Beech),Switzerland,FR,569.6,7.251675079,46.8892441,Bösingen,Grenchen
+239,Schwarzenburg_Schönentannen,nest gone,Abies alba (Silver fir),Switzerland,BE,759.5,7.362030209,46.82357026,Schwarzenburg,Schönentannen
+240,Plaffeien_Hohliebi_17,nest gone,Abies alba (Silver fir),Switzerland,FR,951.9,7.286905108,46.72392346,Plaffeien,Hohliebi
+241,Wünnewil_Staffels_17,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,564.5,7.267515313,46.88486638,Wünnewil,Staffels
+242,Kalchstätten_Kirchhalten,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,1078.6,7.319837401,46.77256219,Kalchstätten,Kirchhalten
+243,Guggisberg_Laubbachgraben,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,860.8,7.315997395,46.75268374,Guggisberg,Laubbachgraben
+245,Kalchstätten_Herrenmatt_17,nest gone,Quercus robur (English Oak),Switzerland,BE,838,7.300974315,46.76434444,Kalchstätten,Herrenmatt
+246,Guggisberg_Muelere,nest gone,Fraxinus sp (Ash),Switzerland,BE,1083,7.328072631,46.76850856,Guggisberg,Muelere
+247,Bösingen_Frieseneit,nest gone,Quercus robur (English Oak),Switzerland,FR,623.8,7.240373733,46.87117398,Bösingen,Frieseneit
+248,Düdingen_Tiefmoos_17,nest gone,Fagus sylvatica (Beech),Switzerland,FR,578.6,7.165984832,46.84083829,Düdingen,Tiefmoos
+249,Ueberstorf_Mischlere_beech ,present,Fagus sylvatica (Beech),Switzerland,FR,709.6,7.302329116,46.85224274,Ueberstorf,Mischlere
+250,Ueberstorf_Wolfgraben,nest gone,Quercus robur (English Oak),Switzerland,FR,604.4,7.308344688,46.87601238,Ueberstorf,Wolfgraben
+251,St. Ursen_Neumatt_17,nest gone,Abies alba (Silver fir),Switzerland,FR,657.1,7.213414075,46.80115264,St. Ursen,Neumatt
+252,Riedstätt_Mittlisried_17,nest gone,Abies alba (Silver fir),Switzerland,BE,998.6,7.321146258,46.77937515,Riedstätt,Mittlisried
+253,Rechthalten_Moosholz_17,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,880,7.246589153,46.75947285,Rechthalten,Moosholz
+254,Liebistorf_Allmend_17,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,526,7.192176567,46.91628152,Liebistorf,Allmend
+255,Schmitten_Fillistorf_17,present,Fagus sylvatica (Beech),Switzerland,FR,635.8,7.235591867,46.86019462,Schmitten,Fillistorf
+256,Le Mouret_Zenauva,nest gone,Fraxinus sp (Ash),Switzerland,FR,791.2,7.179941599,46.734669770000004,Le Mouret,Zenauva
+257,St. Sylvester_Tschüpru_17,nest gone,Quercus robur (English Oak),Switzerland,FR,778.2,7.217085642,46.74725209,St. Sylvester,Tschüpru
+258,Düdingen_Balliswil_lower,nest gone,Fagus sylvatica (Beech),Switzerland,FR,608.2,7.172960507,46.825298600000004,Düdingen,Balliswil
+259,Cordast_Bulliardholz,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,644.2,7.157726066,46.877457389999996,Cordast,Bulliardholz
+260,Kleingurmels_Under Gruenenburg,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,547.3,7.198276255,46.88634818,Kleingurmels,Under Gruenenburg
+261,Wünnewil_Golf_17,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,588.4,7.295199935,46.87494482,Wünnewil,Golf
+262,Wünnewil_Zehnthus_17,nest gone,Fraxinus sp (Ash),Switzerland,FR,577,7.286374877,46.88896786,Wünnewil,Zehnthus
+263,Marly_Bois_des_Rittes,nest gone,Fagus sylvatica (Beech),Switzerland,FR,635.4,7.160510359,46.78453154,Marly,Bois
+264,Marly_Le_Claru,nest gone,Quercus robur (English Oak),Switzerland,FR,683.1,7.16940323,46.7837184,Marly,Le
+265,Ueberstorf_Cholholz_17,nest gone,Fagus sylvatica (Beech),Switzerland,FR,671.1,7.348154518,46.87398062,Ueberstorf,Cholholz
+266,Düdingen_Räsch,nest gone,Quercus robur (English Oak),Switzerland,FR,582.8,7.162893574,46.83754351,Düdingen,Räsch
+267,Schwarzenburg_Zälg_17,nest gone,Abies alba (Silver fir),Switzerland,BE,857.2,7.355883466,46.81263562,Schwarzenburg,Zälg
+268,Bourguillon_Bürglenholz,nest gone,Abies alba (Silver fir),Switzerland,FR,680.9,7.185547622,46.80124531,Bourguillon,Bürglenholz
+269,Pierrafortscha_Brünisberg,nest gone,Quercus robur (English Oak),Switzerland,FR,720,7.188133193,46.79344113,Pierrafortscha,Brünisberg
+270,Marly_Les_Fontanettes,nest gone,Fagus sylvatica (Beech),Switzerland,FR,674.7,7.157756215,46.76911408,Marly,Les
+271,Villarsel_Nesslerabach,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,688.2,7.189959627,46.75962768,Villarsel,Nesslerabach
+272,Rechthalten_Saga,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,891.4,7.255636597,46.76135207,Rechthalten,Saga
+273,Alterswil_Weiermattenmoos_17,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,806.9,7.285095015,46.7942133,Alterswil,Weiermattenmoos
+274,Schwarzenburg_Kehr,tree gone,Fagus sylvatica (Beech),Switzerland,BE,838,7.360539754,46.81815767,Schwarzenburg,Kehr
+275,Heitenried_Hinter Schönfels_17,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,786.9,7.318523784,46.83161865,Heitenried,Hinter Schönfels
+276,Tafers_Brunnenberg_farm,present,Abies alba (Silver fir),Switzerland,FR,734.7,7.24400391,46.81385992,Tafers,Brunnenberg
+277,St. Antoni_Bächlisbrunnen_17,present,Picea abies (Norwegian Spruce),Switzerland,FR,749.8,7.266370978,46.82032029,St. Antoni,Bächlisbrunnen
+278,Alterswil_Tolgli_17,nest gone,Abies alba (Silver fir),Switzerland,FR,749.3,7.24975646,46.79985091,Alterswil,Tolgli
+279,Alterswil_Punt_17,nest gone,Fraxinus sp (Ash),Switzerland,FR,781.6,7.28127862,46.78878563,Alterswil,Punt
+280,Brünisried_Grabersland,nest gone,Quercus robur (English Oak),Switzerland,FR,919.7,7.275853415,46.75917127,Brünisried,Grabersland
+281,Heitenried_Schinelhus,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,790.1,7.302216957,46.8157963,Heitenried,Schinelhus
+282,Giffers_Moosmatta_17,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,847,7.23008058,46.75241598,Giffers,Moosmatta
+283,Fribourg_Grandfey,tree gone,Fagus sylvatica (Beech),Switzerland,FR,556.7,7.16948822,46.8234426,Fribourg,Grandfey
+284,St. Sylvester_Matta,nest gone,Fagus sylvatica (Beech),Switzerland,FR,761.2,7.214893832,46.74837021,St. Sylvester,Matta
+285,Tentlingen_Vieille_Rossmatta_17,nest gone,Fagus sylvatica (Beech),Switzerland,FR,677.4,7.176514843,46.76758321,Tentlingen,Vieille
+286,Flamatt_Eichholz,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,624.2,7.343025673,46.90418783,Flamatt,Eichholz
+287,Milken_Kriesbaumen,active,Abies alba (Silver fir),Switzerland,BE,922.7,7.34576797,46.78295263,Milken,Kriesbaumen
+288,Riffenmatt_Chrache,nest gone,Abies alba (Silver fir),Switzerland,BE,1053.2,7.353274741,46.78055041,Riffenmatt,Chrache
+289,Fillistorf_Friseneithubel,nest gone,Fraxinus sp (Ash),Switzerland,FR,626.7,7.229080546,46.86461394,Fillistorf,Friseneithubel
+290,Düdingen_Galmis,nest gone,Quercus robur (English Oak),Switzerland,FR,625.1,7.209464949,46.85936275,Düdingen,Galmis
+291,Rüschegg_Gambach,nest gone,Fagus sylvatica (Beech),Switzerland,BE,958.2,7.370437873,46.77719478,Rüschegg,Gambach
+292,Riffenmatt_Schluechtli_17,nest gone,Quercus robur (English Oak),Switzerland,BE,1051.5,7.357643333,46.7712362,Riffenmatt,Schluechtli
+293,Ueberstorf_Niedermettlen_17,nest gone,Fagus sylvatica (Beech),Switzerland,FR,671.7,7.325438969,46.86903,Ueberstorf,Niedermettlen
+294,Ueberstorf_Hundsflueh_17,present,Fagus sylvatica (Beech),Switzerland,FR,654.2,7.349235076,46.87918878,Ueberstorf,Hundsflueh
+295,Zumholz_Brand_17,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,825.4,7.288776073,46.75884399,Zumholz,Brand
+296,Ueberstorf_Oberholzwald_17,nest gone,Fagus sylvatica (Beech),Switzerland,FR,765.5,7.341523583,46.8575574,Ueberstorf,Oberholzwald
+297,Lanzenhäusern_Buttnigen,nest gone,Abies alba (Silver fir),Switzerland,BE,630.3,7.372929301,46.83887402,Lanzenhäusern,Buttnigen
+298,Schmitten_Lanthen_oak,nest gone,Quercus robur (English Oak),Switzerland,FR,635,7.255037061,46.84685639,Schmitten,Lanthen
+299,Schmitten_Bunziwil_beehive,nest gone,Fagus sylvatica (Beech),Switzerland,FR,640.9,7.263354983,46.85510491,Schmitten,Bunziwil
+300,Schmitten_Bunziwil_corner,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,635.7,7.265079868,46.85486465,Schmitten,Bunziwil
+301,Schwarzenburg_Chilchermatt_17,tree gone,Abies alba (Silver fir),Switzerland,BE,837.5,7.354136756,46.80995482,Schwarzenburg,Chilchermatt
+302,Mamishaus_Dunti_17,nest gone,Abies alba (Silver fir),Switzerland,BE,846.4,7.370359134,46.80928593,Mamishaus,Dunti
+303,Flamatt_Sensebrücke,nest gone,Fagus sylvatica (Beech),Switzerland,FR,554.3,7.294067042,46.89179437,Flamatt,Sensebrücke
+304,Ueberstorf_Mischlere_17,present,Fagus sylvatica (Beech),Switzerland,FR,691,7.302263148,46.85263248,Ueberstorf,Mischlere
+305,Ueberstorf_Ledeu_17,nest gone,Fagus sylvatica (Beech),Switzerland,FR,638.8,7.298363992,46.85948401,Ueberstorf,Ledeu
+306,Heitenried_Lengmoos,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,729.9,7.297881583,46.83715444,Heitenried,Lengmoos
+307,Bösingen_Waldheim_N,present,Fagus sylvatica (Beech),Switzerland,FR,519.7,7.258055972,46.89382191,Bösingen,Waldheim
+308,Alterswil_Aeschlenberg_17,nest gone,Fagus sylvatica (Beech),Switzerland,FR,749.6,7.261138652,46.78945828,Alterswil,Aeschlenberg
+309,Düdingen_Chiemiwald,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,581.7,7.168568553,46.83967848,Düdingen,Chiemiwald
+310,Schmitten_Hohi Zelg,nest gone,Fagus sylvatica (Beech),Switzerland,FR,679.3,7.231458935,46.83317743,Schmitten,Hohi Zelg
+311,Mamishaus_Rümlisberg_17,nest gone,Abies alba (Silver fir),Switzerland,BE,868.6,7.371085026,46.80432995,Mamishaus,Rümlisberg
+312,Mamishaus_Lehn,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,793.3,7.379093469,46.80783135,Mamishaus,Lehn
+313,Schmitten_Lanthenholz_17,active,Abies alba (Silver fir),Switzerland,FR,690.8,7.248476836,46.84286489,Schmitten,Lanthenholz
+314,Rüschegg_Bärenwart,NA,Fagus sylvatica (Beech),Switzerland,BE,871.4,7.38325604,46.78524662,Rüschegg,Bärenwart
+315,Riggisberg_Oberi Holzweid,nest gone,Fraxinus sp (Ash),Switzerland,BE,780.5,7.438937596,46.81352132,Riggisberg,Oberi Holzweid
+316,Heitenried_Tannenholz,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,697.6,7.286790735,46.82960885,Heitenried,Tannenholz
+317,Fribourg_Ste.Croix_17,nest gone,Fagus sylvatica (Beech),Switzerland,FR,604.1,7.156621669,46.79831478,Fribourg,Ste.Croix
+318,Heitenried_Tannenholz_W,nest gone,Fagus sylvatica (Beech),Switzerland,FR,720.6,7.284094995,46.82817942,Heitenried,Tannenholz
+319,Bösingen_Gertholz_17,nest gone,Fagus sylvatica (Beech),Switzerland,FR,557,7.248259172,46.8913078,Bösingen,Gertholz
+320,Flamatt_Zehnthus_E,nest gone,Fraxinus sp (Ash),Switzerland,FR,592.8,7.287944219,46.88883473,Flamatt,Zehnthus
+321,Guggisberg_Willmesacher_17,nest gone,Abies alba (Silver fir),Switzerland,BE,978.3,7.320369513,46.76945781,Guggisberg,Willmesacher
+322,Flamatt_railroad,active,Fagus sylvatica (Beech),Switzerland,FR,581.7,7.31408181,46.88812907,Flamatt,railroad
+323,Schwarzenburg_Chilchermatt_S,tree gone,Abies alba (Silver fir),Switzerland,BE,872,7.353307137,46.80914915,Schwarzenburg,Chilchermatt
+324,St. Antoni_Stockera,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,836.4,7.274180895,46.80577685,St. Antoni,Stockera
+325,Kalchstätten_Chlyni Heid_17,active,Abies alba (Silver fir),Switzerland,BE,933.4,7.305857159,46.78024528,Kalchstätten,Chlyni Heid
+326,Guggisberg_Underbalm_17,nest gone,Abies alba (Silver fir),Switzerland,BE,1035.7,7.344300061,46.75098763,Guggisberg,Underbalm
+327,Mamishaus_Hausmattweid_17,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,867.5,7.36355661,46.80985509,Mamishaus,Hausmattweid
+328,Mamishaus_Hintermutten,nest gone,Abies alba (Silver fir),Switzerland,BE,828.9,7.367567195,46.81047696,Mamishaus,Hintermutten
+329,Lanzenhäusern_Finel_17,nest gone,Abies alba (Silver fir),Switzerland,BE,721.8,7.348172715,46.85043977,Lanzenhäusern,Finel
+330,Elisried_Höhi,present,Fagus sylvatica (Beech),Switzerland,BE,855,7.384056278,46.82160768,Elisried,Höhi
+331,Le Mouret_Praroman,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,721.6,7.190001756,46.75210971,Le Mouret,Praroman
+332,St. Antoni_Menzishus_W,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,659,7.260960624,46.83411427,St. Antoni,Menzishus
+333,Alterswil_Chleholz_17,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,870.1,7.286560791,46.78414821,Alterswil,Chleholz
+334,St. Sylvester_Chrachen,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,807.3,7.23538698,46.73595671,St. Sylvester,Chrachen
+335,Rechthalten_Sonnenberg,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,847.1,7.227557526,46.76054873,Rechthalten,Sonnenberg
+336,Alterswil_Baletswil_treeline,nest gone,Fraxinus sp (Ash),Switzerland,FR,793.1,7.242519178,46.781601,Alterswil,Baletswil
+337,Wünnewil_Nussbaumen_17,nest gone,Fagus sylvatica (Beech),Switzerland,FR,542.5,7.273036433,46.88906458,Wünnewil,Nussbaumen
+338,Giffers_Poplera,present,Fagus sylvatica (Beech),Switzerland,FR,706.7,7.20341537,46.76004402,Giffers,Poplera
+339,Villarsel_Nesslerabach_17,nest gone,Fagus sylvatica (Beech),Switzerland,FR,704.4,7.189557457,46.7595978,Villarsel,Nesslerabach
+340,Praroman_Chechin,nest gone,Fagus sylvatica (Beech),Switzerland,FR,685.5,7.18965018,46.75661659,Praroman,Chechin
+341,St. Sylvester_Gomma,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,780.3,7.20123835,46.74997227,St. Sylvester,Gomma
+342,Le Mouret_Montrévaz,nest gone,Fagus sylvatica (Beech),Switzerland,FR,840.2,7.178911218,46.72973607,Le Mouret,Montrévaz
+343,Schmitten_Lanthen_spruce,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,632.3,7.257263788,46.84721917,Schmitten,Lanthen
+344,Heitenried_Winterlingen_17,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,749.8,7.289983582,46.82442578,Heitenried,Winterlingen
+345,St. Antoni_Menzihus_E,nest gone,Abies alba (Silver fir),Switzerland,FR,717.2,7.273679376,46.83405312,St. Antoni,Menzihus
+346,Schwarzsee_Röhrli,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,1023.2,7.296550786,46.68419929,Schwarzsee,Röhrli
+347,Düdingen_St. Wolfgangholz_17,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,632.5,7.183730165,46.83229923,Düdingen,St. Wolfgangholz
+348,Milken_Milkeholz_17,nest gone,Abies alba (Silver fir),Switzerland,BE,870.9,7.352549838,46.79489074,Milken,Milkeholz
+349,Brünisried_Brüggla,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,830,7.276341272,46.77029111,Brünisried,Brüggla
+350,Tafers_Brunnenbergrain_17,nest gone,Abies alba (Silver fir),Switzerland,FR,716.5,7.222755183,46.81159459,Tafers,Brunnenbergrain
+351,Boltigen_Steiniwald,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,883.6,7.3811662,46.62584514,Boltigen,Steiniwald
+352,Pierrafortscha_Bois de Morvin_17,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,764.5,7.191669225,46.78251454,Pierrafortscha,Bois de Morvin
+353,Guggisberg_Flöschachere,nest gone,Abies alba (Silver fir),Switzerland,BE,977.5,7.314826274,46.76398349,Guggisberg,Flöschachere
+354,Schwarzenburg_Gäu,present,Picea abies (Norwegian Spruce),Switzerland,BE,873.9,7.331311304,46.79939762,Schwarzenburg,Gäu
+355,Schwarzenburg_Eigen_17,nest gone,Abies alba (Silver fir),Switzerland,BE,891.7,7.32598161,46.79380773,Schwarzenburg,Eigen
+356,Schwarzenburg_Chilchermatt_W,nest gone,Abies alba (Silver fir),Switzerland,BE,836.1,7.351406602,46.81031548,Schwarzenburg,Chilchermatt
+357,Plaffeien_Jostrüti,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,909,7.289000824,46.72673014,Plaffeien,Jostrüti
+358,Oberschrot_Allmetsried,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,930.7,7.271863076,46.73119118,Oberschrot,Allmetsried
+359,Zumholz_treeline,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,896,7.28649682,46.75313689,Zumholz,treeline
+360,Brünisried_Grabersland_17,nest gone,Fagus sylvatica (Beech),Switzerland,FR,878.3,7.276409063,46.7571537,Brünisried,Grabersland
+361,Alterswil_Wolgiswil_17,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,720.2,7.236177159,46.7933015,Alterswil,Wolgiswil
+362,St. Antoni_Steinberg_17,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,813.3,7.282303185,46.81776017,St. Antoni,Steinberg
+363,Bösingen_Frieseneit_pinus,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,633.6,7.240327356,46.8729396,Bösingen,Frieseneit
+364,St. Sylvester_Goleta,nest gone,Fagus sylvatica (Beech),Switzerland,FR,742.1,7.204352383,46.75176025,St. Sylvester,Goleta
+365,Cordast_Grand_bois,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,620,7.158832062,46.86509934,Cordast,Grand
+366,Wünnewil_Mühle,nest gone,Quercus robur (English Oak),Switzerland,FR,577.9,7.288640827,46.87391258,Wünnewil,Mühle
+367,Guggisberg_Brannele_17,nest gone,Abies alba (Silver fir),Switzerland,BE,1070.1,7.320548764,46.76562207,Guggisberg,Brannele
+368,Aeckenmatt_Mühle_17,tree gone,Abies alba (Silver fir),Switzerland,BE,673.8,7.360870047,46.85385148,Aeckenmatt,Mühle
+369,Bösingen_Risau,present,Pinus sylvestris (Scots pine),Switzerland,BE,504.3,7.216284118,46.90258945,Bösingen,Risau
+370,Bösingen_Riederberg,nest gone,Quercus robur (English Oak),Switzerland,FR,554.9,7.220953637,46.87973565,Bösingen,Riederberg
+371,Rechthalten_Nümatt,nest gone,Quercus robur (English Oak),Switzerland,FR,812.2,7.227743079,46.76600672,Rechthalten,Nümatt
+372,Villarsel_17,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,690.9,7.174575391,46.76391193,Villarsel,NA
+373,Plaffeien_Jostrüti_17,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,886.7,7.288797497,46.7276622,Plaffeien,Jostrüti
+374,Rechthalten_Moosholz_W,present,Picea abies (Norwegian Spruce),Switzerland,FR,906,7.246778901,46.75836838,Rechthalten,Moosholz
+375,Bösingen_Bollholz,nest gone,Pseudotsuga menziesii (Douglas fir),Switzerland,BE,524.8,7.218880541,46.9037521,Bösingen,Bollholz
+376,Marly_Les_Fontanettes_17,present,Picea abies (Norwegian Spruce),Switzerland,FR,644.1,7.158493986,46.77001452,Marly,Les
+377,Le Mouret_Le Grâbo,nest gone,Quercus robur (English Oak),Switzerland,FR,734.7,7.186518589,46.74895807,Le Mouret,Le Grâbo
+378,Rüschegg_Gambach_W,nest gone,Fagus sylvatica (Beech),Switzerland,BE,965,7.369727775,46.77760584,Rüschegg,Gambach
+379,Tentlingen_Vieille Rossmatta_buzz,nest gone,Fagus sylvatica (Beech),Switzerland,FR,NA,7.177377286,46.76724116,Tentlingen,Vieille Rossmatta
+380,Alterswil_Kütt,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,745.5,7.271397099,46.78184757,Alterswil,Kütt
+381,Bourguillon_Gottéron_18,nest gone,Fagus sylvatica (Beech),Switzerland,FR,602.3,7.175466994,46.80202054,Bourguillon,Gottéron
+382,Bundtels_Galmisberg_18,nest gone,Fagus sylvatica (Beech),Switzerland,FR,624.3,7.220010725,46.86263988,Bundtels,Galmisberg
+383,Tentlingen_Bärg_18,present,Fagus sylvatica (Beech),Switzerland,FR,721.6,7.195605393,46.7747309,Tentlingen,Bärg
+384,Plaffeien_Vorsessli,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,840.3,7.299098524,46.72749704,Plaffeien,Vorsessli
+385,Brünisried_Brüggla_18,nest gone,Fraxinus sp (Ash),Switzerland,FR,809.5,7.277022793,46.77136392,Brünisried,Brüggla
+386,Gurmels_Kleinbösingen_18,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,520.2,7.204217275,46.88945115,Gurmels,Kleinbösingen
+387,Düdingen_Räsch_18,present,Fagus sylvatica (Beech),Switzerland,FR,554.6,7.158620403,46.83253666,Düdingen,Räsch
+388,Alterswil_Seliholz_18,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,734,7.251623459,46.81005174,Alterswil,Seliholz
+389,Flamatt_Sensebrücke_18,nest gone,Fagus sylvatica (Beech),Switzerland,FR,566,7.294458841,46.89152101,Flamatt,Sensebrücke
+390,St. Antoni_Ufem Berg_18,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,695.3,7.267475944,46.83209483,St. Antoni,Ufem Berg
+391,Ependes_Ependes_18,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,678,7.148109178,46.75981882,Ependes,Ependes
+392,Bösingen_Waldheim_18,present,Fagus sylvatica (Beech),Switzerland,FR,555.7,7.254147752,46.89253375,Bösingen,Waldheim
+393,Ueberstorf_Hundsflueh_18,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,624.2,7.348378711,46.88026364,Ueberstorf,Hundsflueh
+394,Aeckenmatt_Mühle_18,nest gone,Abies alba (Silver fir),Switzerland,BE,677.8,7.360884272,46.85343291,Aeckenmatt,Mühle
+395,Aeckenmatt_Mühle_Burlingen,present,Abies alba (Silver fir),Switzerland,BE,709,7.358769651,46.85192195,Aeckenmatt,Mühle
+396,Schwarzenburg_Herrenholz_18,nest gone,Abies alba (Silver fir),Switzerland,BE,840.6,7.353735177,46.80456954,Schwarzenburg,Herrenholz
+397,St. Antoni_Bächlisbrunnen_18,present,Fagus sylvatica (Beech),Switzerland,FR,799.5,7.268823205,46.81575875,St. Antoni,Bächlisbrunnen
+398,Kleingurmels_Under Gruenenburg_18,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,531.8,7.199859265,46.88738328,Kleingurmels,Under Gruenenburg
+399,Bösingen_Risau_18,present,Pinus sylvestris (Scots pine),Switzerland,BE,522.9,7.212408693,46.90220405,Bösingen,Risau
+400,Heitenried_Schinelhus_18,nest gone,Fagus sylvatica (Beech),Switzerland,FR,773.6,7.30132207,46.82047929,Heitenried,Schinelhus
+401,Alterswil_Rüti_18,present,Picea abies (Norwegian Spruce),Switzerland,FR,799.1,7.267049054,46.77622215,Alterswil,Rüti
+402,St. Ursen_Röschiwil_18,tree gone,Fagus sylvatica (Beech),Switzerland,FR,767,7.218814437,46.77542025,St. Ursen,Röschiwil
+403,Le Mouret_Le Grâbo_18,nest gone,Quercus robur (English Oak),Switzerland,FR,736.8,7.182087992,46.74810632,Le Mouret,Le Grâbo
+404,Alterswil_Chäla,nest gone,Abies alba (Silver fir),Switzerland,FR,877.4,7.299637482,46.78820585,Alterswil,Chäla
+405,Bourguillon_Hattenberg_18,nest gone,Fagus sylvatica (Beech),Switzerland,FR,672.8,7.189719913,46.80345368,Bourguillon,Hattenberg
+406,Alterswil_Geriwil,present,Fraxinus sp (Ash),Switzerland,FR,724.5,7.262103745,46.79195876,Alterswil,Geriwil
+407,Ueberstorf_Oberholzwald_18,active,Fagus sylvatica (Beech),Switzerland,FR,763.9,7.34126563,46.85741448,Ueberstorf,Oberholzwald
+408,Le Mouret_Montévraz_18,present,Picea abies (Norwegian Spruce),Switzerland,FR,849.1,7.179506201,46.72787648,Le Mouret,Montévraz
+409,Villarsel_Nesslerabach_18,present,Fagus sylvatica (Beech),Switzerland,FR,708.4,7.1894044,46.75892512,Villarsel,Nesslerabach
+410,Rechthalten_Entemoos,nest gone,Betula (Birch),Switzerland,FR,874.4,7.253916842,46.76453082,Rechthalten,Entemoos
+411,Düdingen_Horia_18,nest gone,Quercus robur (English Oak),Switzerland,FR,646.9,7.207431373,46.83204449,Düdingen,Horia
+412,Schmitten_Ettelberg_18,nest gone,Fagus sylvatica (Beech),Switzerland,FR,680,7.265330857,46.85012646,Schmitten,Ettelberg
+413,Wahlern_Gänsemoos_18,nest gone,Abies alba (Silver fir),Switzerland,BE,843.5,7.350531247,46.83499856,Wahlern,Gänsemoos
+414,Giffers_Buntschumüli,present,Fagus sylvatica (Beech),Switzerland,FR,760.2,7.215502633,46.77349662,Giffers,Buntschumüli
+415,Guggisberg_Multernboden,nest gone,Abies alba (Silver fir),Switzerland,BE,971.1,7.317779566,46.76656979,Guggisberg,Multernboden
+416,St. Sylvester_Hangeried,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,766.2,7.2133214,46.75310524,St. Sylvester,Hangeried
+417,Heitenried_Winterlingen_18,nest gone,Fagus sylvatica (Beech),Switzerland,FR,746.8,7.291772692,46.82396371,Heitenried,Winterlingen
+418,St. Sylvester_Matta_18,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,754.2,7.214171324,46.74871532,St. Sylvester,Matta
+419,Tentlingen_Vieille Rossmatta_18,present,Fagus sylvatica (Beech),Switzerland,FR,686,7.177278625,46.76642899,Tentlingen,Vieille Rossmatta
+420,Alterswil_Galteren_E,nest gone,Quercus robur (English Oak),Switzerland,FR,688,7.229384928,46.80096907,Alterswil,Galteren
+421,Schmitten_Lanthen_18,active,Picea abies (Norwegian Spruce),Switzerland,FR,626.9,7.256234264,46.84700029,Schmitten,Lanthen
+422,Oberschrot_Sali_18,nest gone,Quercus robur (English Oak),Switzerland,FR,925.1,7.266559835,46.73984264,Oberschrot,Sali
+423,St. Antoni_Holzacher,nest gone,Abies alba (Silver fir),Switzerland,FR,702.9,7.258061819,46.82826892,St. Antoni,Holzacher
+424,Lentigny_Bouleire,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,728.3,7.018329247,46.76010175,Lentigny,Bouleire
+425,St. Ursen_Christlisberg,nest gone,Fagus sylvatica (Beech),Switzerland,FR,670.9,7.203031828,46.78834447,St. Ursen,Christlisberg
+426,Praroman_Chechin_18,present,Fagus sylvatica (Beech),Switzerland,FR,720.3,7.188904187,46.75566568,Praroman,Chechin
+427,Brünisried_Brüggla_oak,nest gone,Quercus robur (English Oak),Switzerland,FR,843.4,7.275805872,46.76950926,Brünisried,Brüggla
+428,Tafers_Angstorfwäldli_18,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,665.9,7.220608934,46.83104251,Tafers,Angstorfwäldli
+429,St. Antoni_Moos,present,Quercus robur (English Oak),Switzerland,FR,789.8,7.266914517,46.80879108,St. Antoni,Moos
+430,Treyvaux_Traumatta,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,939.6,7.130943686,46.70989449,Treyvaux,Traumatta
+431,Kleingurmels_Under Gruenenburg_spruce,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,502.2,7.199092483,46.8855639,Kleingurmels,Under Gruenenburg
+432,Bösingen_Gertholz_18,present,Fagus sylvatica (Beech),Switzerland,FR,562.5,7.251507689,46.89212373,Bösingen,Gertholz
+433,Bösingen_Noflenau_18,tree gone,Fagus sylvatica (Beech),Switzerland,FR,551.7,7.264271109,46.88971057,Bösingen,Noflenau
+434,Villarsel_18,present,Fagus sylvatica (Beech),Switzerland,FR,677.7,7.169304766,46.76655509,Villarsel,NA
+435,St. Sylvester_Flue,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,830.2,7.239705888,46.73289168,St. Sylvester,Flue
+436,Schmitten_Fillistorf_18,present,Fraxinus sp (Ash),Switzerland,FR,630.2,7.23601526,46.86049553,Schmitten,Fillistorf
+437,Brünisried_Schürlimatta,active,Acer sp (maple),Switzerland,FR,954.7,7.271517088,46.75216709,Brünisried,Schürlimatta
+438,Tafers_Rohr_18,present,Pinus sylvestris (Scots pine),Switzerland,FR,707.8,7.237328545,46.82199641,Tafers,Rohr
+439,Barberêche_Manoir,nest gone,Fagus sylvatica (Beech),Switzerland,FR,561.4,7.16335023,46.85957869,Barberêche,Manoir
+440,Gurmels_Kleinbösingen_N,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,524.9,7.208064179,46.90048876,Gurmels,Kleinbösingen
+441,St. Ursen_Chürscheli,present,Fagus sylvatica (Beech),Switzerland,FR,776.4,7.237714901,46.78157429,St. Ursen,Chürscheli
+442,Oberschrot_Bärfeli_18,present,Quercus robur (English Oak),Switzerland,FR,934.8,7.259942885,46.74041586,Oberschrot,Bärfeli
+443,Ueberstorf_Ufem Burst_18,present,Quercus robur (English Oak),Switzerland,FR,712.1,7.342281575,46.86740687,Ueberstorf,Ufem Burst
+444,Alterswil_Halta,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,766.2,7.264091906,46.78134747,Alterswil,Halta
+445,Rechthalten_Moosholz_18,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,887.9,7.247557875,46.75978461,Rechthalten,Moosholz
+446,Ursy_Au Cuard,present,Quercus robur (English Oak),Switzerland,FR,655.2,6.819787243,46.62550896,Ursy,Au Cuard
+447,Schwarzenburg_Bachtelen,nest gone,Abies alba (Silver fir),Switzerland,BE,853.2,7.322996699,46.80397988,Schwarzenburg,Bachtelen
+448,Elisried_Höhi_18,present,Abies alba (Silver fir),Switzerland,BE,792.3,7.390403524,46.82518313,Elisried,Höhi
+449,Düdingen_Chiemiwald_18,present,Pinus sylvestris (Scots pine),Switzerland,FR,579.6,7.167421383,46.8412778,Düdingen,Chiemiwald
+450,Wünnewil_Mülital_18,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,633,7.264866618,46.86361611,Wünnewil,Mülital
+451,St. Ursen_Neumatt_18,nest gone,Quercus robur (English Oak),Switzerland,FR,648.2,7.212027544,46.80015935,St. Ursen,Neumatt
+452,Plaffeien_Hohliebi_18,nest gone,Abies alba (Silver fir),Switzerland,FR,1013.4,7.287082111,46.72062617,Plaffeien,Hohliebi
+453,Heitenried_Berghölzli,present,Fagus sylvatica (Beech),Switzerland,FR,779.1,7.289502109,46.81920566,Heitenried,Berghölzli
+454,Wünnewil_Zehnthus_18,nest gone,Quercus robur (English Oak),Switzerland,FR,567,7.286082707,46.88914718,Wünnewil,Zehnthus
+455,Schwarzenburg_Waldgasse_18,present,Abies alba (Silver fir),Switzerland,BE,857.5,7.328394534,46.80726878,Schwarzenburg,Waldgasse
+456,Bösingen_Frieseneit_18,active,Quercus robur (English Oak),Switzerland,FR,596.7,7.234849552,46.86947849,Bösingen,Frieseneit
+457,Schalunen_Ischlag,present,Abies alba (Silver fir),Switzerland,BE,491.9,7.515751023,47.112223,Schalunen,Ischlag
+458,Schwarzenburg_Chilchermatt_18,active_24,Abies alba (Silver fir),Switzerland,BE,847.5,7.354385547,46.80972141,Schwarzenburg,Chilchermatt
+459,Marly_Les_Fontanettes_18,present,Fagus sylvatica (Beech),Switzerland,FR,674.1,7.159236068,46.76911414,Marly,Les
+460,Mamishaus_Hintermutten_18,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,820.7,7.367870285,46.81004673,Mamishaus,Hintermutten
+461,Huttwil_Kaltenegg,present,Abies alba (Silver fir),Switzerland,BE,743,7.802238321,47.1033312,Huttwil,Kaltenegg
+462,Schmitten_Fillistorf_spruce,active,Picea abies (Norwegian Spruce),Switzerland,FR,633.5,7.23406008,46.85990055,Schmitten,Fillistorf
+463,Alterswil_Seliholz_W,present,Abies alba (Silver fir),Switzerland,FR,769.6,7.248589697,46.80900187,Alterswil,Seliholz
+464,Rechthalten_Sonnenberg_18,nest gone,Quercus robur (English Oak),Switzerland,FR,825.1,7.225820055,46.76062575,Rechthalten,Sonnenberg
+465,Alterswil_Aeschlenberg_18,active,Fraxinus sp (Ash),Switzerland,FR,722.4,7.263829633,46.78806367,Alterswil,Aeschlenberg
+466,Kalchstätten_Herrenmatt_18,nest gone,Quercus robur (English Oak),Switzerland,BE,839.6,7.301090153,46.76420189,Kalchstätten,Herrenmatt
+467,Mamishaus_Dunti_18,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,839.5,7.369711634,46.80933038,Mamishaus,Dunti
+468,Rüschegg_Gambach_18,nest gone,Acer sp (maple),Switzerland,BE,1050.8,7.361298514,46.77541064,Rüschegg,Gambach
+469,Alterswil_Wolgiswil_18,present,Picea abies (Norwegian Spruce),Switzerland,FR,702,7.230368643,46.79172936,Alterswil,Wolgiswil
+470,Tafers_Brunnenberg_E,nest gone,Abies alba (Silver fir),Switzerland,FR,720.6,7.246023639,46.81518258,Tafers,Brunnenberg
+471,France_Jujurieux,present,Pinus sylvestris (Scots pine),France,Ain,NA,5.402017515,46.04580624,France,Jujurieux
+472,Schwarzsee_Burstera,present,NA,Switzerland,FR,1083.5,7.287689536,46.67706737,Schwarzsee,Burstera
+473,Zumholz_Brand_18,nest gone,Fagus sylvatica (Beech),Switzerland,FR,860,7.28424546,46.75713661,Zumholz,Brand
+476,Wahlern_Althaus_18,present,Abies alba (Silver fir),Switzerland,BE,843.7,7.348561203,46.83312285,Wahlern,Althaus
+477,Brünisried_Obere Weier_18,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,899.2,7.279000945,46.75102787,Brünisried,Obere Weier
+478,Kalchstätten_Birche_18,nest gone,Abies alba (Silver fir),Switzerland,BE,896.2,7.303840318,46.77776492,Kalchstätten,Birche
+479,Mamishaus_Rümlisberg_18,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,886,7.370501127,46.80366226,Mamishaus,Rümlisberg
+480,Alterswil_Mediwil,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,729.1,7.2505452439999996,46.79024368,Alterswil,Mediwil
+481,Alterswil_Chleholz_18,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,842.3,7.288343689,46.78637889,Alterswil,Chleholz
+482,Ueberstorf_Summerau_18,nest gone,Abies alba (Silver fir),Switzerland,FR,759.7,7.330506515,46.85249558,Ueberstorf,Summerau
+483,Treyvaux_Kiesgrube_18,present,Pinus sylvestris (Scots pine),Switzerland,FR,736.8,7.119092958,46.7272081,Treyvaux,Kiesgrube
+484,Mamishaus_Abiholz,present,Abies alba (Silver fir),Switzerland,BE,768.5,7.389613654,46.8111662,Mamishaus,Abiholz
+485,Bösingen_Riederberg_18,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,566.2,7.215099645,46.88263462,Bösingen,Riederberg
+486,Wallenbuch_Schachewald,present,Fagus sylvatica (Beech),Switzerland,FR,502.9,7.230009002,46.92843034,Wallenbuch,Schachewald
+487,Chavannes-sous-Orsonnens,present,Picea abies (Norwegian Spruce),Switzerland,FR,664.8,6.998416844,46.73101772,Chavannes-sous-Orsonnens,NA
+488,Avry_Nonan,nest gone,NA,Switzerland,FR,654,7.085038228,46.78852992,Avry,Nonan
+489,Milken_Milkeholz_18,present,Abies alba (Silver fir),Switzerland,BE,884.4,7.355357537,46.79462786,Milken,Milkeholz
+490,Uebestorf_Guldifeld_18,nest gone,Fagus sylvatica (Beech),Switzerland,FR,700.8,7.32730308,46.87852529,Uebestorf,Guldifeld
+491,Uebestorf_lenglod_18,active,Picea abies (Norwegian Spruce),Switzerland,FR,663.9,7.339533845,46.88070866,Uebestorf,lenglod
+492,Lentigny_Le Genevrey,present,NA,Switzerland,FR,731.5,7.018024153,46.75219028,Lentigny,Le Genevrey
+493,Riggisberg_Oberi Holzweid_18,present,Fraxinus sp (Ash),Switzerland,BE,785.7,7.43706135,46.81381162,Riggisberg,Oberi Holzweid
+494,Rossens_Le Chaney,present,Abies alba (Silver fir),Switzerland,FR,706.6,7.092052212,46.73005066,Rossens,Le Chaney
+495,Corpataux_Le Rodzin,present,Abies alba (Silver fir),Switzerland,FR,724,7.076337368,46.74289893,Corpataux,Le Rodzin
+496,Farvagny_Boussevent,present,Fagus sylvatica (Beech),Switzerland,FR,704,7.074754392,46.73513087,Farvagny,Boussevent
+497,Düudingen_Schüracher,nest gone,Pinus strobus (Weymouth pine),Switzerland,FR,618.4,7.202065117,46.85659974,Düudingen,Schüracher
+498,Alterswil_Spitteholz,nest gone,Abies alba (Silver fir),Switzerland,FR,786.9,7.249945808,46.8030556,Alterswil,Spitteholz
+499,Villarcel_Commanderie_18,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,697.8,7.178181715,46.76266184,Villarcel,Commanderie
+500,Treyvaux_Le Moulin_18,nest gone,NA,Switzerland,FR,725.8,7.120582392,46.72891526,Treyvaux,Le Moulin
+501,Autigny_Chénens,NA,Picea abies (Norwegian Spruce),Switzerland,FR,663.2,6.998416451,46.73109235,Autigny,Chénens
+502,Fribourg_St. Theodule,nest gone,Pseudotsuga menziesii (Douglas fir),Switzerland,FR,593.2,7.143510049,46.83430208,Fribourg,St. Theodule
+503,St. Ursen_Burgstelle,present,Fagus sylvatica (Beech),Switzerland,FR,679.7,7.20213963,46.79268771,St. Ursen,Burgstelle
+504,Oberschrot_Neuhaus,nest gone,Fraxinus sp (Ash),Switzerland,FR,974.3,7.255074583,46.74347254,Oberschrot,Neuhaus
+505,Oberschrot_Fendersch,nest gone,Fagus sylvatica (Beech),Switzerland,FR,914.3,7.27174262,46.74276868,Oberschrot,Fendersch
+506,Ueberstorf_Guldifeld_19,nest gone,Fagus sylvatica (Beech),Switzerland,FR,684.9,7.328449502,46.88013692,Ueberstorf,Guldifeld
+507,Albligen_Wallismatt_19,tree gone,Picea abies (Norwegian Spruce),Switzerland,BE,696.4,7.321219112,46.84526384,Albligen,Wallismatt
+508,Lanzenhäusern_Finel_19,tree gone,Abies alba (Silver fir),Switzerland,BE,717.1,7.347785021,46.85033465,Lanzenhäusern,Finel
+509,Tentlingen_Bärg_19,active,Fagus sylvatica (Beech),Switzerland,FR,720.2,7.195843056,46.77338976,Tentlingen,Bärg
+510,Schwarzenburg_Herrenholz_19,present,Abies alba (Silver fir),Switzerland,BE,838.1,7.353339042,46.80455264,Schwarzenburg,Herrenholz
+511,Heitenried_Heizenried,present,Abies alba (Silver fir),Switzerland,FR,732,7.312422894,46.81719789,Heitenried,Heizenried
+512,Rechthalten_Weissenstein,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,916.7,7.252571439,46.77044738,Rechthalten,Weissenstein
+513,Brunisried_ruef_Guet,present,Picea abies (Norwegian Spruce),Switzerland,FR,831.9,7.272175844,46.76866974,Brunisried,ruef
+514,St.Antoni_Weissenbach,nest gone,Abies alba (Silver fir),Switzerland,FR,682.7,7.25381992,46.81463488,St.Antoni,Weissenbach
+515,Bösingen_Gertholz_19,present,Fagus sylvatica (Beech),Switzerland,FR,549.2,7.248197672,46.89233632,Bösingen,Gertholz
+516,Kleinbösingen_Müllerholz,tree gone,Quercus robur (English Oak),Switzerland,FR,566,7.195788257,46.89253346,Kleinbösingen,Müllerholz
+517,Düdingen_Garmiswil,nest gone,Abies alba (Silver fir),Switzerland,FR,585.1,7.172680971,46.83961621,Düdingen,Garmiswil
+518,Le_Mouret_Zenauva_19,present,Fraxinus sp (Ash),Switzerland,FR,792.2,7.179992574,46.73432343,Le,Mouret
+519,Alterswil_Chleholz_19,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,857.2,7.290350534,46.78632598,Alterswil,Chleholz
+520,Aeckenmatt_Mühle_19,present,Fagus sylvatica (Beech),Switzerland,BE,672.4,7.360707851,46.85383448,Aeckenmatt,Mühle
+521,Wünnewil_Mülital_19,nest gone,Abies alba (Silver fir),Switzerland,FR,630.7,7.265558603,46.86372302,Wünnewil,Mülital
+522,Ependes_ependes_19,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,693,7.149846457,46.75911258,Ependes,ependes
+524,Praroman_Chechin_19,active,Fagus sylvatica (Beech),Switzerland,FR,717.4,7.188866717,46.75604939,Praroman,Chechin
+525,Heitenried_Breitenried_19,present,Abies alba (Silver fir),Switzerland,FR,643,7.287194215,46.85118744,Heitenried,Breitenried
+526,Villarsel_La_Rotztetta,nest gone,Fagus sylvatica (Beech),Switzerland,FR,691.2,7.188149773,46.7610313,Villarsel,La
+527,Mamishus_Rumlisberg_19,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,851.9,7.370461133,46.80462726,Mamishus,Rumlisberg
+528,Schmitten_Bunziwil_19,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,615.2,7.263787112,46.85600232,Schmitten,Bunziwil
+529,Kleingurmels_Under Gruenenburg_19,nest gone,Fagus sylvatica (Beech),Switzerland,FR,533.4,7.199761183,46.88732458,Kleingurmels,Under Gruenenburg
+530,Le Mouret_Le Grabô_19,present,Picea abies (Norwegian Spruce),Switzerland,FR,726.7,7.187243612,46.74768901,Le Mouret,Le Grabô
+531,Brünisried_Ruef Guet_19,nest gone,Quercus robur (English Oak),Switzerland,FR,824.1,7.269976143,46.76876544,Brünisried,Ruef Guet
+532,Alterswil_Wolperswil_19,present,Picea abies (Norwegian Spruce),Switzerland,FR,720.4,7.250422922,46.78576305,Alterswil,Wolperswil
+533,Ueberstorf_Niedermettlen_19,present,Fagus sylvatica (Beech),Switzerland,FR,728.3,7.32361496,46.865056,Ueberstorf,Niedermettlen
+534,St. Antoni_Holzacher_19,nest gone,Abies alba (Silver fir),Switzerland,FR,704.6,7.259036277,46.82983643,St. Antoni,Holzacher
+535,Rüeggisberg_Hinterfultigen,nest gone,Abies alba (Silver fir),Switzerland,BE,815.3,7.413767345,46.83959221,Rüeggisberg,Hinterfultigen
+537,Schmitten_Lanthen_19,nest gone,Fraxinus sp (Ash),Switzerland,FR,628.7,7.255648071,46.84713809,Schmitten,Lanthen
+538,Kalchstätten_Herrenmatt_19,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,817.8,7.304588227,46.7592495,Kalchstätten,Herrenmatt
+539,St. Ursen_Stöckholz_19,nest gone,Abies alba (Silver fir),Switzerland,FR,751,7.227854634,46.78682086,St. Ursen,Stöckholz
+540,St. Ursen_Röschiwil_19,present,Fagus sylvatica (Beech),Switzerland,FR,762.3,7.218094158,46.77502731,St. Ursen,Röschiwil
+541,Schwarzenburg_Herrenholz_N,active_24,Abies alba (Silver fir),Switzerland,BE,829.9,7.3547796,46.80485956,Schwarzenburg,Herrenholz
+542,St.Antoni_Stockera_19,nest gone,Abies alba (Silver fir),Switzerland,FR,821.3,7.27152336,46.80576587,St.Antoni,Stockera
+543,Rüschegg_Hirschhorn,present,Picea abies (Norwegian Spruce),Switzerland,BE,888.9,7.379951939,46.77544256,Rüschegg,Hirschhorn
+544,Alterswil_Wengliswil,nest gone,Abies alba (Silver fir),Switzerland,FR,866.3,7.283187405,46.78169275,Alterswil,Wengliswil
+545,Oberschrot_Sali_19,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,916.9,7.267554038,46.74011131,Oberschrot,Sali
+546,Tafers_Rohr_19,present,Abies alba (Silver fir),Switzerland,FR,721.7,7.2379608,46.82287474,Tafers,Rohr
+547,Bourgillon_Côte du Gotterón,active,Fagus sylvatica (Beech),Switzerland,FR,650.4,7.179104301,46.80172441,Bourgillon,Côte du Gotterón
+548,Mamishaus_Hausmatteweid_19,nest gone,Fagus sylvatica (Beech),Switzerland,BE,865.4,7.363812113,46.80968744,Mamishaus,Hausmatteweid
+549,Schwarzenburg_Chilchermatt_19,present,Picea abies (Norwegian Spruce),Switzerland,BE,870.6,7.353685088,46.80935643,Schwarzenburg,Chilchermatt
+550,Heitenried_Schinelhus_19,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,770.1,7.29942986,46.82007919,Heitenried,Schinelhus
+551,Rechthalten_Entemoos_19,nest gone,Betula (Birch),Switzerland,FR,874.8,7.25458123,46.76468458,Rechthalten,Entemoos
+552,Barberêche_Manoir_19,nest gone,Populus sp (Poplar),Switzerland,FR,553.1,7.164127285,46.85627334,Barberêche,Manoir
+553,Schwarzenburg_Chilchermatt_beech,present,Fagus sylvatica (Beech),Switzerland,BE,829.5,7.353238178,46.81026463,Schwarzenburg,Chilchermatt
+554,Zumholz_Rainweid,nest gone,Quercus robur (English Oak),Switzerland,BE,877.9,7.307116016,46.75862278,Zumholz,Rainweid
+555,La Roche_ Les Rontes,present,Picea abies (Norwegian Spruce),Switzerland,FR,779.9,7.13286304,46.70039219,La Roche, Les Rontes
+556,Gurmels_Kleinbösingen_19,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,520.2,7.20713455,46.89955542,Gurmels,Kleinbösingen
+557,Flamatt_Zenthus_19,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,593,7.28795344,46.88884281,Flamatt,Zenthus
+558,Alterswil_Wolgiswil_19,present,Fagus sylvatica (Beech),Switzerland,FR,698.4,7.229448279,46.79122257,Alterswil,Wolgiswil
+559,St. Antoni_Bachmattholz,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,776.7,7.302681083,46.80773584,St. Antoni,Bachmattholz
+572,Germany_Henschenberg,present,Abies alba (Silver fir),Germany,Baden-Württemberg,610,7.769444448,47.69916668,Germany,Henschenberg
+574,Thonon-les-Baines_Reyvroz,present,Picea abies (Norwegian Spruce),France,Haute-Savoie,655,6.573000007,46.33100001,Thonon-les-Baines,Reyvroz
+575,Ambroney_Malafan,present,Quercus robur (English Oak),France,Ain,318,5.373055565,46.00694445,Ambroney,Malafan
+576,Düdingen_Horia_19,present,Pinus sylvestris (Scots pine),Switzerland,FR,652.9,7.20722473,46.83317004,Düdingen,Horia
+577,Tentlingen_Villarsel_19,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,675.8,7.1694177,46.76634978,Tentlingen,Villarsel
+578,Schwarzenburg_Herrenholz_W,present,Abies alba (Silver fir),Switzerland,BE,852.5,7.350144468,46.80339878,Schwarzenburg,Herrenholz
+579,Plaffaien_Holiebi_19,present,Abies alba (Silver fir),Switzerland,FR,1053.1,7.288548582,46.71906466,Plaffaien,Holiebi
+580,Lentigny_Pré de Lovens,present,Quercus robur (English Oak),Switzerland,FR,726.7,7.020177017,46.75974585,Lentigny,Pré de Lovens
+581,Tafers_Tützenberg,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,738,7.240328319,46.82761946,Tafers,Tützenberg
+582,St.Antoni_Bächlisbrunnen_19,active_24,Abies alba (Silver fir),Switzerland,FR,777.7,7.269959387,46.81982334,St.Antoni,Bächlisbrunnen
+583,Zumholz_Graben,present,Picea abies (Norwegian Spruce),Switzerland,FR,809.2,7.29227508,46.75780399,Zumholz,Graben
+584,Uebestorf_Chürschi,present,Picea abies (Norwegian Spruce),Switzerland,FR,731,7.303770538,46.85051953,Uebestorf,Chürschi
+585,Brunisried_Wuhrsmatta,present,Fagus sylvatica (Beech),Switzerland,FR,889.2,7.277355838,46.75271031,Brunisried,Wuhrsmatta
+586,Brunisried_Haltli_19,present,Abies alba (Silver fir),Switzerland,FR,917.7,7.276653593,46.75555188,Brunisried,Haltli
+587,Düdingen_Unter St.Wolfgangholz_19,active_24,Fagus sylvatica (Beech),Switzerland,FR,637.9,7.178248203,46.83236081,Düdingen,Unter St.Wolfgangholz
+588,Tafers_Brunnenbergrain_19,nest gone,Abies alba (Silver fir),Switzerland,FR,731.4,7.223893499,46.81123599,Tafers,Brunnenbergrain
+589,Rechthalten_Bergli,active,Abies alba (Silver fir),Switzerland,FR,887.7,7.248087888,46.77214907,Rechthalten,Bergli
+590,Alblingen_Harriswald,present,Pseudotsuga menziesii (Douglas fir),Switzerland,FR,707.9,7.32855243,46.843004380000004,Alblingen,Harriswald
+591,Villarsel_Villars-sur-Marly,present,Picea abies (Norwegian Spruce),Switzerland,FR,742.9,7.186967853,46.77580823,Villarsel,Villars-sur-Marly
+592,St.Antoni_Lehwil_19,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,705.3,7.278698976,46.82887633,St.Antoni,Lehwil
+593,Estavannes_Fossards,present,Fraxinus sp (Ash),Switzerland,FR,720.6,7.09526701,46.55572515,Estavannes,Fossards
+594,Düdingen_Lustorfholz,present,Fagus sylvatica (Beech),Switzerland,FR,660.4,7.221782803,46.84716852,Düdingen,Lustorfholz
+595,Alterswil_Grabach,nest gone,Fraxinus sp (Ash),Switzerland,FR,759.6,7.272293064,46.77729653,Alterswil,Grabach
+596,Massonens_La Sapala,present,Fagus sylvatica (Beech),Switzerland,FR,714.4,6.964083993,46.70083844,Massonens,La Sapala
+597,Niederwil_Fuchsloch,present,Fraxinus sp (Ash),Switzerland,SG,592.6,9.188572105,47.42845954,Niederwil,Fuchsloch
+598,Ueberstorf_Summerau_19,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,779.4,7.329006131,46.85188321,Ueberstorf,Summerau
+599,Ueberstorf_Guldifeld_Oak,present,Quercus robur (English Oak),Switzerland,FR,648.7,7.320546792,46.87655784,Ueberstorf,Guldifeld
+600,St.Sylvester_Matta_19,nest gone,Fagus sylvatica (Beech),Switzerland,FR,769.3,7.215284852,46.74849422,St.Sylvester,Matta
+601,Guggisberg_Wilmesacher_N,active_24,Abies alba (Silver fir),Switzerland,BE,1032.3,7.321885239,46.76850696,Guggisberg,Wilmesacher
+602,Austria_Unterlochen,tree gone,Abies alba (Silver fir),Austria,Oberösterreich,456,13.12806001,48.12417001,Austria,Unterlochen
+603,Cheiry_Coumin,present,Quercus robur (English Oak),Switzerland,FR,534.4,6.857900007,46.75970001,Cheiry,Coumin
+606,Tafers_Angstorfwäldli_19,tree gone,Pinus sylvestris (Scots pine),Switzerland,FR,674.9,7.219684611,46.83060215,Tafers,Angstorfwäldli
+607,Alterswil_Hinterhalta,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,758.7,7.25051869,46.78195181,Alterswil,Hinterhalta
+608,Düdingen_Allenlüften,present,Fagus sylvatica (Beech),Switzerland,FR,533.9,7.180002359,46.86450165,Düdingen,Allenlüften
+609,Schwarzenburg_Katzenstyg,present,Abies alba (Silver fir),Switzerland,BE,730.2,7.323745874,46.82571937,Schwarzenburg,Katzenstyg
+610,St.Antoni Lehwil_20,present,Quercus robur (English Oak),Switzerland,FR,706,7.279255364,46.8290803,St.Antoni Lehwil,NA
+611,Mamishaus_Dunti_20,present,Picea abies (Norwegian Spruce),Switzerland,BE,847.5,7.37013854,46.80917343,Mamishaus,Dunti
+612,Alterswil_Stöck,present,Picea abies (Norwegian Spruce),Switzerland,FR,775.1,7.249800183,46.77943729,Alterswil,Stöck
+613,Ferpicloz_L'Epine,present,Fagus sylvatica (Beech),Switzerland,FR,765.2,7.157092484,46.75001293,Ferpicloz,L'Epine
+614,Düdingen_Breitrain,present,Quercus robur (English Oak),Switzerland,FR,535.5,7.146973027,46.84403037,Düdingen,Breitrain
+615,Schmitten_Betlehem_20,present,Fagus sylvatica (Beech),Switzerland,FR,647,7.227929974,46.851617160000004,Schmitten,Betlehem
+616,Barbarêche _La Fenetta,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,549.6,7.156473692,46.85350024,Barbarêche ,La Fenetta
+617,Giffers_Obertswil_20,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,770.5,7.220617086,46.77070175,Giffers,Obertswil
+618,Alterswil_Weiermattenmoos_20,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,797.3,7.28304082,46.79412142,Alterswil,Weiermattenmoos
+619,Schwarzenburg_Schönenboden,present,Abies alba (Silver fir),Switzerland,BE,859.7,7.350063979,46.80217983,Schwarzenburg,Schönenboden
+620,Milken_Flüematte,present,Picea abies (Norwegian Spruce),Switzerland,BE,1025,7.345144706,46.78027555,Milken,Flüematte
+621,Zollhaus_Chnöwis,present,Picea abies (Norwegian Spruce),Switzerland,FR,1031.2,7.30521329,46.71249295,Zollhaus,Chnöwis
+622,Bonnefontaine_La Lisera,present,Abies alba (Silver fir),Switzerland,FR,797.8,7.195165015,46.73655396,Bonnefontaine,La Lisera
+623,Heitenried_Lettiswil,present,Picea abies (Norwegian Spruce),Switzerland,FR,776.3,7.297247707,46.82056941,Heitenried,Lettiswil
+624,Schmitten_Bunziwil_20,active_24,Fagus sylvatica (Beech),Switzerland,FR,636.5,7.264112031,46.85566354,Schmitten,Bunziwil
+625,Bösingen_Riederberg_20,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,562.7,7.216208017,46.8813137,Bösingen,Riederberg
+626,Düdingen_Schüracher_20,present,Fagus sylvatica (Beech),Switzerland,FR,652.3,7.204771288,46.8574009,Düdingen,Schüracher
+627,Düdingen_Fuchsenacher,present,Fagus sylvatica (Beech),Switzerland,FR,549.2,7.175403567,46.85854586,Düdingen,Fuchsenacher
+628,Guggisberg_Steinachere_20,present,Picea abies (Norwegian Spruce),Switzerland,BE,1030.9,7.321430098,46.76191921,Guggisberg,Steinachere
+629,Le Mouret_Le Grabot_20,present,Quercus robur (English Oak),Switzerland,FR,732.9,7.18371687,46.74845582,Le Mouret,Le Grabot
+630,St. Sylvester_Goleta_20,nest gone,Fagus sylvatica (Beech),Switzerland,FR,733.3,7.203313465,46.75216108,St. Sylvester,Goleta
+631,Brunisried_Berghölzli_20,present,Picea abies (Norwegian Spruce),Switzerland,FR,933.1,7.285518429,46.75142222,Brunisried,Berghölzli
+632,Zollhaus_Nussbaumerli,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,955.3,7.305195955,46.70183472,Zollhaus,Nussbaumerli
+633,Heitenried_Schürgraben_20,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,698.4,7.284678028,46.84811278,Heitenried,Schürgraben
+634,Bösingen_Grenchen_20,present,Quercus robur (English Oak),Switzerland,FR,569.2,7.248230828,46.88815874,Bösingen,Grenchen
+635,Bösingen_Risau_20,active_24,Pinus sylvestris (Scots pine),Switzerland,BE,522.2,7.212609446,46.90220965,Bösingen,Risau
+636,Wahlern_Althaus_20,present,Abies alba (Silver fir),Switzerland,BE,842.9,7.349865947,46.83408447,Wahlern,Althaus
+637,Tafers_Wierli,present,Abies alba (Silver fir),Switzerland,FR,713.1,7.239264965,46.82546788,Tafers,Wierli
+638,Lanzenhäusern_Buttnigen_20,nest gone,Abies alba (Silver fir),Switzerland,BE,711.6,7.372137762,46.83936655,Lanzenhäusern,Buttnigen
+639,Wahlern_Neuhaus,tree gone,Picea abies (Norwegian Spruce),Switzerland,BE,814.7,7.346524921,46.83649172,Wahlern,Neuhaus
+640,St. Ursen_Stockhölz_20,nest gone,Abies alba (Silver fir),Switzerland,FR,753.8,7.227951583,46.78677651,St. Ursen,Stockhölz
+641,Rechthalten_Weissenstein_20,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,917,7.252434756,46.77038865,Rechthalten,Weissenstein
+642,Brunisried_Wilersguet,nest gone,Abies alba (Silver fir),Switzerland,FR,853,7.289183516,46.7713164,Brunisried,Wilersguet
+643,Guggisberg_Underbalm_20,present,Abies alba (Silver fir),Switzerland,BE,1062.8,7.344083197,46.75002617,Guggisberg,Underbalm
+644,Heitenried_Magdalenaholz,nest gone,Fagus sylvatica (Beech),Switzerland,FR,752.4,7.301723788,46.83251672,Heitenried,Magdalenaholz
+645,Cordast_Buillardholz_20,present,Pinus sylvestris (Scots pine),Switzerland,FR,634.5,7.162904913,46.87973964,Cordast,Buillardholz
+646,Bösingen_Riederbergholz,present,Fagus sylvatica (Beech),Switzerland,FR,592.6,7.230967649,46.88597768,Bösingen,Riederbergholz
+647,Mamishaus_Tännlenen,present,Picea abies (Norwegian Spruce),Switzerland,BE,796.7,7.378039381,46.81444629,Mamishaus,Tännlenen
+648,Tafers_Brunnenberg_20,present,Abies alba (Silver fir),Switzerland,FR,764.2,7.239175755,46.81137379,Tafers,Brunnenberg
+649,St.Ursen_Schwandholz,present,Abies alba (Silver fir),Switzerland,FR,716.8,7.216097705,46.78688946,St.Ursen,Schwandholz
+650,Plaffeien_Jostrüti_20,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,905.3,7.288766752,46.72681975,Plaffeien,Jostrüti
+651,Kalchstätten_Kirchhalten_20,active,Picea abies (Norwegian Spruce),Switzerland,BE,1087.6,7.318479211,46.77267199,Kalchstätten,Kirchhalten
+652,Wahlern_Gänsemoos_20,active,Abies alba (Silver fir),Switzerland,BE,841.6,7.350294223,46.83527284,Wahlern,Gänsemoos
+653,Kalchstätten_Herrenmatt_20,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,806.4,7.304269517,46.75983608,Kalchstätten,Herrenmatt
+654,Gurmels_Kleinbösingen_20,nest gone,Quercus robur (English Oak),Switzerland,FR,525.1,7.203827366,46.88911284,Gurmels,Kleinbösingen
+655,Heitenried_Schindelhus_20,present,Fraxinus sp (Ash),Switzerland,FR,743.4,7.305155789,46.81530372,Heitenried,Schindelhus
+656,Alterswil_Baletswil_20,present,Quercus robur (English Oak),Switzerland,FR,790,7.24209353,46.78216363,Alterswil,Baletswil
+657,Alterswil_Aeschlenberg_20,active,Fagus sylvatica (Beech),Switzerland,FR,750.5,7.261526693,46.78894261,Alterswil,Aeschlenberg
+658,Plasselb_Unter Tschüplere,present,Picea abies (Norwegian Spruce),Switzerland,FR,899,7.265330906,46.73285984,Plasselb,Unter Tschüplere
+659,Düdingen_Looholz,present,Pinus sylvestris (Scots pine),Switzerland,FR,675.5,7.193107322,46.8293123,Düdingen,Looholz
+660,Bösingen_Gertholz_20,present,Quercus robur (English Oak),Switzerland,FR,563.9,7.251346505,46.8895301,Bösingen,Gertholz
+661,Flamatt_Chruezacher,active,Fagus sylvatica (Beech),Switzerland,FR,561.1,7.299552093,46.89109626,Flamatt,Chruezacher
+662,Thorishaus_Oberried,nest gone,Abies alba (Silver fir),Switzerland,FR,673.6,7.363091914,46.89068128,Thorishaus,Oberried
+663,Thörishaus_Winterhölzli,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,623.7,7.354824997,46.89369217,Thörishaus,Winterhölzli
+664,Neuenegg_Forstmatt,tree gone,Fagus sylvatica (Beech),Switzerland,FR,571.9,7.300464519,46.9026338,Neuenegg,Forstmatt
+665,Wünnewil_Nussbaumen_20,present,Fagus sylvatica (Beech),Switzerland,FR,527.8,7.277024346,46.88894466,Wünnewil,Nussbaumen
+666,Wünnewil_Zenthus_20,present,Fagus sylvatica (Beech),Switzerland,FR,572.5,7.282603483,46.88840574,Wünnewil,Zenthus
+667,Kriesbaumen_äbnit,present,Abies alba (Silver fir),Switzerland,BE,985.7,7.345388176,46.79032481,Kriesbaumen,äbnit
+668,Tentlingen_Villarsel_20,nest gone,Pseudotsuga menziesii (Douglas fir),Switzerland,FR,677.8,7.170869225,46.76615071,Tentlingen,Villarsel
+669,Bonnefontaine_Rüdigrabe,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,789.3,7.208211079,46.74234559,Bonnefontaine,Rüdigrabe
+670,Freisenheit_Graben,present,Quercus robur (English Oak),Switzerland,FR,605.9,7.245759569,46.86380858,Freisenheit,Graben
+671,Uebestorf_Niedermettlen_20,present,Fagus sylvatica (Beech),Switzerland,FR,687.1,7.32596491,46.86852777,Uebestorf,Niedermettlen
+672,Düdingen_Unter St. Wolfgangholz_20,active_24,Fagus sylvatica (Beech),Switzerland,FR,615.7,7.180793893,46.8341275,Düdingen,Unter St. Wolfgangholz
+673,La Roche_Les Rontes_20,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,763.1,7.132312336,46.6994071,La Roche,Les Rontes
+674,Uebestorf_Bode,present,Larix decidua (larch),Switzerland,FR,659.2,7.35090478,46.85710123,Uebestorf,Bode
+675,Milken_Weizacker,nest gone,Abies alba (Silver fir),Switzerland,BE,799.6,7.389589469,46.79907432,Milken,Weizacker
+676,Ursy_Au Cuard_20,present,Quercus robur (English Oak),Switzerland,FR,649.9,6.819750142,46.62538519,Ursy,Au Cuard
+677,Marly_Bois_des_Rittes_20,nest gone,Fagus sylvatica (Beech),Switzerland,FR,620.4,7.162327619,46.7845792,Marly,Bois
+678,Düdingen_Ottisberg,nest gone,Quercus robur (English Oak),Switzerland,FR,545.7,7.170444164,46.85455374,Düdingen,Ottisberg
+679,Kleingurmels_Chateaux,present,Quercus robur (English Oak),Switzerland,FR,548.3,7.175632683,46.87124093,Kleingurmels,Chateaux
+680,Barbareche_Bois de Chasse,nest gone,Larix decidua (larch),Switzerland,FR,613.6,7.141806581,46.85265379,Barbareche,Bois de Chasse
+681,Kleingurmels_Gros Bruel,nest gone,Fagus sylvatica (Beech),Switzerland,FR,550.7,7.184992338,46.87468068,Kleingurmels,Gros Bruel
+682,Ueberstorf_Ufem_Burst_20,active,Pinus strobus (Weymouth pine),Switzerland,FR,721.3,7.341996005,46.86726039,Ueberstorf,Ufem
+683,St. Sylvester_Metzgera,nest gone,Fagus sylvatica (Beech),Switzerland,FR,784.1,7.225959638,46.7462887,St. Sylvester,Metzgera
+684,Elisried_Fuhren,nest gone,Abies alba (Silver fir),Switzerland,BE,766.4,7.367173824,46.82411404,Elisried,Fuhren
+685,Scwarzenburg_Chilchermatt_20,present,Abies alba (Silver fir),Switzerland,BE,818.6,7.352616764,46.8105399,Scwarzenburg,Chilchermatt
+686,Milken_Trombyfang,present,Abies alba (Silver fir),Switzerland,BE,865.8,7.344562645,46.79497131,Milken,Trombyfang
+687,Heitenried_Oberwinterlingen,present,Quercus robur (English Oak),Switzerland,FR,782.3,7.285679327,46.82046658,Heitenried,Oberwinterlingen
+688,Guggisberg_Laubbachgraben_20,present,Picea abies (Norwegian Spruce),Switzerland,BE,869,7.316755915,46.75272953,Guggisberg,Laubbachgraben
+689,Uebestorf_Mischlere_20,present,Picea abies (Norwegian Spruce),Switzerland,FR,682.1,7.301285968,46.85280835,Uebestorf,Mischlere
+690,Uebestorf_Hargart,present,Quercus robur (English Oak),Switzerland,BE,787.3,7.326231462,46.8578262,Uebestorf,Hargart
+691,Guggisberg_gummeli,present,Fagus sylvatica (Beech),Switzerland,BE,1040.4,7.322793589,46.76351264,Guggisberg,gummeli
+692,St. Antoni_Weissenbach_20,present,Picea abies (Norwegian Spruce),Switzerland,FR,704.4,7.248732205,46.81648227,St. Antoni,Weissenbach
+693,Ependes_Ependes_20,active,Picea abies (Norwegian Spruce),Switzerland,FR,687.6,7.14906172,46.7590464,Ependes,Ependes
+694,Uebestorf_Mischlere_W,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,697.9,7.299564498,46.85239921,Uebestorf,Mischlere
+695,St. Antoni_Dürrenboden,nest gone,Acer sp (maple),Switzerland,FR,766.7,7.301492709,46.80979142,St. Antoni,Dürrenboden
+696,Cordast_Petit Vivy,present,Fagus sylvatica (Beech),Switzerland,FR,544.8,7.173721874,46.86812815,Cordast,Petit Vivy
+697,Zumholz_Brand_20,present,Fraxinus sp (Ash),Switzerland,FR,874.2,7.289340208,46.76113148,Zumholz,Brand
+698,Niederwil_Fuchsloch_20,present,Fagus sylvatica (Beech),Switzerland,SG,608.1,9.19163712,47.42988531,Niederwil,Fuchsloch
+699,Stein am Rhein_Kaltenbach,nest gone,Picea abies (Norwegian Spruce),Switzerland,TG,457.6,8.825008852,47.65408143,Stein am Rhein,Kaltenbach
+701,Alterswil_Wolgiswil_20,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,731.7,7.237305355,46.79311296,Alterswil,Wolgiswil
+702,Rueggisberg_Hinterfultigen_20,nest gone,Abies alba (Silver fir),Switzerland,BE,787.5,7.412827416,46.83989082,Rueggisberg,Hinterfultigen
+703,Rueggisberg_Schwanden,nest gone,Quercus robur (English Oak),Switzerland,BE,841.3,7.406973285,46.81296225,Rueggisberg,Schwanden
+704,Rechthalten_Gäu,nest gone,Abies alba (Silver fir),Switzerland,FR,920.9,7.25992151,46.76375756,Rechthalten,Gäu
+705,Schwarzenburg_Chilchermatt Galtern,tree gone,Picea abies (Norwegian Spruce),Switzerland,BE,875.3,7.353282674,46.80857324,Schwarzenburg,Chilchermatt Galtern
+706,Schwarzenburg_Waldgasse_20,nest gone,Abies alba (Silver fir),Switzerland,BE,845.1,7.328721503,46.80785972,Schwarzenburg,Waldgasse
+707,Bösingen_Risau new,present,Fagus sylvatica (Beech),Switzerland,BE,494.4,7.214831078,46.90133811,Bösingen,Risau new
+708,Uebestorf_Summerau_20,tree gone,Pinus sylvestris (Scots pine),Switzerland,BE,767.2,7.329404636,46.85104077,Uebestorf,Summerau
+709,Uebestorf_Guldifeld_20,present,Quercus robur (English Oak),Switzerland,FR,648.3,7.320094481,46.87627449,Uebestorf,Guldifeld
+710,Alterswil_Wolperswil_20,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,731.1,7.24993035,46.78550748,Alterswil,Wolperswil
+711,Alterswil_Wengliswil_20,present,Quercus robur (English Oak),Switzerland,FR,845.5,7.282608954,46.78213223,Alterswil,Wengliswil
+712,Massonens_Neirigue,nest gone,Fagus sylvatica (Beech),Switzerland,FR,758.8,6.951527307,46.68303736,Massonens,Neirigue
+713,Meikirch_Weissenstein,present,Picea abies (Norwegian Spruce),Switzerland,BE,628.5,7.379832345,47.00385668,Meikirch,Weissenstein
+714,Schmitten_Lehm,active,Picea abies (Norwegian Spruce),Switzerland,FR,636.8,7.25954058,46.85420774,Schmitten,Lehm
+715,Czech_Republic,present,Fraxinus sp (Ash),Czechia,Blansko,NA,16.57328165,49.42151955,Czech,Republic
+716,Düdingen_Brugeraholz,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,676.3,7.20629397,46.84858789,Düdingen,Brugeraholz
+717,Alterswil_Rüti_20,present,Picea abies (Norwegian Spruce),Switzerland,FR,802.4,7.266288744,46.77614179,Alterswil,Rüti
+718,Bourguillon_Gottéron_20,nest gone,"Tilia sp (lime, linden)",Switzerland,FR,655.3,7.17477278,46.80184666,Bourguillon,Gottéron
+719,Huttwil_Bühl,active,Abies alba (Silver fir),Switzerland,BE,741.7,7.835948719,47.0951964,Huttwil,Bühl
+720,Le Mouret_Sur la Fin,active,Quercus robur (English Oak),Switzerland,FR,747.1,7.184689698,46.74222156,Le Mouret,Sur la Fin
+721,Neuenegg_Freiburghaus,present,Fagus sylvatica (Beech),Switzerland,BE,555.8,7.279543704,46.8998058,Neuenegg,Freiburghaus
+722,Riedstätt_Mittlisried_20,nest gone,Abies alba (Silver fir),Switzerland,BE,1006,7.31981582,46.77871683,Riedstätt,Mittlisried
+723,France_Jujurieux_20,present,NA,France,Ain,297.9,5.395632036,46.04301131,France,Jujurieux
+724,Alterswil_Mediwil_20,present,Picea abies (Norwegian Spruce),Switzerland,FR,721.4,7.250494832,46.7903222,Alterswil,Mediwil
+725,Thörishaus_Grabe,present,Abies alba (Silver fir),Switzerland,FR,655.8,7.37255226,46.88722738,Thörishaus,Grabe
+726,St. Antoni_Menzishus_20,active,Picea abies (Norwegian Spruce),Switzerland,FR,657.8,7.261431663,46.83497275,St. Antoni,Menzishus
+727,Uebestorf_Chürschi_20,active,Abies alba (Silver fir),Switzerland,FR,756.2,7.302117811,46.84909972,Uebestorf,Chürschi
+728,Marly_Copy,present,Fagus sylvatica (Beech),Switzerland,FR,651.1,7.14953439,46.76895078,Marly,Copy
+729,Marly_Les_Fontanettes_20,present,Fagus sylvatica (Beech),Switzerland,FR,657,7.157202546,46.77027277,Marly,Les
+730,Thörishaus_Risele,present,Abies alba (Silver fir),Switzerland,BE,621.8,7.360584441,46.8880727,Thörishaus,Risele
+731,Ueberstorf_Salzmatt,present,Picea abies (Norwegian Spruce),Switzerland,BE,721.3,7.325251147,46.84905225,Ueberstorf,Salzmatt
+732,Ueberstorf_Breiteli,present,Fagus sylvatica (Beech),Switzerland,FR,665.3,7.303987855,46.86348696,Ueberstorf,Breiteli
+733,Alterswil_Zumholz,nest gone,Abies alba (Silver fir),Switzerland,FR,745.1,7.255094834,46.80491234,Alterswil,Zumholz
+734,Düdingen_Obere_stwolfgangholz,present,Pinus sylvestris (Scots pine),Switzerland,FR,672.2,7.186375912,46.82744721,Düdingen,Obere
+735,Ueberstorf_lenglod_21,nest gone,Fagus sylvatica (Beech),Switzerland,FR,664.2,7.339654308,46.880603,Ueberstorf,lenglod
+736,Schmitten_Ettelberg_21,active,Fagus sylvatica (Beech),Switzerland,FR,675.6,7.265548548,46.85044774,Schmitten,Ettelberg
+737,Ueberstorf_Oberholzwald_21,present,Fagus sylvatica (Beech),Switzerland,FR,758.7,7.342735126,46.85781116,Ueberstorf,Oberholzwald
+738,Ueberstorf_Rüti,present,Quercus robur (English Oak),Switzerland,BE,733.8,7.323638114,46.85004715,Ueberstorf,Rüti
+739,Tafers_Brunnenbergrain_21,present,Abies alba (Silver fir),Switzerland,FR,732.9,7.224366011,46.8112867,Tafers,Brunnenbergrain
+740,Mamishaus_Vordermutten,active_24,Quercus robur (English Oak),Switzerland,BE,799.7,7.37705682,46.80739482,Mamishaus,Vordermutten
+741,Alterswil_Breita,nest gone,Fagus sylvatica (Beech),Switzerland,FR,744.7,7.248370593,46.79566815,Alterswil,Breita
+742,Wunnewil_Golf_21,nest gone,Fagus sylvatica (Beech),Switzerland,FR,580.2,7.296434983,46.87558487,Wunnewil,Golf
+743,Pensier_La_Gravière,present,Fagus sylvatica (Beech),Switzerland,FR,577.7,7.139974136,46.84845491,Pensier,La
+744,Alterswil_Schwenihubel,nest gone,Quercus robur (English Oak),Switzerland,FR,843.9,7.301969999,46.8028339,Alterswil,Schwenihubel
+745,Heitenried_Schindelhus_21,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,750.3,7.304957844,46.81506135,Heitenried,Schindelhus
+746,Bösingen_gertholz_21,active_24,Pinus sylvestris (Scots pine),Switzerland,FR,570.7,7.247505791,46.89097946,Bösingen,Gertholz
+747,Schwarzenburg_Stöcken_21,active_24,Abies alba (Silver fir),Switzerland,BE,843,7.346296034,46.79990709,Schwarzenburg,Stöcken
+748,Schwarzenburg_Herrenholz_21,present,Abies alba (Silver fir),Switzerland,BE,868.9,7.351768137,46.8037687,Schwarzenburg,Herrenholz
+749,Milken_Weizacker_21,nest gone,Abies alba (Silver fir),Switzerland,BE,792.2,7.387628315,46.79967267,Milken,Weizacker
+750,Le_Mouret_Le Grâbo_21,present,Fraxinus sp (Ash),Switzerland,FR,735.8,7.182217409,46.74814879,Le,Mouret
+751,St.Antoni_Schrick,present,Fagus sylvatica (Beech),Switzerland,FR,702.7,7.256616378,46.82055294,St.Antoni,Schrick
+752,Ueberstorf_Guldifeld_21,nest gone,Fagus sylvatica (Beech),Switzerland,FR,704.2,7.329409799,46.87940843,Ueberstorf,Guldifeld
+753,Ueberstorf_Hangried,active,Fagus sylvatica (Beech),Switzerland,FR,641.3,7.350408219,46.8720388,Ueberstorf,Hangried
+754,Aeckenmatt_Mühle_21,active,Abies alba (Silver fir),Switzerland,BE,699,7.36134771,46.85280149,Aeckenmatt,Mühle
+755,St.Sylvester_Unterbuech_21,nest gone,Fagus sylvatica (Beech),Switzerland,FR,717,7.202253517,46.75429464,St.Sylvester,Unterbuech
+756,Neuenegg_Chropfhölzli,present,Fagus sylvatica (Beech),Switzerland,BE,546.1,7.28402513,46.89312783,Neuenegg,Chropfhölzli
+757,Bösingen_Grenchen_21,present,Abies alba (Silver fir),Switzerland,FR,563,7.25023412,46.88930809,Bösingen,Grenchen
+758,Ueberstorf_Bahnholz_21,present,Fagus sylvatica (Beech),Switzerland,FR,662.2,7.29715253,46.8668025,Ueberstorf,Bahnholz
+759,Düdingen_Fuchsenacher_21,nest gone,Fagus sylvatica (Beech),Switzerland,FR,560.8,7.171154708,46.85617585,Düdingen,Fuchsenacher
+760,Ueberstorf_Ledeu_21,present,Quercus robur (English Oak),Switzerland,FR,668.2,7.300734153,46.85912351,Ueberstorf,Ledeu
+761,Tafers_Angstorfwaldli_21,nest gone,Fagus sylvatica (Beech),Switzerland,FR,671.9,7.219636368,46.83121692,Tafers,Angstorfwaldli
+762,St.Ursen_Schwandholz_21,active,Fagus sylvatica (Beech),Switzerland,FR,724.8,7.218416623,46.78541248,St.Ursen,Schwandholz
+763,St.Antoni_Schafersrain,tree gone,Abies alba (Silver fir),Switzerland,FR,680.7,7.253240699,46.82419376,St.Antoni,Schafersrain
+764,Mamishaus_Rümlisberg_21,present,Fagus sylvatica (Beech),Switzerland,BE,839.9,7.371598684,46.80504848,Mamishaus,Rümlisberg
+765,Schwarzenburg_Zälg_21,active,Picea abies (Norwegian Spruce),Switzerland,BE,835.5,7.355960606,46.81302589,Schwarzenburg,Zälg
+766,St.Ursen_Röschiwil_21,nest gone,Fagus sylvatica (Beech),Switzerland,FR,769,7.218623208,46.77477761,St.Ursen,Röschiwil
+767,Brünisried_Unterweid,active,Picea abies (Norwegian Spruce),Switzerland,FR,911.4,7.274745733,46.76140754,Brünisried,Unterweid
+768,Alterswil_Puntmatta,nest gone,Quercus robur (English Oak),Switzerland,FR,783.5,7.283070611,46.79020536,Alterswil,Puntmatta
+769,Düdingen_Galmisberg_21,present,Fagus sylvatica (Beech),Switzerland,FR,616,7.220166507,46.86296543,Düdingen,Galmisberg
+770,Guggisberg_Näckenweid,nest gone,Fagus sylvatica (Beech),Switzerland,BE,941.9,7.309946253,46.76916941,Guggisberg,Näckenweid
+771,Guggisberg_Hältetlimatten,present,Fagus sylvatica (Beech),Switzerland,BE,844.5,7.310135979,46.76546034,Guggisberg,Hältetlimatten
+772,St.Sylvester_Spittelvorchis,present,Abies alba (Silver fir),Switzerland,FR,854.9,7.243590396,46.72798729,St.Sylvester,Spittelvorchis
+773,Guggisberg_Hostetten,nest gone,Quercus robur (English Oak),Switzerland,BE,1029.2,7.314516638,46.76101034,Guggisberg,Hostetten
+774,Guggisberg_Moos,active,Fagus sylvatica (Beech),Switzerland,BE,805.8,7.3087334,46.75633334,Guggisberg,Moos
+775,Guggisberg_Gummenweid,active,Picea abies (Norwegian Spruce),Switzerland,BE,937.4,7.324906798,46.75860222,Guggisberg,Gummenweid
+776,Rüschegg_Gräbli,tree gone,Abies alba (Silver fir),Switzerland,BE,1038,7.36756701,46.77809708,Rüschegg,Gräbli
+777,Rueggisberg_Chüeweidli,active,Abies alba (Silver fir),Switzerland,BE,742,7.400618577,46.81642018,Rueggisberg,Chüeweidli
+778,"Schwarzenburg_Milkenstrasse
+",present,Picea abies (Norwegian Spruce),Switzerland,BE,839.5,7.3516484,46.81593825,Schwarzenburg,"Milkenstrasse
+"
+779,"Heitenried_Sodbach
+",active,Picea abies (Norwegian Spruce),Switzerland,FR,692.9,7.317445841,46.82683879,Heitenried,"Sodbach
+"
+780,Flamatt_Flamatt_10,active,Quercus robur (English Oak),Switzerland,FR,583.5,7.324542959,46.88699212,Flamatt,Flamatt
+781,Milken_Rothen,tree gone,Abies alba (Silver fir),Switzerland,BE,783.8,7.3900207,46.80309509,Milken,Rothen
+782,Schmitten_Ferneraholz,tree gone,Fagus sylvatica (Beech),Switzerland,FR,644.1,7.22457293,46.85700481,Schmitten,Ferneraholz
+783,St.Ursen_Burgstelle_21,present,Fagus sylvatica (Beech),Switzerland,FR,687.6,7.200037631,46.7933,St.Ursen,Burgstelle
+784,Alterswil_Fulbächli,active,Quercus robur (English Oak),Switzerland,FR,774.2,7.278624687,46.78779993,Alterswil,Fulbächli
+785,Marly_la_Grangette,present,Fagus sylvatica (Beech),Switzerland,FR,622.7,7.134720414,46.77432636,Marly,la
+786,Marly_au_Port,present,Quercus robur (English Oak),Switzerland,FR,615,7.130978183,46.77512781,Marly,au
+787,Marly_Montdrion,active,Fagus sylvatica (Beech),Switzerland,FR,741.8,7.160504165,46.76399326,Marly,Montdrion
+788,Marly_Vieille_Grange,present,Quercus robur (English Oak),Switzerland,FR,767.6,7.171985928,46.75511569,Marly,Vieille
+789,Barbarêche_la_Chasse,present,Fagus sylvatica (Beech),Switzerland,FR,634.9,7.151160699,46.85573704,Barbarêche,la
+790,Bösingen_Friesenheit_21,tree gone,Pinus sylvestris (Scots pine),Switzerland,FR,626.8,7.239000591,46.87166013,Bösingen,Friesenheit
+791,Wallenbuch_Schachewald/21,present,Fagus sylvatica (Beech),Switzerland,BE,492.5,7.230745437,46.92659944,Wallenbuch,Schachewald/21
+792,Massonens_Neirigue_21,active_24,Fraxinus sp (Ash),Switzerland,FR,760.2,6.951698252,46.68306618,Massonens,Neirigue
+793,Werthenstein_Schwändi,present,Abies alba (Silver fir),Switzerland,LU,587.9,8.111985408,47.04812669,Werthenstein,Schwändi
+794,Bonnefontaine_La_Préru,nest gone,Abies alba (Silver fir),Switzerland,FR,915.6,7.203740412,46.73245757,Bonnefontaine,La
+795,Tafers_Chlimattholz,nest gone,Fagus sylvatica (Beech),Switzerland,FR,670.9,7.214511788,46.80774657,Tafers,Chlimattholz
+796,Brünisried_Weidli_21,present,Pinus sylvestris (Scots pine),Switzerland,FR,868.4,7.280360171,46.76447961,Brünisried,Weidli
+797,St.Sylvester_Flüeli_21,present,Fagus sylvatica (Beech),Switzerland,FR,840.1,7.229843317,46.73999241,St.Sylvester,Flüeli
+798,Kleingurmels_UnderGruenenburg_21,present,Picea abies (Norwegian Spruce),Switzerland,FR,533.8,7.199324021,46.88704698,Kleingurmels,UnderGruenenburg
+799,Gurmels_Kleinbösingen_21,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,521.4,7.204077407,46.88943003,Gurmels,Kleinbösingen
+800,St.Antoni_Menzishustop_21,present,Abies alba (Silver fir),Switzerland,FR,703,7.269563523,46.83383102,St.Antoni,Menzishustop
+801,Aeckenmatt_Mühle_Burlingen_21,present,Fagus sylvatica (Beech),Switzerland,BE,686.5,7.358057787,46.85200269,Aeckenmatt,Mühle
+802,Fribourg_Chli_Schönberg,nest gone,Fagus sylvatica (Beech),Switzerland,FR,629.3,7.186451051,46.80361884,Fribourg,Chli
+803,SteinamRhein_Kaltenbach_21,active_24,Pinus sylvestris (Scots pine),Switzerland,TG,467.8,8.821898065,47.65522954,SteinamRhein,Kaltenbach
+804,Niederwil_Fuchsloch_21,active_24,Picea abies (Norwegian Spruce),Switzerland,SG,606.1,9.191875597,47.42762771,Niederwil,Fuchsloch
+805,StUrsen_Stöckholz_21,nest gone,Abies alba (Silver fir),Switzerland,FR,742.7,7.225450007,46.7865428,StUrsen,Stöckholz
+806,Thörishaus_Sensematt,nest gone,Fraxinus sp (Ash),Switzerland,BE,569.4,7.355620192,46.88809936,Thörishaus,Sensematt
+807,Heitenried_Winterlingen_21,present,Fagus sylvatica (Beech),Switzerland,FR,737.1,7.291927764,46.82395902,Heitenried,Winterlingen
+808,St.Antoni_Steinberg_21,present,Picea abies (Norwegian Spruce),Switzerland,FR,848.6,7.282626182,46.81581165,St.Antoni,Steinberg
+809,Zollhaus_OberstiSite,nest gone,Abies alba (Silver fir),Switzerland,BE,1126.9,7.314751616,46.72288193,Zollhaus,OberstiSite
+810,Lachen_UnterBawald,present,Fagus sylvatica (Beech),Switzerland,SZ,524.9,8.878574671,47.1708783,Lachen,UnterBawald
+811,Schmitten_Ochsenried,present,Quercus robur (English Oak),Switzerland,FR,661.8,7.244339585,46.85668814,Schmitten,Ochsenried
+812,Cordast_ChampDessus,active,Fagus sylvatica (Beech),Switzerland,FR,564.3,7.168187675,46.86451973,Cordast,ChampDessus
+813,Treyvaux_LesEntos,active,Fagus sylvatica (Beech),Switzerland,FR,822.4,7.120210232,46.71489466,Treyvaux,LesEntos
+814,Treyvaux_Kiesgrube_21,present,Fagus sylvatica (Beech),Switzerland,FR,733.2,7.119763784,46.72655946,Treyvaux,Kiesgrube
+815,Plaffeien_Jöstruti_21,active,Picea abies (Norwegian Spruce),Switzerland,FR,865.9,7.29004792,46.72915076,Plaffeien,Jöstruti
+816,Plasselb_Eichholz,present,Picea abies (Norwegian Spruce),Switzerland,FR,805.4,7.235121062,46.74515445,Plasselb,Eichholz
+817,Flamatt_Schore,present,Fraxinus sp (Ash),Switzerland,BE,608.3,7.335479225,46.89631599,Flamatt,Schore
+818,Alterswil_Rüti_21,tree gone,Fagus sylvatica (Beech),Switzerland,FR,804.6,7.265458711,46.77645208,Alterswil,Rüti
+819,Schmitten_Gummen,active,Fraxinus sp (Ash),Switzerland,FR,619.8,7.250007025,46.86601002,Schmitten,Gummen
+821,Villardgiroud_LeRosey,present,Quercus robur (English Oak),Switzerland,FR,796.7,6.999316698,46.70041181,Villardgiroud,LeRosey
+822,Bonnefontaine_Montécu,active,Fraxinus sp (Ash),Switzerland,FR,781.5,7.192401602,46.74105484,Bonnefontaine,Montécu
+823,St.Antoni_Moos_21,active_24,Abies alba (Silver fir),Switzerland,FR,772.1,7.262830678,46.80605265,St.Antoni,Moos
+824,Alterswil_Wolperswil_21,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,732.6,7.250161204,46.78569145,Alterswil,Wolperswil
+825,Gümmenen_Riedacher,present,Abies alba (Silver fir),Switzerland,FR,535.9,7.231874385,46.95142913,Gümmenen,Riedacher
+826,Hergiswilb.Willisau_Honigschwand,present,Abies alba (Silver fir),Switzerland,LU,759.2,7.936361562,47.10040303,Hergiswilb.Willisau,Honigschwand
+827,Heitenried_Tannenholz_21,nest gone,Abies alba (Silver fir),Switzerland,FR,712.6,7.284564877,46.82892039,Heitenried,Tannenholz
+828,RöthenbachimEmmental_Alpwald,present,Abies alba (Silver fir),Switzerland,BE,990.7,7.709404517,46.8792854,RöthenbachimEmmental,Alpwald
+829,Thörishaus_ImRumpf,present,Abies alba (Silver fir),Switzerland,BE,649.1,7.352814278,46.9023963,Thörishaus,ImRumpf
+830,Flamatt_Seiseacher,present,Populus sp (Poplar),Switzerland,FR,536.4,7.290706537,46.89183335,Flamatt,Seiseacher
+831,Vauderens_LesFornys,present,Fraxinus sp (Ash),Switzerland,FR,702.1,6.844199353,46.62386406,Vauderens,LesFornys
+832,Alterswil_Wolgiswil_21,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,694.1,7.229977204,46.79143126,Alterswil,Wolgiswil
+833,Lanzenhäusern_Holzmatten,present,Abies alba (Silver fir),Switzerland,BE,803.5,7.379749698,46.84546387,Lanzenhäusern,Holzmatten
+834,Elisried_Fuhren_21,nest gone,Abies alba (Silver fir),Switzerland,BE,775.9,7.367422921,46.82404144,Elisried,Fuhren
+835,Zumholz_Reinweid_21,present,Picea abies (Norwegian Spruce),Switzerland,BE,897.7,7.307420933,46.75912445,Zumholz,Reinweid
+836,Alterswil_Püntli,present,Quercus robur (English Oak),Switzerland,FR,836.3,7.283691087,46.78569865,Alterswil,Püntli
+838,Kalchstätten_Sandflüe,present,Picea abies (Norwegian Spruce),Switzerland,BE,895.7,7.299999432,46.77296156,Kalchstätten,Sandflüe
+839,Mümliswil_hübel,present,Fagus sylvatica (Beech),Switzerland,SO,625.7,7.7049113,47.35086923,Mümliswil,hübel
+840,Huttwil_Kaltenegg_21,present,Abies alba (Silver fir),Switzerland,BE,744.2,7.802171272,47.10334177,Huttwil,Kaltenegg
+841,Treyvaux_Péniclé,present,Abies alba (Silver fir),Switzerland,FR,815.7,7.121407149,46.71803637,Treyvaux,Péniclé
+842,Rüeggisberg_Hinterfultigen_21,tree gone,Abies alba (Silver fir),Switzerland,BE,766.3,7.412846985,46.84398061,Rüeggisberg,Hinterfultigen
+843,Laupen_Rüplisried,present,Fagus sylvatica (Beech),Switzerland,BE,564.3,7.249736694,46.93060099,Laupen,Rüplisried
+844,LaRoche_LesRontes_21,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,772.8,7.132503313,46.6993778,LaRoche,LesRontes
+845,Rechthalten_Schlossweid,present,Picea abies (Norwegian Spruce),Switzerland,FR,952.7,7.259592746,46.75472824,Rechthalten,Schlossweid
+846,Milken_Pt961_21,present,Abies alba (Silver fir),Switzerland,BE,948.3,7.360403346,46.79549415,Milken,Pt961
+847,Vuisternens-devant-Romont,present,Fraxinus sp (Ash),Switzerland,FR,775.2,6.933033595,46.65197087,Vuisternens-devant-Romont,NA
+848,Riedstätt_Mösi,present,Fagus sylvatica (Beech),Switzerland,BE,977,7.326278632,46.78363017,Riedstätt,Mösi
+849,Schwarzenburg_Langenwilscheuer,present,Abies alba (Silver fir),Switzerland,BE,826.5,7.313280857,46.80621826,Schwarzenburg,Langenwilscheuer
+850,Chatel-st-denis_Camping,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,896.8,6.916798629,46.52716541,Chatel-st-denis,Camping
+851,Mamishaus_Rümlisberg_21_S,active_24,Picea abies (Norwegian Spruce),Switzerland,BE,884.6,7.370216589,46.80349045,Mamishaus,Rümlisberg
+852,Delemont_Courrendlin,nest gone,Quercus robur (English Oak),Switzerland,JU,446.7,7.370332915,47.3334838,Delemont,Courrendlin
+853,Huttwil_Bühl_21,nest gone,Abies alba (Silver fir),Switzerland,BE,755.6,7.83667232,47.09530828,Huttwil,Bühl
+854,Mamishaus_Henzischwand,nest gone,Fraxinus sp (Ash),Switzerland,BE,782.8,7.380468504,46.81046487,Mamishaus,Henzischwand
+855,Bösingen_Riederbergmoos,present,Quercus robur (English Oak),Switzerland,FR,581.5,7.226418156,46.87913043,Bösingen,Riederbergmoos
+856,Gurmels_Kleinbösingen_N_21,present,Pinus sylvestris (Scots pine),Switzerland,FR,519.4,7.208527639,46.90058052,Gurmels,Kleinbösingen
+857,Lanzenhäsern_Gschneithölzli,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,788.3,7.368299034,46.84246159,Lanzenhäsern,Gschneithölzli
+858,Hinterfultigen_Niederhäusern,present,Fraxinus sp (Ash),Switzerland,BE,828.2,7.397317998,46.83858125,Hinterfultigen,Niederhäusern
+859,Kalchstätten_Flühli,present,Picea abies (Norwegian Spruce),Switzerland,BE,1025.7,7.318048102,46.77811258,Kalchstätten,Flühli
+860,Ueberstorf_Oberholzwald_2_21,present,Fagus sylvatica (Beech),Switzerland,FR,761.8,7.342414706,46.85759569,Ueberstorf,Oberholzwald
+861,Milken_Guuggenberg,nest gone,Abies alba (Silver fir),Switzerland,BE,1049.5,7.357003243,46.78433822,Milken,Guuggenberg
+862,Tafers_Brunnenbergholz,present,Abies alba (Silver fir),Switzerland,FR,734.4,7.234452232,46.81055024,Tafers,Brunnenbergholz
+863,Milken_Weizacker_S,nest gone,Abies alba (Silver fir),Switzerland,BE,806.3,7.38792507,46.79912529,Milken,Weizacker
+865,France_Mayrand,present,Fagus sylvatica (Beech),France,Puy-de-Dôme,NA,3.024234528,45.43927282,France,Mayrand
+866,Czech_Republic_21,tree gone,Pinus sylvestris (Scots pine),Czechia,Třebíč,NA,15.6306488,49.13186828,Czech,Republic
+867,Bösingen_Lischera,nest gone,Fagus sylvatica (Beech),Switzerland,FR,525.5,7.212459834,46.88716844,Bösingen,Lischera
+868,Gurmels_Kleinbösingen_22,nest gone,Fagus sylvatica (Beech),Switzerland,BE,555.1,7.199588875,46.89383848,Gurmels,Kleinbösingen
+869,Marly_Montivert,present,Pinus sylvestris (Scots pine),Switzerland,FR,700,7.167087599,46.77916741,Marly,Montivert
+870,Neuenegg_Chropfhölzli,present,Fagus sylvatica (Beech),Switzerland,BE,547.7,7.284589327,46.89375202,Neuenegg,Chropfhölzli
+871,Schmitten_Fillistorfholz,nest gone,Fagus sylvatica (Beech),Switzerland,FR,647.2,7.230841066,46.86273774,Schmitten,Fillistorfholz
+872,Ueberstorf_Ledeu_22,active,Quercus robur (English Oak),Switzerland,FR,661.4,7.299534749,46.85918986,Ueberstorf,Ledeu
+873,Bonnefontaine_Rüdigrabe_22,present,Quercus robur (English Oak),Switzerland,FR,815.7,7.210368533,46.74210219,Bonnefontaine,Rüdigrabe
+874,Alterswil_Punt_22,active,Fraxinus sp (Ash),Switzerland,FR,782.3,7.282404937,46.78970209,Alterswil,Punt
+875,Gurmels_ImHolz_22,present,Pinus sylvestris (Scots pine),Switzerland,FR,576.1,7.195952156,46.89465242,Gurmels,ImHolz
+876,Schmitten_Ober Zirkels_22,active_24,Quercus robur (English Oak),Switzerland,FR,623.6,7.270790705,46.85683074,Schmitten,Ober Zirkels
+877,Gurmels_Kleinbösingen_22,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,521,7.204203386,46.88945058,Gurmels,Kleinbösingen
+878,Düdingen_Fuchsenacher_22,nest gone,Quercus robur (English Oak),Switzerland,FR,558,7.172042321,46.85714552,Düdingen,Fuchsenacher
+879,St Ursen_Dälhölzli_22,tree gone,Picea abies (Norwegian Spruce),Switzerland,FR,701,7.2125541460000004,46.78920002,St Ursen,Dälhölzli
+880,Heitenried_Schärnera_22,active,Pinus sylvestris (Scots pine),Switzerland,FR,708,7.281212315,46.84245725,Heitenried,Schärnera
+881,Ueberstorf_Summerau_W,present,Abies alba (Silver fir),Switzerland,FR,785.5,7.327287649,46.85195511,Ueberstorf,Summerau
+882,Ueberstorf_Höhi22,active_24,Fagus sylvatica (Beech),Switzerland,FR,805.3,7.333955553,46.85884141,Ueberstorf,Höhi
+883,Barbareche_La Fenetta22,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,553.3,7.15620226,46.85335461,Barbareche,La Fenetta22
+884,Schmitten_Gummen_22,nest gone,Fraxinus sp (Ash),Switzerland,FR,618,7.250334695,46.86591803,Schmitten,Gummen
+885,Tafers_Wileracher,present,Fagus sylvatica (Beech),Switzerland,FR,712,7.240230596,46.82988714,Tafers,Wileracher
+886,Schmitten_Lanthenholz_22,present,Pinus sylvestris (Scots pine),Switzerland,FR,724,7.243110289,46.83996833,Schmitten,Lanthenholz
+887,St.Antoni_Bächlisbrunnen_22,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,793,7.269802439,46.8196071,St.Antoni,Bächlisbrunnen
+888,Rüschegg_Gräbli_22,present,Picea abies (Norwegian Spruce),Switzerland,BE,973,7.370993408,46.77679809,Rüschegg,Gräbli
+889,Le_Mouret_Le_Grabon,active,Quercus robur (English Oak),Switzerland,FR,731,7.186384513,46.74899608,Le,Mouret
+890,Le_Mouret_Le_Moulinet,present,Populus sp (Poplar),Switzerland,FR,896,7.186020517,46.73043948,Le,Mouret
+891,Bosingen_Waldheim_22,active,Fagus sylvatica (Beech),Switzerland,FR,575,7.253551291,46.89254028,Bosingen,Waldheim
+892,Sagenboden_Hinter_Äbnet,active,Fraxinus sp (Ash),Switzerland,FR,852,7.252408181,46.73059165,Sagenboden,Hinter
+893,Bösingen_Friesenheit_22,active,Pinus sylvestris (Scots pine),Switzerland,FR,617,7.238791934,46.87149606,Bösingen,Friesenheit
+894,Marly_Ranch,present,Quercus robur (English Oak),Switzerland,FR,622,7.135324688,46.77322549,Marly,Ranch
+895,Bösingen_Risau_22,present,Pinus sylvestris (Scots pine),Switzerland,BE,532.1,7.21642419,46.90263572,Bösingen,Risau
+896,Wünnewil_Staffels_22,present,Fagus sylvatica (Beech),Switzerland,FR,605.6,7.272556962,46.88332799,Wünnewil,Staffels
+897,Bösingen_Freisenheit_Beech,active,Fagus sylvatica (Beech),Switzerland,FR,625.1,7.242502616,46.87724911,Bösingen,Freisenheit
+898,Schmitten_Rütihubel_22,present,Fagus sylvatica (Beech),Switzerland,FR,678,7.216831137,46.85226801,Schmitten,Rütihubel
+899,St_Antoni_Lehwil_Oak,active_24,Quercus robur (English Oak),Switzerland,FR,693.7,7.28113049,46.82992693,St,Antoni
+900,Heitenried_Lettiswil_22,present,Fagus sylvatica (Beech),Switzerland,FR,771.1,7.297394813,46.81977867,Heitenried,Lettiswil
+901,St.Antoni_Steinberg_22,present,Fagus sylvatica (Beech),Switzerland,FR,842,7.283251656,46.8156492,St.Antoni,Steinberg
+902,Ueberstorf_Mischlere_22,present,Quercus robur (English Oak),Switzerland,FR,699.4,7.298254115,46.85256055,Ueberstorf,Mischlere
+903,Huttwil_Im_Plämu,active,Pseudotsuga menziesii (Douglas fir),Switzerland,BE,704.2,7.809417657,47.09908473,Huttwil,Im
+904,Ueberstorf_Breiteli_22,nest gone,Fraxinus sp (Ash),Switzerland,FR,661.9,7.303686319,46.86294463,Ueberstorf,Breiteli
+905,Ueberstorf_Niedermettlen_22,active,Fagus sylvatica (Beech),Switzerland,FR,639.2,7.320935573,46.87247955,Ueberstorf,Niedermettlen
+906,Alblingen_Stockere,nest gone,Pinus sylvestris (Scots pine),Switzerland,BE,714,7.330735828,46.8411111,Alblingen,Stockere
+907,Schmitten_Mülital_22,present,Picea abies (Norwegian Spruce),Switzerland,FR,634,7.272246049,46.86433291,Schmitten,Mülital
+908,Alterswil_Kütt_22,present,Fraxinus sp (Ash),Switzerland,FR,758,7.273630358,46.78025228,Alterswil,Kütt
+909,Alterswil_Wengliswil_22,present,Quercus robur (English Oak),Switzerland,FR,849,7.280557363,46.78001741,Alterswil,Wengliswil
+910,Heitenried_Lettiswil_22,active,Picea abies (Norwegian Spruce),Switzerland,FR,775,7.297464059,46.82037308,Heitenried,Lettiswil
+911,France_Jujurieux_22,present,Fraxinus sp (Ash),France,Ain,NA,5.395052048,46.0424029,France,Jujurieux
+912,Mamishaus_Tännenlenen_22,present,Fagus sylvatica (Beech),Switzerland,BE,791,7.379101234,46.81242892,Mamishaus,Tännenlenen
+913,Wunnewil_Dietermöösli_22,present,Abies alba (Silver fir),Switzerland,FR,588,7.274509623,46.86607195,Wunnewil,Dietermöösli
+914,St.Antoni_Lehwil north_22,active,Quercus robur (English Oak),Switzerland,FR,710,7.280846805,46.83178937,St.Antoni,Lehwil north
+915,Bösingen_Grenchen_22,active,Pinus sylvestris (Scots pine),Switzerland,FR,553,7.247373738,46.88822727,Bösingen,Grenchen
+916,St. Antoni_Menzihus_22,active_24,Abies alba (Silver fir),Switzerland,FR,713,7.27354445,46.83377989,St. Antoni,Menzihus
+917,Ueberstorf_Summerau_22,present,Abies alba (Silver fir),Switzerland,FR,776,7.329368703,46.85226564,Ueberstorf,Summerau
+918,Tafers_Brunnenbergain_22,active_24,Fagus sylvatica (Beech),Switzerland,FR,692,7.22552475,46.81151235,Tafers,Brunnenbergain
+919,Elisried_Hohi_22,active_24,Abies alba (Silver fir),Switzerland,BE,779.3,7.390096746,46.82521368,Elisried,Hohi
+920,Milken_Rothen_22,present,Picea abies (Norwegian Spruce),Switzerland,BE,783,7.39188295,46.80353281,Milken,Rothen
+921,Milken_Weizacker_22,tree gone,Fagus sylvatica (Beech),Switzerland,BE,806,7.387836193,46.79920701,Milken,Weizacker
+922,Alterswil_Mediwil_22,active,Quercus robur (English Oak),Switzerland,FR,714.5,7.250758817,46.79028103,Alterswil,Mediwil
+923,Ueberstorf_Cholholz_22,nest gone,Fagus sylvatica (Beech),Switzerland,FR,576.4,7.351300009,46.87609068,Ueberstorf,Cholholz
+924,Gurmels_Kleinbösingen_East,present,Pinus sylvestris (Scots pine),Switzerland,FR,548.1,7.202007372,46.89494538,Gurmels,Kleinbösingen
+925,Alterswil_Weiermattenmoos_22,nest gone,Abies alba (Silver fir),Switzerland,FR,791.5,7.282878759,46.79397805,Alterswil,Weiermattenmoos
+926,St.Antoni_Menzishusholz,present,Abies alba (Silver fir),Switzerland,FR,684.7,7.258888224,46.83009541,St.Antoni,Menzishusholz
+927,St.Antoni_Moos_22,present,Abies alba (Silver fir),Switzerland,FR,792.9,7.263029967,46.80595225,St.Antoni,Moos
+928,Rosshäusern_Mädersforst,present,Picea abies (Norwegian Spruce),Switzerland,BE,594.3,7.303291735,46.93379919,Rosshäusern,Mädersforst
+929,Ueberstorf_Summerau_East,nest gone,Abies alba (Silver fir),Switzerland,FR,753.8,7.330983021,46.85270483,Ueberstorf,Summerau
+930,La_Roche_Les_Rontes_22,active,Picea abies (Norwegian Spruce),Switzerland,FR,812.3,7.132757126,46.70056733,La,Roche
+931,La_Roche_Le_Rafour,present,Fagus sylvatica (Beech),Switzerland,FR,728.1,7.124913828,46.69533093,La,Roche
+932,La_Roche_sur_Momont,present,Picea abies (Norwegian Spruce),Switzerland,FR,729.5,7.118222382,46.6892018,La,Roche
+933,Thörishaus_Winterh!olzli_22,active,Picea abies (Norwegian Spruce),Switzerland,BE,632.9,7.354928445,46.89357823,Thörishaus,Winterh!olzli
+934,Rechthalten_Chli_Struss,present,Fagus sylvatica (Beech),Switzerland,FR,798.7,7.23301183,46.77528398,Rechthalten,Chli
+935,Ueberstorf_Hundsflueh_22,active_24,Fagus sylvatica (Beech),Switzerland,FR,644,7.349433916,46.8786636,Ueberstorf,Hundsflueh
+936,Rechthalten_Matta,present,Fagus sylvatica (Beech),Switzerland,FR,841.5,7.252014481,46.77378318,Rechthalten,Matta
+937,Mamishaus_Lehn_22,active,Picea abies (Norwegian Spruce),Switzerland,BE,797.2,7.379207845,46.80791034,Mamishaus,Lehn
+938,Wunnewil_Golf_22,active_24,Fagus sylvatica (Beech),Switzerland,FR,592,7.292267858,46.8741976,Wunnewil,Golf
+939,St.Antoni_Schafersrain_22,present,Picea abies (Norwegian Spruce),Switzerland,FR,665.3,7.253385472,46.82418274,St.Antoni,Schafersrain
+940,Rechthalten_Saga_22,active,Picea abies (Norwegian Spruce),Switzerland,FR,884.6,7.255967797,46.76177634,Rechthalten,Saga
+941,Mettlen_Furtbach,present,Quercus robur (English Oak),Switzerland,TG,565,9.124098744,47.51650394,Mettlen,Furtbach
+942,Elisried_Fuhren_22,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,763.2,7.366037416,46.82431542,Elisried,Fuhren
+943,Lachen_Galgenen,present,Fagus sylvatica (Beech),Switzerland,SZ,562.2,8.881989259,47.1690182,Lachen,Galgenen
+944,Kirchberg_Hüsligsberg,present,Picea abies (Norwegian Spruce),Switzerland,SG,818.3,9.043864335,47.40310411,Kirchberg,Hüsligsberg
+945,Vaulrus_Les_Molettes,active,Quercus robur (English Oak),Switzerland,FR,9339,7.006418006,46.63155275,Vaulrus,Les
+946,Riffenmat_Unders_Zahmisholz,nest gone,Abies alba (Silver fir),Switzerland,BE,1012.7,7.327844615,46.77934326,Riffenmat,Unders
+947,Aeckenmatt_Riedmatte,tree gone,Abies alba (Silver fir),Switzerland,BE,684.5,7.358737562,46.85199206,Aeckenmatt,Riedmatte
+948,Brünisried_Tana,present,Picea abies (Norwegian Spruce),Switzerland,FR,838.5,7.288729715,46.76452913,Brünisried,Tana
+949,Pensier_La_Gravière_22,active,Fagus sylvatica (Beech),Switzerland,FR,581.3,7.140917249,46.84890347,Pensier,La
+950,Massonens_Grangettes,active,Fagus sylvatica (Beech),Switzerland,FR,758.6,6.958581415,46.6794877,Massonens,Grangettes
+952,Heitenried_Tannholz_22,present,Picea abies (Norwegian Spruce),Switzerland,FR,730.3,7.28720639,46.82587724,Heitenried,Tannholz
+955,Massonens_Neirigue_22,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,728.9,6.954443252,46.68163906,Massonens,Neirigue
+956,Schwarzenburg_Herrenholz_22,present,Abies alba (Silver fir),Switzerland,BE,838.1,7.35356606,46.80457429,Schwarzenburg,Herrenholz
+957,Alterswil_Galteren_22,active,Picea abies (Norwegian Spruce),Switzerland,FR,679.7,7.228000882,46.80084358,Alterswil,Galteren
+958,Ueberstorf_Zelgli_23,active,Fagus sylvatica (Beech),Switzerland,FR,670,7.318272239,46.86774948,Ueberstorf,Zelgli
+959,Ueberstorf_Zielholz_23,active,Pinus sylvestris (Scots pine),Switzerland,FR,677,7.344539258,46.87481264,Ueberstorf,Zielholz
+962,Ueberstorf_Niedermettlen_23,active,Fagus sylvatica (Beech),Switzerland,FR,671,7.326660022,46.86895623,Ueberstorf,Niedermettlen
+963,St Antoni_Schleif_23,active_24,Fagus sylvatica (Beech),Switzerland,FR,792,7.273334648,46.81995231,St Antoni,Schleif
+964,Ueberstorf_Bergli_23,present,Abies alba (Silver fir),Switzerland,FR,658,7.321183544,46.87622559,Ueberstorf,Bergli
+965,Jucher_Detligen_23,active_24,Abies alba (Silver fir),Switzerland,BE,665,7.277677218,47.00481337,Jucher,Detligen
+966,Laupen_Rüplisried_23,present,Fagus sylvatica (Beech),Switzerland,BE,560,7.249395809,46.93090888,Laupen,Rüplisried
+967,Laupen_Rain_23,active,Pinus sylvestris (Scots pine),Switzerland,BE,571,7.250610671,46.90155012,Laupen,Rain
+968,Zollhaus_Eggli_23,active,Picea abies (Norwegian Spruce),Switzerland,FR,1000,7.310361738,46.71969732,Zollhaus,Eggli
+969,Aeckenmatt_Bruug_23,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,771,7.370356598,46.85575248,Aeckenmatt,Bruug
+970,Alterswil_Baletswil_23,active,NA,Switzerland,FR,761,7.246110057,46.78084343,Alterswil,Baletswil
+971,Treyvaux_Le Paquier_23,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,923,7.138306989,46.71883467,Treyvaux,Le Paquier
+972,Marly_Râpettes_23,active_24,Quercus robur (English Oak),Switzerland,FR,681,7.169160262,46.77721238,Marly,Râpettes
+973,Flamatt_chrummatt_23,active,Picea abies (Norwegian Spruce),Switzerland,FR,564,7.309605452,46.88269737,Flamatt,chrummatt
+974,Laupen_Rüplisried_N_23,active,Picea abies (Norwegian Spruce),Switzerland,BE,552,7.250117607,46.93138467,Laupen,Rüplisried
+975,Gurmels_Ribacher_23,nest gone,Fagus sylvatica (Beech),Switzerland,BE,531,7.203857199,46.89030425,Gurmels,Ribacher
+976,Schwarzenburg_Chilchermatt_23,active,Picea abies (Norwegian Spruce),Switzerland,BE,871,7.353240331,46.80848751,Schwarzenburg,Chilchermatt
+977,Schwarzenburg_Herrenholz_23,nest gone,Abies alba (Silver fir),Switzerland,BE,838,7.353875271,46.80469553,Schwarzenburg,Herrenholz
+978,Duedingen_Ottisberg_23,active,Fagus sylvatica (Beech),Switzerland,FR,NA,7.170054492,46.854308,Duedingen,Ottisberg
+979,Ueberstorf_Zil_23,active_24,Picea abies (Norwegian Spruce),Switzerland,BE,677,7.314869943,46.85423825,Ueberstorf,Zil
+980,Duedingen_Cholberehielzi_23,active,Fagus sylvatica (Beech),Switzerland,FR,603,7.211375228,46.86515502,Duedingen,Cholberehielzi
+981,Ueberstorf_Summereau_East_23,active,Picea abies (Norwegian Spruce),Switzerland,FR,765,7.330992256,46.85268425,Ueberstorf,Summereau
+982,Tafers_Brunnenbergrain_23 ,active_24,Abies alba (Silver fir),Switzerland,FR,723,7.223360312,46.81168044,Tafers,Brunnenbergrain
+983,Marly_Ranch_E_23,active_24,Fagus sylvatica (Beech),Switzerland,FR,606,7.13616304,46.7733552,Marly,Ranch
+984,Bösingen_risau_23,active,Pinus sylvestris (Scots pine),Switzerland,BE,532,7.216382915,46.90261942,Bösingen,risau
+985,Bösingen_stockmatt_23,active,Abies alba (Silver fir),Switzerland,BE,536,7.21343398,46.90821891,Bösingen,stockmatt
+986,Gurmels_kleinboesingen_23,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,546,7.200734519,46.89505587,Gurmels,kleinboesingen
+987,Kleingurmels_UnderGruenenburg_23,active_24,Fagus sylvatica (Beech),Switzerland,FR,543,7.199072053,46.88682527,Kleingurmels,UnderGruenenburg
+988,Barbereche_LaFenetta_23,active,Fagus sylvatica (Beech),Switzerland,FR,550,7.157537532,46.85335309,Barbereche,LaFenetta
+989,Alterswil_Kuett_23,active,Picea abies (Norwegian Spruce),Switzerland,FR,756,7.273587062,46.77991071,Alterswil,Kuett
+990,Alterswil_Wengliswil_23,active_24,Quercus robur (English Oak),Switzerland,FR,870,7.284389167,46.78142126,Alterswil,Wengliswil
+991,Schwarzenburg_kehrhölzli_23,active,Fagus sylvatica (Beech),Switzerland,BE,780,7.355600975,46.81993891,Schwarzenburg,kehrhölzli
+992,Alpnach_Schlieren_23,active_24,Fagus sylvatica (Beech),Switzerland,OW,525,8.258623482,46.92845652,Alpnach,Schlieren
+993,Fribourg_Guintzet,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,686,7.140255063,46.80468259,Fribourg,Guintzet
+994,Tentlingen_Spittel,active,Quercus robur (English Oak),Switzerland,FR,731,7.191585541,46.77155035,Tentlingen,Spittel
+995,St.Antoni_Lehwil_23,active_24,Fagus sylvatica (Beech),Switzerland,FR,712,7.279129011,46.82902602,St.Antoni,Lehwil
+996,Tafers_Vogelzelg_23,active,Fagus sylvatica (Beech),Switzerland,FR,669,7.21492227,46.80542651,Tafers,Vogelzelg
+997,St.Ursen_Burgstelle_23,active,Fagus sylvatica (Beech),Switzerland,FR,684,7.200151328,46.79352933,St.Ursen,Burgstelle
+998,St.Ursen_Schwandbach_23,active,Quercus robur (English Oak),Switzerland,FR,674,7.20828539,46.79404442,St.Ursen,Schwandbach
+999,St.Ursen_Daelhoelzli_23,active,Pinus sylvestris (Scots pine),Switzerland,FR,712,7.212622623,46.79035917,St.Ursen,Daelhoelzli
+1000,Zumholz_Reinweid_23,active,Fagus sylvatica (Beech),Switzerland,FR,822,7.306398529,46.76169652,Zumholz,Reinweid
+1001,Zumholz_Brand_23,active,Picea abies (Norwegian Spruce),Switzerland,FR,832,7.290118745,46.7588728,Zumholz,Brand
+1002,La Roche_La Fin dessous_23,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,691,7.123060748,46.68887161,La Roche,La Fin dessous
+1003,Villargiroud_Le Pontet_23,active,Fraxinus sp (Ash),Switzerland,FR,782,7.008508646,46.7040442,Villargiroud,Le Pontet
+1004,Romanens_Au Bertholly_23,active,Fagus sylvatica (Beech),Switzerland,FR,892,6.975139274,46.6490877,Romanens,Au Bertholly
+1005,Guggisberg_Schwendelberg_23,active,Picea abies (Norwegian Spruce),Switzerland,BE,1199,7.339955244,46.76878036,Guggisberg,Schwendelberg
+1006,Tafers_Wileracher_23,active_24,Fagus sylvatica (Beech),Switzerland,FR,722,7.240557926,46.82958285,Tafers,Wileracher
+1007,Alterswil_Gruenler_23,active,Quercus robur (English Oak),Switzerland,FR,702,7.227170381,46.80405901,Alterswil,Gruenler
+1008,Zumholz_Bifang_23,active,Quercus robur (English Oak),Switzerland,FR,894,7.288137658,46.7507374,Zumholz,Bifang
+1009,Plasselb_Wannera_23,present,Picea abies (Norwegian Spruce),Switzerland,FR,906,7.247997302,46.74022966,Plasselb,Wannera
+1010,Brunisried_Tana_23,active_24,Fagus sylvatica (Beech),Switzerland,FR,841,7.288099363,46.76580845,Brunisried,Tana
+1011,Rueschegg_Feldweid_23,active,Fagus sylvatica (Beech),Switzerland,BE,988,7.373762077,46.77985691,Rueschegg,Feldweid
+1012,St Antoni_Bachmattholz_23,nest gone,Picea abies (Norwegian Spruce),Switzerland,BE,783,7.302557483,46.80758604,St Antoni,Bachmattholz
+1013,Schwarzenburg_Gurnigeli_23,active,Quercus robur (English Oak),Switzerland,BE,884,7.334372439,46.8062276,Schwarzenburg,Gurnigeli
+1014,Alpnach_Schlieren_Center_23,active_24,Picea abies (Norwegian Spruce),Switzerland,OW,526,8.25787307,46.9280063,Alpnach,Schlieren
+1015,Schwarzenburg_Kehr_23,active_24,Fagus sylvatica (Beech),Switzerland,BE,843,7.360691616,46.8181102,Schwarzenburg,Kehr
+1016,Milken_Hinterfeld_23,active,Fagus sylvatica (Beech),Switzerland,BE,805,7.378826508,46.80039999,Milken,Hinterfeld
+1017,Milken_Weizacker_23,active,Picea abies (Norwegian Spruce),Switzerland,BE,819,7.388003121,46.7996488,Milken,Weizacker
+1018,Mammishaus_Chuenigehus_23,active,Picea abies (Norwegian Spruce),Switzerland,FR,785,7.388389252,46.80623824,Mammishaus,Chuenigehus
+1019,Dudingen_Galmisberg_23,active,Fagus sylvatica (Beech),Switzerland,FR,620,7.219714892,46.86327758,Dudingen,Galmisberg
+1020,St.Ursen_Roeschiwil_23,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,737,7.218576856,46.77410999,St.Ursen,Roeschiwil
+1021,Mammishaus_Winterkraut_23,active,Fagus sylvatica (Beech),Switzerland,BE,774,7.407323847,46.80313536,Mammishaus,Winterkraut
+1022,Mamishaus_Hausmattweid_23,active,Picea abies (Norwegian Spruce),Switzerland,BE,858,7.363994835,46.80955413,Mamishaus,Hausmattweid
+1023,Rechthalten_Chli_Struss_23,active,Fagus sylvatica (Beech),Switzerland,FR,803,7.232671365,46.77551097,Rechthalten,Chli
+1024,Duedingen_Schueracher_23,active_24,Pinus sylvestris (Scots pine),Switzerland,FR,623,7.203599537,46.85743336,Duedingen,Schueracher
+1025,Duedingen_Fuchsenacher_23,active_24,"Tilia sp (lime, linden)",Switzerland,FR,532,7.172169617,46.85875195,Duedingen,Fuchsenacher
+1026,Heintenried_Winterlingen_23,active,Quercus robur (English Oak),Switzerland,FR,754,7.289954823,46.82442855,Heintenried,Winterlingen
+1027,Bonnefontaine_Ruedigraben_23,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,756,7.206611683,46.74392328,Bonnefontaine,Ruedigraben
+1028,St.Antoni_Steinberg_23,active_24,Abies alba (Silver fir),Switzerland,FR,873,7.282042869,46.81601103,St.Antoni,Steinberg
+1029,Schwarzenburg_Herrenolz_23,nest gone,Abies alba (Silver fir),Switzerland,BE,826,7.353451002,46.80520703,Schwarzenburg,Herrenolz
+1030,St.Antoni_Halta_23,active,Picea abies (Norwegian Spruce),Switzerland,FR,745,7.305929885,46.81008668,St.Antoni,Halta
+1031,Thoerishaus_Grabe_23,active,Abies alba (Silver fir),Switzerland,BE,666,7.372294855,46.88750075,Thoerishaus,Grabe
+1032,Neuenegg_Schniedersweid_23,active,Fagus sylvatica (Beech),Switzerland,BE,570,7.295839816,46.90124231,Neuenegg,Schniedersweid
+1033,Bösingen_Bollholz_23,active,Fagus sylvatica (Beech),Switzerland,BE,530,7.218728922,46.90308873,Bösingen,Bollholz
+1034,Schmitten_gwatt_23,active,Picea abies (Norwegian Spruce),Switzerland,FR,623,7.254942924,46.8602722,Schmitten,gwatt
+1035,Seedorf_Hale_23,active,Fagus sylvatica (Beech),Switzerland,BE,584,7.32300383,47.03078644,Seedorf,Hale
+1036,Aeckenmatt_Bruug _Fir_23,active_24,Abies alba (Silver fir),Switzerland,BE,763,7.369568794,46.85646086,Aeckenmatt,Bruug 
+1037,Marly_Le Riedelet_23,active,Fagus sylvatica (Beech),Switzerland,FR,618,7.136587775,46.78434645,Marly,Le Riedelet
+1038,Marly_Planafaye_23,active,Fagus sylvatica (Beech),Switzerland,FR,601,7.141361523,46.78848243,Marly,Planafaye
+1039,Marly_Ecoles_23,active,Fagus sylvatica (Beech),Switzerland,FR,618,7.146092085,46.78494395,Marly,Ecoles
+1040,Plasselb_Lantershubel_22,active,Fagus sylvatica (Beech),Switzerland,FR,980,7.24587922,46.74089112,Plasselb,Lantershubel
+1041,Ueberstorf_Messerla_23,active,Quercus robur (English Oak),Switzerland,FR,687,7.317733159,46.86210374,Ueberstorf,Messerla
+1043,Schmitten_richterwilbach_23,active,Quercus robur (English Oak),Switzerland,FR,600,7.245179929,46.86682384,Schmitten,richterwilbach
+1044,St.Ursen_St.Ursenhubel_23,active,Fagus sylvatica (Beech),Switzerland,FR,708,7.2282086230000004,46.7892495,St.Ursen,St.Ursenhubel
+1045,Rechthalten_Gau_23,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,911,7.259719655,46.76423657,Rechthalten,Gau
+1047,Vaulrus_La Cierne(bis)_23,active,Fraxinus sp (Ash),Switzerland,FR,815,7.010879442,46.62609744,Vaulrus,La Cierne(bis)
+1048,Romanens_En la coutha_23,active,Quercus robur (English Oak),Switzerland,FR,925,6.965488675,46.65518853,Romanens,En la coutha
+1049,Romanens_Es Echelettes_23,active,Fraxinus sp (Ash),Switzerland,FR,854,6.966262157,46.64962362,Romanens,Es Echelettes
+1050,Romanens_Ruisseau d'argile_23,active,Fraxinus sp (Ash),Switzerland,FR,795,6.953024232,46.64385175,Romanens,Ruisseau d'argile
+1051,Romanens_En Chenaux_23,active,Fagus sylvatica (Beech),Switzerland,FR,829,6.955272253,46.66604353,Romanens,En Chenaux
+1052,Romanens_Villariaz_23,active,Fraxinus sp (Ash),Switzerland,FR,753,6.941738173,46.66056514,Romanens,Villariaz
+1053,Romanens_La Placetta_23,active,Betula (Birch),Switzerland,FR,857,6.954864396,46.65391989,Romanens,La Placetta
+1062,Plaffeien_Fuhra_23,active,Fraxinus sp (Ash),Switzerland,FR,836,7.293948236,46.74727645,Plaffeien,Fuhra
+1063,Oberschrot_Sali_23,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,922,7.268040374,46.74139217,Oberschrot,Sali
+1064,Schmitten_Ochsenried_23,active,Picea abies (Norwegian Spruce),Switzerland,FR,681,7.240971433,46.85450371,Schmitten,Ochsenried
+1065,Mettlen_Buchen_23,active_24,Larix decidua (larch),Switzerland,TG,610,9.150652363,47.50803993,Mettlen,Buchen
+1066,Jucher_Sängimatt_23,nest gone,Fraxinus sp (Ash),Switzerland,BE,656,7.290529612,47.01104274,Jucher,Sängimatt
+1067,Ueberstorf_Breiteli_23,active,Pinus strobus (Weymouth pine),Switzerland,FR,653,7.303903437,46.86319067,Ueberstorf,Breiteli
+1068,Schwarzenburg_Bachtelen_23,active_24,Abies alba (Silver fir),Switzerland,BE,882,7.324330771,46.80265941,Schwarzenburg,Bachtelen
+1069,Alterswil_Chleeholz_23,active,Larix decidua (larch),Switzerland,FR,880,7.290488504,46.78558199,Alterswil,Chleeholz
+1070,Heitenried_Lettisberg_23,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,786,7.291747962,46.81836957,Heitenried,Lettisberg
+1071,St Antoni_Gagenoli_23,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,669,7.25386566,46.82508549,St Antoni,Gagenoli
+1075,Riggisberg_Muri_23,active,Fagus sylvatica (Beech),Switzerland,BE,810,7.463181552,46.8103725,Riggisberg,Muri
+1076,Milken_Rothen_23,active,Picea abies (Norwegian Spruce),Switzerland,BE,788,7.393160031,46.80374618,Milken,Rothen
+1077,Rechthalten_Halti_23,active,Quercus robur (English Oak),Switzerland,FR,900,7.245668525,46.76796669,Rechthalten,Halti
+1078,Rechthalten_Ober Bruegi_23,active,Larix decidua (larch),Switzerland,FR,879,7.264087813,46.76445611,Rechthalten,Ober Bruegi
+1079,Oberschrot_Grube_23,active,Quercus robur (English Oak),Switzerland,FR,921,7.275894601,46.74439772,Oberschrot,Grube
+1080,Guggisberg_Hostetten_23,active,Picea abies (Norwegian Spruce),Switzerland,BE,1020,7.314591638,46.76089153,Guggisberg,Hostetten
+1081,Schwarzenburg_Allmithubel_23,active,Picea abies (Norwegian Spruce),Switzerland,BE,884,7.337295794,46.80456571,Schwarzenburg,Allmithubel
+1082,Kalchstatten_Sandflue_23,active,Abies alba (Silver fir),Switzerland,BE,828,7.29245794,46.77267921,Kalchstatten,Sandflue
+1083,Ueberstorf_Summerau_23,active,Fagus sylvatica (Beech),Switzerland,BE,748,7.329416075,46.8507752,Ueberstorf,Summerau
+1084,Cordast_ChampDessus_23,active,Quercus robur (English Oak),Switzerland,FR,NA,7.168022455,46.86454971,Cordast,ChampDessus
+1085,Alterswil_Chala_23,active_24,Abies alba (Silver fir),Switzerland,FR,877,7.299959477,46.78826363,Alterswil,Chala
+1086,Villargiroud_LesNoutes_23,active,Fraxinus sp (Ash),Switzerland,FR,786,7.004509243,46.70298982,Villargiroud,LesNoutes
+1087,Ueberstorf_Spitzmatte_23,active_24,Pinus sylvestris (Scots pine),Switzerland,FR,675,7.290545426,46.85864545,Ueberstorf,Spitzmatte
+1088,Schmitten_Zirkelsgraben_23,active,Fagus sylvatica (Beech),Switzerland,FR,639,7.276082963,46.85940195,Schmitten,Zirkelsgraben
+1089,Ueberstorf_Summerau_E_23,active,Picea abies (Norwegian Spruce),Switzerland,FR,773,7.329292678,46.85160835,Ueberstorf,Summerau
+1090,Plasselb_Muehlebach_23,nest gone,Abies alba (Silver fir),Switzerland,FR,982,7.256011058,46.72434547,Plasselb,Muehlebach
+1091,Heitenried_Magdalenaholz_23,active,Abies alba (Silver fir),Switzerland,FR,804,7.308554163,46.83284275,Heitenried,Magdalenaholz
+1092,Marly_Lesfontanettes_23,active,Picea abies (Norwegian Spruce),Switzerland,FR,676,7.158786868,46.76910396,Marly,Lesfontanettes
+1093,Marly_Ranch_Spruce_23,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,617,7.135791779,46.77399854,Marly,Ranch
+1094,Gurmels_Houllerain_23,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,533,7.202506237,46.88774119,Gurmels,Houllerain
+1095,France_Jujurieux_23,active_24,Pinus sylvestris (Scots pine),France,Ain,310,5.399379995,46.04321453,France,Jujurieux
+1096,Massonens_Neirigue_23,nest gone,Quercus robur (English Oak),Switzerland,FR,768,6.951507097,46.68395433,Massonens,Neirigue
+1097,Lanzernhasern_Gschneithoelzli_23,active,Picea abies (Norwegian Spruce),Switzerland,BE,790,7.367550586,46.84235549,Lanzernhasern,Gschneithoelzli
+1098,St Antoni_Menzihustop_23,nest gone,Picea abies (Norwegian Spruce),Switzerland,FR,699,7.266661542,46.8310949,St Antoni,Menzihustop
+1099,Schwarzenburg_Herrenholz_S_23,active_24,Abies alba (Silver fir),Switzerland,BE,868,7.35346333,46.80396635,Schwarzenburg,Herrenholz
+1100,Werthenstein_Aengelgrabe_23,active,Abies alba (Silver fir),Switzerland,BE,655,8.116078967,47.04433385,Werthenstein,Aengelgrabe
+1101,La_Roche_la_Fin_Dessous_24,present,Fagus sylvatica (Beech),Switzerland,FR,705,7.123271952,46.68955783,La,Roche
+1102,St.Antoni_Grenchen_24,present,Quercus robur (English Oak),Switzerland,FR,710,7.278691445,46.82892332,St.Antoni,Grenchen
+1103,Rueggisberg_Schwanden_24,present,Fraxinus sp (Ash),Switzerland,BE,847,7.408863631,46.8148884,Rueggisberg,Schwanden
+1104,Oberschrot_Sali_24,present,Quercus robur (English Oak),Switzerland,FR,926,7.267973114,46.74140618,Oberschrot,Sali
+1105,Heitenried_Chapfholz_24,present,Fagus sylvatica (Beech),Switzerland,FR,788,7.306986735,46.842492,Heitenried,Chapfholz
+1107,Boesingen_Hanehus_24,present,Quercus robur (English Oak),Switzerland,FR,498,7.218879656,46.89357048,Boesingen,Hanehus
+1108,Barbereche_laChasse_24,present,Quercus robur (English Oak),Switzerland,FR,618,7.151988776,46.85600854,Barbereche,laChasse
+1109,Gurmels_Kleinboesingen_24,present,Fagus sylvatica (Beech),Switzerland,FR,554,7.201728931,46.89575352,Gurmels,Kleinboesingen
+1110,Ueberstorf_Trittehuesere_24,present,Fagus sylvatica (Beech),Switzerland,FR,594,7.299854398,46.87107721,Ueberstorf,Trittehuesere
+1111,Mittelhaeusern_Gaeu_24,present,Picea abies (Norwegian Spruce),Switzerland,BE,615,7.355632804,46.87771606,Mittelhaeusern,Gaeu
+1112,Plaffeien_Fuhra_24,active_24,Fraxinus sp (Ash),Switzerland,FR,845,7.291685705,46.74542237,Plaffeien,Fuhra
+1113,Heitenried_Spitzacher ,present,Fagus sylvatica (Beech),Switzerland,FR,749,7.3110679,46.82717148,Heitenried,Spitzacher 
+1114,Oberschrot_Sali_24,present,Quercus robur (English Oak),Switzerland,FR,943,7.272047774,46.74371007,Oberschrot,Sali
+1115,Bösingen_Waldheim_24,active_24,Pinus sylvestris (Scots pine),Switzerland,FR,571,7.254774394,46.89230828,Bösingen,Waldheim
+1116,Bösingen_Waldheim_24,present,Fagus sylvatica (Beech),Switzerland,FR,558,7.254785514,46.892515,Bösingen,Waldheim
+1117,Montbovon_Comba d'Avau,present,Abies alba (Silver fir),Switzerland,FR,805,7.048150917,46.49293258,Montbovon,Comba d'Avau
+1118,Niedermuhren_Schärnera_24,present,Quercus robur (English Oak),Switzerland,FR,699,7.281189732,46.8414839,Niedermuhren,Schärnera
+1119,Niedermuhren_Schärnera_pine_24,present,Pinus sylvestris (Scots pine),Switzerland,FR,718,7.281911112,46.84177669,Niedermuhren,Schärnera
+1120,Gurmels_Kleinbösingen_pine_24,present,Pinus sylvestris (Scots pine),Switzerland,FR,551,7.201491424,46.89524705,Gurmels,Kleinbösingen
+1121,Ueberstorf_Wolfgraben_24,active_24,Fraxinus sp (Ash),Switzerland,FR,619,7.309856484,46.8739754,Ueberstorf,Wolfgraben
+1122,St.Ursen_Roeschiwil_24,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,761,7.219141329,46.77355403,St.Ursen,Roeschiwil
+1123,Milken_Weizacker_24,present,Picea abies (Norwegian Spruce),Switzerland,BE,811,7.389724439,46.80262404,Milken,Weizacker
+1124,Plaffeien_Berg_24,present,Quercus robur (English Oak),Switzerland,FR,900,7.283098779,46.74592606,Plaffeien,Berg
+1125,Le_Mouret_Le_Grabo_24,active_24,Quercus robur (English Oak),Switzerland,FR,742,7.185276785,46.74842781,Le Mouret,Le Grabo
+1126,Rechthalten_Bergli_24,active_24,Quercus robur (English Oak),Switzerland,FR,874,7.249412517,46.77247598,Rechthalten,Bergli
+1127,Gurmels_Kleinbösingen_Quercus_24,present,Quercus robur (English Oak),Switzerland,FR,550,7.200265122,46.89398889,Gurmels,Kleinbösingen
+1128,Bösingen_Riesenau_24,active_24,Pinus sylvestris (Scots pine),Switzerland,BE,502,7.214450337,46.9012119,Bösingen,Riesenau
+1129,Rütihof_Schlatt,active_24,Fraxinus sp (Ash),Switzerland,AG,375,8.257725997,47.44347434,Rütihof,Schlatt
+1130,Alpnach_Schlieren_24,present,Fagus sylvatica (Beech),Switzerland,OW,523,8.258861366,46.92785727,Alpnach,Schlieren
+1131,Barbereche_GrandBois_24,active_24,Pinus sylvestris (Scots pine),Switzerland,FR,647,7.155805003,46.862581,Barbereche,GrandBois
+1132,Ueberstorf_Bergli_24,active_24,Quercus robur (English Oak),Switzerland,FR,631,7.310872813,46.87735188,Ueberstorf,Bergli
+1133,Alterswil_Galteren_24,active_24,Quercus robur (English Oak),Switzerland,FR,676,7.226217777,46.80103711,Alterswil,Galteren
+1134,Alterswil_Püntli_24,present,Fagus sylvatica (Beech),Switzerland,FR,838,7.286059805,46.78514094,Alterswil,Püntli
+1135,Heitenried_Schindelhus_24,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,745,7.306965583,46.812979,Heitenried,Schindelhus
+1136,Wallenbuch_Gümmenenau_24,present,Fagus sylvatica (Beech),Switzerland,FR,488,7.232902621,46.93550384,Wallenbuch,Gümmenenau
+1137,Wallenbuch_Grossacher_24,nest gone,Pinus sylvestris (Scots pine),Switzerland,FR,519,7.231010866,46.93441499,Wallenbuch,Grossacher
+1138,Alterswil_Husschürli_24,nest gone,Fagus sylvatica (Beech),Switzerland,FR,845,7.285335542,46.78473592,Alterswil,Husschürli
+1139,Plaffeien_Dütschbach_24,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,825,7.294713173,46.74881679,Plaffeien,Dütschbach
+1140,St.Antoni_Menzihustop_24,active_24,Abies alba (Silver fir),Switzerland,FR,730,7.267499356,46.83208923,St.Antoni,Menzihustop
+1141,St.Antoni_Menzihus_24,active_24,Abies alba (Silver fir),Switzerland,FR,723,7.272939467,46.83400829,St.Antoni,Menzihus
+1142,Heitenried _Vogelsang_24,present,Fagus sylvatica (Beech),Switzerland,FR,773,7.304659522,46.81524468,Heitenried ,Vogelsang
+1143,Düdingen_UnterSt.Wolfgangholz_24,present,Fagus sylvatica (Beech),Switzerland,FR,622,7.17721828,46.83308123,Düdingen,UnterSt.Wolfgangholz
+1144,Kleinbösingen_Wyerholz_24,present,Fagus sylvatica (Beech),Switzerland,FR,530,7.202164442,46.89483636,Kleinbösingen,Wyerholz
+1145,Kleinbösingen_UnderGrueneburg_24,present,Fagus sylvatica (Beech),Switzerland,FR,530,7.198582523,46.88609682,Kleinbösingen,UnderGrueneburg
+1146,Wallenbuch_Riedacher_24,present,Fagus sylvatica (Beech),Switzerland,FR,520,7.229240188,46.93661452,Wallenbuch,Riedacher
+1147,Wallenbuch_Holzacher_24,present,Fagus sylvatica (Beech),Switzerland,FR,532,7.229863113,46.93197687,Wallenbuch,Holzacher
+1148,Altbüron_Ängelgehr_24,nest gone,Picea abies (Norwegian Spruce),Switzerland,LU,619,7.886851573,47.17824377,Altbüron,Ängelgehr
+1149,Alterswil_Husschürli_spruce_24,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,837,7.285412787,46.78502427,Alterswil,Husschürli
+1150,Oberschrot_AufderEgg_24,active_24,Quercus robur (English Oak),Switzerland,FR,905,7.278490228,46.74471508,Oberschrot,AufderEgg
+1151,Guggisberg_Katzenstieg_24,active_24,Quercus robur (English Oak),Switzerland,BE,818,7.301764788,46.76321981,Guggisberg,Katzenstieg
+1152,Rüschegg_Oberfeld_24,nest gone,Fagus sylvatica (Beech),Switzerland,BE,958,7.370798603,46.77703145,Rüschegg,Oberfeld
+1153,Schwanden_Flüewald_24,active_24,Picea abies (Norwegian Spruce),Switzerland,BE,834,7.409208138,46.81257583,Schwanden,Flüewald
+1154,Rohrbach_Schwandenhoehe,present,Picea abies (Norwegian Spruce),Switzerland,BE,NA,7.410198184,46.81229197,Rohrbach,Schwandenhoehe
+1155,Aekenmatt_Studengraben_24,active_24,Abies alba (Silver fir),Switzerland,BE,708,7.357913419,46.85029512,Aekenmatt,Studengraben
+1156,Vaulruz_L'Adrey,present,Quercus robur (English Oak),Switzerland,FR,821,6.960627731,46.62884549,Vaulruz,L'Adrey
+1157,Vaulruz_Le_Rontet,present,Fraxinus sp (Ash),Switzerland,FR,841,6.962252695,46.63190903,Vaulruz,Le
+1158,Wallenbuch_Aumatte_24,present,Fagus sylvatica (Beech),Switzerland,FR,484,7.231469432,46.93264591,Wallenbuch,Aumatte
+1159,Wallenbuch_Rainwald_24,present,Pinus sylvestris (Scots pine),Switzerland,FR,525,7.230961284,46.93455326,Wallenbuch,Rainwald
+1160,Niedermuhren_Tuntela,present,Fagus sylvatica (Beech),Switzerland,FR,713,7.283845683,46.8478417,Niedermuhren,Tuntela
+1161,Detligen_Igelrain_24,present,Picea abies (Norwegian Spruce),Switzerland,BE,675,7.278974062,47.00535987,Detligen,Igelrain
+1162,Fribourg_Lorette ,active_24,Fagus sylvatica (Beech),Switzerland,FR,619,7.16629327,46.80121096,Fribourg,Lorette 
+1164,Laupen_Schloss_24,present,Pinus sylvestris (Scots pine),Switzerland,BE,576,7.251429764,46.90137586,Laupen,Schloss
+1165,Ueberstorf_Aebnet_24,active_24,Pinus sylvestris (Scots pine),Switzerland,FR,644,7.35011167,46.87753785,Ueberstorf,Aebnet
+1166,Alterswil_Gübel_24,present,Quercus robur (English Oak),Switzerland,FR,666,7.224557964,46.80202249,Alterswil,Gübel
+1167,Alterswil_Weid_24,active_24,Fagus sylvatica (Beech),Switzerland,FR,688,7.229439824,46.79077978,Alterswil,Weid
+1168,Brünisried_Rüdeweid_24,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,923,7.274565497,46.76079194,Brünisried,Rüdeweid
+1169,Montbovon_Comba_d'Avau_24,active_24,Abies alba (Silver fir),Switzerland,FR,830,7.048589649,46.49323922,Montbovon,Comba d'Avau
+1170,Niedermuhren_Schaernera_spruce_24,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,700,7.281229915,46.84152958,Niedermuhren,Schaernera
+1171,Milken_Borbezried_24,active_24,Fagus sylvatica (Beech),Switzerland,BE,776,7.388786221,46.80354025,Milken,Borbezried
+1172,Laupen_Wyderain_24,present,Pinus sylvestris (Scots pine),Switzerland,BE,586,7.256475533,46.9006025,Laupen,Wyderain
+1173,Kleinbösingen_Bergacher_24,present,Picea abies (Norwegian Spruce),Switzerland,FR,531,7.203165963,46.8961079,Kleinbösingen,Bergacher
+1174,Brünisried_Änetschweni_24,present,Picea abies (Norwegian Spruce),Switzerland,FR,848,7.288157745,46.76521833,Brünisried,Änetschweni
+1175,Guggisberg_Zahmisholz_24,active_24,Abies alba (Silver fir),Switzerland,BE,1036,7.328450769,46.77856163,Guggisberg,Zahmisholz
+1176,Guggisberg_Buchwald_24,active_24,Picea abies (Norwegian Spruce),Switzerland,BE,1030,7.343330407,46.7597815,Guggisberg,Buchwald
+1177,Niedermuhren_Tuntela_spruce,present,Picea abies (Norwegian Spruce),Switzerland,FR,708,7.289019569,46.84693669,Niedermuhren,Tuntela
+1178,Marly_Villarsel_sur_Marly,active_24,Quercus robur (English Oak),Switzerland,FR,737,7.173531495,46.7584855,Marly,Villarsel
+1179,Montbovon_La_Gite,present,Fagus sylvatica (Beech),Switzerland,FR,790,7.050523898,46.48816077,Montbovon,La
+1180,Kleinbösingen_Gammacher_24,active_24,Fagus sylvatica (Beech),Switzerland,FR,528,7.202390489,46.887679,Kleinbösingen,Gammacher
+1181,Laupen_Luchli_24,active_24,Quercus robur (English Oak),Switzerland,BE,579,7.256675853,46.90021901,Laupen,Luchli
+1182,St.Ursen_Stoeckholz_24,active_24,Fagus sylvatica (Beech),Switzerland,FR,769,7.228823886,46.78634571,St.Ursen,Stoeckholz
+1183,Flamatt_Holzacker_24,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,575,7.324039585,46.88712534,Flamatt,Holzacker
+1184,Thörishaus_Grossweid_24,present,Picea abies (Norwegian Spruce),Switzerland,BE,620,7.354594989,46.89368004,Thörishaus,Grossweid
+1185,Rechthalten_Saga_24,present,Fraxinus sp (Ash),Switzerland,FR,887,7.25652792,46.76208599,Rechthalten,Saga
+1186,Ueberstorf_Niedermettlen_24,active_24,Fagus sylvatica (Beech),Switzerland,FR,687,7.326135653,46.86867903,Ueberstorf,Niedermettlen
+1187,Alterswil_Heimberg_24,present,Picea abies (Norwegian Spruce),Switzerland,FR,794,7.283621052,46.79436084,Alterswil,Heimberg
+1188,Zumholz_Limbach_24,active_24,Acer sp (maple),Switzerland,FR,819,7.290711336,46.75887613,Zumholz,Limbach
+1189,Zumholz_Riedgarten_24,active_24,Fagus sylvatica (Beech),Switzerland,FR,846,7.287431747,46.75818052,Zumholz,Riedgarten
+1190,Tentlingen_Rossmatta_24,present,Fagus sylvatica (Beech),Switzerland,FR,702,7.181878652,46.76780382,Tentlingen,Rossmatta
+1191,Romont_Haut_des_Champs,active_24,Fraxinus sp (Ash),Switzerland,FR,671,6.949622033,46.67714587,Romont,Haut des Champs
+1192,Milken_Weid_24,active_24,Abies alba (Silver fir),Switzerland,BE,787,7.38809771,46.79990758,Milken,Weid
+1193,Gotteron_Cote_du_Gotteron_24,active_24,Fagus sylvatica (Beech),Switzerland,FR,625,7.17949406,46.8020822,Gotteron,Cote du Gotteron
+1194,Ueberstorf_Mischleren_24,present,Fagus sylvatica (Beech),Switzerland,FR,699,7.301707132,46.85251934,Ueberstorf,Mischleren
+1195,Ueberstorf_Riedhalden_24,active_24,Fagus sylvatica (Beech),Switzerland,FR,608,7.309704124,46.87716322,Ueberstorf,Riedhalden
+1196,Spiez_Grafematte,active_24,Acer sp (maple),Switzerland,BE,683,7.677271982,46.66023719,Spiez,Grafematte
+1197,Wilen_Homberg_24,present,Quercus robur (English Oak),Switzerland,SG,596,9.157164971,47.42774625,Wilen,Homberg
+1198,Riffenmatt_Dorfmatte_24,active_24,Fagus sylvatica (Beech),Switzerland,BE,928,7.337907518,46.78452592,Riffenmatt,Dorfmatte
+1199,Wallenbuch_Grossacher_beech_24,present,Fagus sylvatica (Beech),Switzerland,FR,528,7.230813106,46.93380425,Wallenbuch,Grossacher
+1200,Thörishaus_Reiti_24,present,Pinus sylvestris (Scots pine),Switzerland,BE,663,7.356857651,46.89513053,Thörishaus,Reiti
+1201,Heitenried_Brämeriedholz_24,present,Fagus sylvatica (Beech),Switzerland,FR,744,7.290460178,46.82465062,Heitenried,Brämeriedholz
+1202,Heitenried_Brüeliwiese_24,present,Quercus robur (English Oak),Switzerland,FR,725,7.289560489,46.82578373,Heitenried,Brüeliwiese
+1203,Heitenried_Lettiswil_24,active_24,Fagus sylvatica (Beech),Switzerland,FR,779,7.301269193,46.82045791,Heitenried,Lettiswil
+1204,Giffers_Tschuepru,active_24,Fagus sylvatica (Beech),Switzerland,FR,788,7.215632697,46.74832454,Giffers,Tschuepru
+1205,Giffers_Tschuepru_oak,present,Quercus robur (English Oak),Switzerland,FR,788,7.216362717,46.74794773,Giffers,Tschuepru
+1206,Milken_Unterwyden_24,present,Fagus sylvatica (Beech),Switzerland,BE,784,7.388029712,46.79980269,Milken,Unterwyden
+1207,Milken_Wengerli_24,present,Picea abies (Norwegian Spruce),Switzerland,BE,779,7.387895558,46.80054273,Milken,Wengerli
+1208,Alterswil_Wolperswilgraben_24,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,723,7.250313728,46.78555332,Alterswil,Wolperswilgraben
+1209,Alterswil_Sagenacher_24,active_24,Quercus robur (English Oak),Switzerland,FR,744,7.271155923,46.78207433,Alterswil,Sagenacher
+1210,Oberschrot_Berg_24,active_24,Quercus robur (English Oak),Switzerland,FR,917,7.279791992,46.74551516,Oberschrot,Berg
+1211,Rechthalten_Sandgrueba_24,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,909,7.256178711,46.76136816,Rechthalten,Sandgrueba
+1212,Milken_Unterwide_24,present,Abies alba (Silver fir),Switzerland,BE,796,7.387334494,46.79978636,Milken,Unterwide
+1213,Milken_Haldenschlucht_24,present,Picea abies (Norwegian Spruce),Switzerland,BE,948,7.363013008,46.79468545,Milken,Haldenschlucht
+1214,Kirchberg_Hasenberg_24,active_24,Picea abies (Norwegian Spruce),Switzerland,SG,762,9.032787012,47.4097338,Kirchberg,Hasenberg
+1215,Wilen_Ochsenweid_24,active_24,Quercus robur (English Oak),Switzerland,SG,596,9.157113282,47.42778052,Wilen,Ochsenweid
+1216,Vaulruz_Les_Molettes_24,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,883,7.004664717,46.62932376,Vaulruz,Les Molettes
+1217,St.Ursen_Neumatt_24,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,658,7.211480247,46.80055397,St.Ursen,Neumatt
+1218,Alterswil_Bachmatt_24,present,Abies alba (Silver fir),Switzerland,FR,769,7.302307938,46.80753749,Alterswil,Bachmatt
+1219,Alterswil_Holzweid_24,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,695,7.230132899,46.79153037,Alterswil,Holzweid
+1220,Altbüron_Rislere_24,active_24,Fagus sylvatica (Beech),Switzerland,LU,669,7.89010124,47.17643951,Altbüron,Rislere
+1221,Alterswil_Boden_24,active_24,Picea abies (Norwegian Spruce),Switzerland,FR,746,7.250779111,46.78324948,Alterswil,Boden
+1222,Aekenmatt_Trunggli_24,active_24,Abies alba (Silver fir),Switzerland,BE,702,7.355281146,46.84998597,Aekenmatt,Trunggli
+1223,Heubach_Stüdelibode_24,present,Picea abies (Norwegian Spruce),Switzerland,BE,836,7.408751,46.786612,Heubach,Stüdelibode

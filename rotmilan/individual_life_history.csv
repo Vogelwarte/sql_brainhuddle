@@ -1,0 +1,1328 @@
+bird_id,ring_number,species,municipality,location,tag_year,sex,mol_sex,tarsus_sex,sex_compiled,age,hatch_year,hatching_date,manufacturer,transm_gsm,transm_uhf,transm_color,nest_of_origin_ID,comments
+397,M039208,Milvus milvus,Bruenisried,Brueggla,2017,unknown,f,NA,f,1CY,2017,05.05.2017,ecotone,SWIK01,SIU08,brown,349,NA
+85,M023919,Milvus milvus,Guggisberg,Willmesacher,2016,unknown,m,NA,m,1CY,2016,13.05.2016,ecotone,SWIK01,SIU08,brown,90,NA
+70,M023955,Milvus milvus,Onnens,16,2016,unknown,f,NA,f,1CY,2016,18.05.2016,ecotone,SWIK98,WIS01,brown,178,NA
+128,M023933,Milvus milvus,Guggisberg,Brannele,2016,unknown,m,NA,m,1CY,2016,16.05.2016,ecotone,SWIK02,SIU09,brown,208,NA
+95,M036559,Milvus milvus,Alterswil,aeschlenberg 16,2016,unknown,m,NA,m,1CY,2016,10.05.2016,ecotone,WSIK50,SIW22,brown,200,NA
+94,M036558,Milvus milvus,Alterswil,aeschlenberg 16,2016,unknown,f,NA,f,1CY,2016,14.05.2016,ecotone,WSIK52,SIW24,brown,200,NA
+171,M023886,Milvus milvus,Corserey,North_Corserey,2015,unknown,f,NA,f,1CY,2015,15.05.2015,ecotone,SWIK03,MLR16,red,70,"2022: badly tramitting /ghost , last uhf contact 21.04.2022"
+175,M023890,Milvus milvus,Ueberstorf,Niedermettlen,2015,unknown,f,NA,f,1CY,2015,16.05.2015,ecotone,SWIK14,MLR20,red,5,NA
+9,M035177,Milvus milvus,Schmitten,Fillistorf,2016,m,m,NA,m,3CY+,unknown,NA,ecotone,SWIK81,SWI14,brown,unknown,NA
+173,M023888,Milvus milvus,Ueberstorf,Lenglod,2015,unknown,f,NA,f,1CY,2015,27.05.2015,ecotone,SWIK05,MLR12,red,4,NA
+11,M035179,Milvus milvus,St. Antoni,Baechlisbrunnen,2016,f,f,NA,f,3CY+,unknown,NA,ecotone,SWIK62,SIU23,blue,unknown,NA
+755,M039685,Milvus milvus,Wahlern,Althaus_18,2019,unknown,m,NA,m,1CY,2019,25.04.2019,milsar,78309F1C,1225,NA,476,NA
+315,M039013,Milvus milvus,Riffenmatt,Chrache,2017,unknown,f,NA,f,1CY,2017,30.04.2017,ecotone,SWIK05,SIU12,brown,288,NA
+756,R7456,Milvus milvus,Wahlern,Althaus_18,2019,unknown,f,NA,f,1CY,2019,25.04.2019,milsar,AA329F1C,1249,NA,476,Ring changed from M039686 to R7456 because it had been too small
+1060,M068112,Milvus milvus,Ursy,Au Cuard,2021,unknown,m,NA,m,1CY,2021,17.05.2021,milsar,276AFE12,5018,NA,676,NA
+1034,M068116,Milvus milvus,St. Antoni,Bachmattholz,2021,unknown,m,NA,m,1CY,2021,19.05.2021,milsar,94392D10,5047,NA,559,NA
+1035,M068117,Milvus milvus,St. Antoni,Bachmattholz,2021,unknown,m,NA,m,1CY,2021,19.05.2021,milsar,90D0D910,5045,NA,559,NA
+1162,M068148,Milvus milvus,St. Antoni,Bachmattholz,2022,unknown,m,NA,m,1CY,2022,13.05.2022,milsar,EAF0A215,3029,NA,559,NA
+92,M023958,Milvus milvus,St. Antoni,Baechlisbrunnen 16,2016,unknown,f,NA,f,1CY,2016,12.05.2016,ecotone,SWIK91,SWI24,brown,215,NA
+93,M023959,Milvus milvus,St. Antoni,Baechlisbrunnen 16,2016,unknown,f,NA,f,1CY,2016,13.05.2016,ecotone,WSIK45,SIW17,brown,215,NA
+306,M036646,Milvus milvus,St. Antoni,Baechlisbrunnen_17,2017,unknown,f,NA,f,1CY,2017,30.04.2017,ecotone,KIWS53,RED05,brown,277,NA
+305,M036645,Milvus milvus,St. Antoni,Baechlisbrunnen_17,2017,unknown,f,NA,f,1CY,2017,30.04.2017,ecotone,KIWS62,RED15,brown,277,NA
+710,M039697,Milvus milvus,Schmitten,Lanthenholz_17,2019,unknown,f,NA,f,1CY,2019,01.05.2019,ecotone,KISS02,KIA02,NA,313,NA
+519,M045195,Milvus milvus,St. Antoni,Baechlisbrunnen_18,2018,unknown,f,NA,f,1CY,2018,16.05.2018,ecotone,KIWS74,RED27,brown,397,NA
+914,M045949,Milvus milvus,St. Antoni,Baechlisbrunnen_19,2020,unknown,f,NA,f,1CY,2020,12.05.2020,milsar,AFD0D910,1266,NA,582,NA
+102,M036560,Milvus milvus,Duedingen,Balliswil,2016,unknown,m,NA,m,1CY,2016,10.05.2016,ecotone,WSIK34,SIW06,brown,152,2021: Ghost bird
+135,M036574,Milvus milvus,Niedermuhlern,Schuer picea,2016,unknown,f,NA,f,1CY,2016,14.05.2016,ecotone,SWIK05,SIU12,brown,191,NA
+170,M023885,Milvus milvus,Corserey,Les Vuettes,2015,unknown,f,NA,f,1CY,2015,12.05.2015,ecotone,SWIK06,MLR17,red,71,NA
+76,M035200,Milvus milvus,Tentlingen,Vieille Rossmatta power line,2016,unknown,f,NA,f,1CY,2016,23.05.2016,ecotone,SWIK06,SIU17,red,218,NA
+830,M045805,Milvus milvus,Rechthalten,Bergli,2019,unknown,m,NA,m,1CY,2019,23.05.2019,milsar,7DBC0C1D,1218,NA,589,2023: New settler
+922,M045958,Milvus milvus,Rechthalten,Bergli,2020,unknown,m,NA,m,1CY,2020,16.05.2020,milsar,A2D0D910,1275,NA,589,Date of death not sure
+1168,M051176,Milvus milvus,Rechthalten,Bergli,2022,unknown,m,NA,m,1CY,2022,02.05.2022,milsar,E7F0A215,3011,NA,589,NA
+1169,R6569,Milvus milvus,Rechthalten,Bergli,2022,unknown,f,NA,f,1CY,2022,02.05.2022,milsar,09F1A215,3003,NA,589,2023: Died in France 8/08
+89,M023937,Milvus milvus,Kalchstaetten,Birche,2016,unknown,m,NA,m,1CY,2016,07.05.2016,ecotone,SWIK75,SWI08,brown,195,NA
+263,M036627,Milvus milvus,Kalchstaetten,Birche,2017,unknown,f,NA,f,1CY,2017,11.05.2017,ecotone,WSIK89,RKI24,brown,195,NA
+264,M036628,Milvus milvus,Kalchstaetten,Birche,2017,unknown,f,NA,f,1CY,2017,11.05.2017,ecotone,WSIK74,RKI07,brown,195,NA
+265,M039050,Milvus milvus,Kalchstaetten,Birche,2017,unknown,m,NA,m,1CY,2017,05.05.2017,ecotone,WSIK88,RKI23,brown,195,NA
+161,M023876,Milvus milvus,Lechelles,Lechelles,2015,unknown,f,NA,f,1CY,2015,14.05.2015,ecotone,SWIK07,MLR04,red,67,tag unfound
+84,M023917,Milvus milvus,Zumholz,Brand edge,2016,unknown,f,NA,f,1CY,2016,10.05.2016,ecotone,WSIK55,SIW27,brown,166,2021 and 2022: sabbatical year. 2023: Resettlement in Mettlen (first in the project)
+83,M023916,Milvus milvus,Zumholz,Brand edge,2016,unknown,f,NA,f,1CY,2016,14.05.2016,ecotone,WSIK27,WIS29,brown,166,NA
+321,M039460,Milvus milvus,Zumholz,Brand_17,2017,unknown,m,NA,m,1CY,2017,19.05.2017,ecotone,KIWS94,KRX25,brown,295,2023: New settler
+320,M039207,Milvus milvus,Zumholz,Brand_17,2017,unknown,f,NA,f,1CY,2017,19.05.2017,ecotone,KIWS87,KRX16,brown,295,NA
+322,M039461,Milvus milvus,Zumholz,Brand_17,2017,unknown,f,NA,f,1CY,2017,19.05.2017,milsar,BC38EB1D,1210,brown,295,2021: presence in 2021 territory unconfirmed
+44,M023928,Milvus milvus,Oberschrot,Sali,2016,unknown,NA,NA,unknown,1CY,2016,04.05.2016,NA,NA,NA,NA,182,NA
+528,M045370,Milvus milvus,Zumholz,Brand_18,2018,unknown,f,NA,f,1CY,2018,04.06.2018,ecotone,WSIK81,RKI16,brown,473,NA
+127,M023932,Milvus milvus,Guggisberg,Brannele,2016,unknown,m,NA,m,1CY,2016,17.05.2016,ecotone,SWIK86,SWI19,brown,208,NA
+144,M023859,Milvus milvus,Ueberstorf,Ledeu beech,2015,unknown,m,NA,m,1CY,2015,05.05.2015,ecotone,SWIK08,MLR09,red,7,NA
+416,M039492,Milvus milvus,Guggisberg,Brannele_17,2017,unknown,f,NA,f,1CY,2017,13.05.2017,ecotone,KISW01,KRX27,brown,367,NA
+417,M039493,Milvus milvus,Guggisberg,Brannele_17,2017,unknown,m,NA,m,1CY,2017,13.05.2017,ecotone,SWIK66,SIX02,brown,367,NA
+50,M023941,Milvus milvus,St. Antoni,Balbertsmatt,2016,unknown,NA,NA,unknown,1CY,2016,10.05.2016,NA,NA,NA,NA,184,NA
+51,M023942,Milvus milvus,St. Antoni,Balbertsmatt,2016,unknown,NA,NA,unknown,1CY,2016,06.05.2016,NA,NA,NA,NA,184,NA
+399,M039210,Milvus milvus,Bruenisried,Brueggla,2017,unknown,f,NA,f,1CY,2017,05.05.2017,ecotone,WSIK43,SIW15,brown,349,NA
+158,M023873,Milvus milvus,Ponthaux,Ponthaux,2015,unknown,f,NA,f,1CY,2015,09.05.2015,ecotone,SWIK09,MLR22,red,68,NA
+398,M039209,Milvus milvus,Bruenisried,Brueggla,2017,unknown,f,NA,f,1CY,2017,05.05.2017,ecotone,KIWS01,RKA06,brown,349,NA
+36,M023946,Milvus milvus,Tafers,Brunnenberg,2016,unknown,m,NA,m,1CY,2016,07.05.2016,ecotone,SWIK74,SWI07,brown,217,NA
+704,M039690,Milvus milvus,Tafers,Brunnenberg,2019,unknown,f,NA,f,1CY,2019,28.04.2019,ecotone,KISW02,MRX26,NA,217,NA
+1070,R6555,Milvus milvus,Huttwil,Buehl,2021,unknown,f,NA,f,1CY,2021,20.05.2021,milsar,A9D0D910,5037,NA,853,NA
+1185,M051193,Milvus milvus,Huttwil,Buehl,2022,unknown,m,NA,m,1CY,2022,22.05.2022,milsar,266AFE12,5017,NA,719,2022: found still alive but very weak in a field and rescued by gamekeeper. Died during the night
+1170,M051182,Milvus milvus,Schmitten,Bunziwil,2022,unknown,m,NA,m,1CY,2022,11.05.2022,milsar,8DD0D910,1295,NA,624,NA
+1171,R6572,Milvus milvus,Schmitten,Bunziwil,2022,unknown,f,NA,f,1CY,2022,07.05.2022,milsar,E1F0A215,3012,NA,624,NA
+109,M036515,Milvus milvus,St. Antoni,Ufem Berg,2016,f,f,NA,f,3CY+,unknown,NA,ecotone,SWIK09,SWU01,red,unknown,2023: Breakup with male 110 and breeding successfully
+145,M023860,Milvus milvus,St. Antoni,Lehwil pinus,2015,unknown,f,NA,f,1CY,2015,14.05.2015,ecotone,SWIK10,MLR06,red,22,NA
+63,M036507,Milvus milvus,St. Ursen,Neumatt,2016,f,f,NA,f,3CY+,unknown,NA,ecotone,SWIK64,SIU27,blue,unknown,2023: Tag brocken hanging weirdly on her back
+129,M036519,Milvus milvus,Alterswil,Seliholz,2016,f,f,NA,f,3CY+,unknown,NA,ecotone,SWIK11,SIU28,red,unknown,2023: Died electrocuted 21/04
+65,M035156,Milvus milvus,Ueberstorf,Oberholzwald,2016,f,f,NA,f,3CY+,unknown,NA,ecotone,SWIK65,IWS24,blue,unknown,2021 first at 407-Ueberstorf_Oberholzwald_18
+66,M035159,Milvus milvus,Schmitten,Ettelberg power line,2016,unknown,NA,NA,unknown,1CY,2016,NA,NA,NA,NA,NA,145,predated in nest
+502,M045162,Milvus milvus,Schmitten,Bunziwil 15,2018,unknown,m,NA,m,1CY,2018,08.05.2018,milsar,23309F1C,1241,brown,8,NA
+500,M045160,Milvus milvus,Schmitten,Bunziwil 15,2018,unknown,m,NA,m,1CY,2018,13.05.2018,milsar,A1F6C31C,1226,brown,8,NA
+501,M045161,Milvus milvus,Schmitten,Bunziwil 15,2018,unknown,m,NA,m,1CY,2018,10.05.2018,milsar,C68CEA1D,1209,brown,8,NA
+935,M045979,Milvus milvus,Schmitten,Bunziwil_20,2020,unknown,m,NA,m,1CY,2020,04.05.2020,milsar,8CD0D910,1294,NA,624,NA
+936,R7486,Milvus milvus,Schmitten,Bunziwil_20,2020,unknown,f,NA,f,1CY,2020,03.05.2020,milsar,90D0D910,1291,NA,624,body recovered on the 30.07
+326,M036641,Milvus milvus,Schmitten,Bunziwil_beehive,2017,unknown,m,NA,m,1CY,2017,04.05.2017,ecotone,WSIK81,RKI16,brown,299,NA
+327,M036642,Milvus milvus,Schmitten,Bunziwil_beehive,2017,unknown,f,NA,f,1CY,2017,04.05.2017,ecotone,KIWS68,RED21,brown,299,NA
+328,M036643,Milvus milvus,Schmitten,Bunziwil_beehive,2017,unknown,m,NA,m,1CY,2017,04.05.2017,ecotone,KIWS54,RED06,brown,299,NA
+882,R6861,Milvus milvus,St. Ursen,Burgstelle,2020,unknown,f,NA,f,1CY,2020,29.04.2020,milsar,6C392D10,1261,NA,503,NA
+949,M045923,Milvus milvus,Lanzenhaeusern,Buttnigen_20,2020,unknown,NA,NA,f,1CY,2020,05.05.2020,milsar,A1D0D910,1277,NA,638,NA
+142,M023857,Milvus milvus,St. Antoni,Lehwil beech,2015,unknown,f,NA,f,1CY,2015,05.05.2015,ecotone,SWIK12,MLR29,red,23,NA
+950,M045924,Milvus milvus,Lanzenhaeusern,Buttnigen_20,2020,unknown,m,NA,m,1CY,2020,01.05.2020,milsar,9AD0D910,1282,NA,638,Goshawk caught on camera
+1132,M045898,Milvus milvus,Chatel St Denis,Camping,2021,unknown,m,NA,m,1CY,2021,22.05.2021,milsar,186AFE12,5030,NA,850,NA
+80,M036554,Milvus milvus,Tentlingen,Vieille Rossmatta,2016,m,m,NA,m,3CY+,unknown,NA,ecotone,WSIK65,WIK07,brown,unknown,NA
+81,M036556,Milvus milvus,Giffers,Obertswil,2016,unknown,m,NA,m,1CY,2016,14.05.2016,NA,NA,NA,NA,207,NA
+1133,R6891,Milvus milvus,Chatel St Denis,Camping,2021,unknown,f,NA,f,1CY,2021,22.05.2021,milsar,226AFE12,5021,NA,850,NA
+1218,M051181,Milvus milvus,Chatel St Denis,Camping,2022,unknown,f,NA,f,1CY,2022,09.05.2022,milsar,2E6AFE12,5010,NA,850,"2022: died in nest after tagging, was a small and weak chick"
+1219,M068138,Milvus milvus,Chatel St Denis,Camping,2022,unknown,f,NA,f,1CY,2022,05.05.2022,milsar,1F6AFE12,5025,NA,850,2022: tag stopped transmitting and never found. chick was probably predated in the nest and then carried around by secondary predators
+1114,M068121,Milvus milvus,Cordast,ChampDessus,2021,unknown,f,NA,f,1CY,2021,22.05.2021,milsar,2C6AFE12,5012,NA,812,found remains (16.08.2021)
+162,M023877,Milvus milvus,Alterswil,Seliholz,2015,unknown,f,NA,f,1CY,2015,18.05.2015,ecotone,SWIK13,MLR21,red,32,NA
+337,M036612,Milvus milvus,Duedingen,Chiemiwald,2017,unknown,f,NA,f,1CY,2017,04.05.2017,ecotone,KIWS59,RED11,brown,309,NA
+339,M039003,Milvus milvus,Duedingen,Chiemiwald,2017,unknown,f,NA,f,1CY,2017,03.05.2017,ecotone,KIWS56,RED08,brown,309,NA
+33,M023914,Milvus milvus,Schwarzenburg,Chilchermatt,2016,unknown,f,NA,f,1CY,2016,05.05.2016,ecotone,WSIK37,SIW08,brown,176,NA
+907,M045994,Milvus milvus,Schwarzenburg,Chilchermatt_19,2020,unknown,m,NA,m,1CY,2020,29.05.2020,milsar,8AD0D910,1296,NA,549,Was found very weak in a field
+411,M039474,Milvus milvus,Schwarzenburg,Chilchermatt_W,2017,unknown,f,NA,f,1CY,2017,06.05.2017,ecotone,KIWS45,REK26,brown,356,NA
+412,M039475,Milvus milvus,Schwarzenburg,Chilchermatt_W,2017,unknown,m,NA,m,1CY,2017,06.05.2017,ecotone,WSIK59,WIK01,brown,356,NA
+437,M039031,Milvus milvus,Alterswil,Chleholz picea,2017,unknown,m,NA,m,1CY,2017,06.05.2017,ecotone,WSIK85,RKI20,brown,98,2022: first building at 796 Bruenisried_Weidli_21and then moved to 948
+98,M023943,Milvus milvus,Alterswil,Chleholz picea,2016,unknown,f,NA,f,1CY,2016,13.05.2016,ecotone,WSIK49,SIW21,brown,98,NA
+436,M039030,Milvus milvus,Alterswil,Chleholz picea,2017,unknown,m,NA,m,1CY,2017,06.05.2017,ecotone,KIWS29,REK09,brown,98,NA
+438,M039477,Milvus milvus,Alterswil,Chleholz picea,2017,unknown,f,NA,f,1CY,2017,10.05.2017,ecotone,WSIK84,RKI19,brown,98,2023: Died
+373,M039478,Milvus milvus,Alterswil,Chleholz_17,2017,unknown,f,NA,f,1CY,2017,11.05.2017,ecotone,KIWS06,RKA11,brown,333,NA
+374,M039479,Milvus milvus,Alterswil,Chleholz_17,2017,unknown,f,NA,f,1CY,2017,11.05.2017,ecotone,KIWS69,RED22,brown,333,NA
+149,M023864,Milvus milvus,Bas-Intyamon,Grandvillard,2015,unknown,f,NA,f,1CY,2015,08.05.2015,ecotone,SWIK51,MLR20,green,51,NA
+100,M036512,Milvus milvus,Alterswil,Wolgiswil,2016,m,m,NA,m,3CY+,unknown,NA,ecotone,WSIK29,SIW01,white,unknown,"2022: badly transmitting , last uhf contact 14.06.2022"
+168,M023883,Milvus milvus,Altavilla,Altavilla N,2015,unknown,m,NA,m,1CY,2015,18.05.2015,ecotone,SWIK15,MLR30,red,230,NA
+355,M039019,Milvus milvus,Kalchstaetten,Chlyni Heid_17,2017,unknown,m,NA,m,1CY,2017,03.05.2017,ecotone,WSIK91,RKI26,brown,325,2023: New settler
+103,M036561,Milvus milvus,Heitenried,Hinter Schoenfels,2016,f,f,NA,f,3CY+,unknown,NA,ecotone,SWIK67,IWS30,blue,unknown,Logger stopped working after 2017 breeding season. 2018 territory is uncertain
+354,M039018,Milvus milvus,Kalchstaetten,Chlyni Heid_17,2017,unknown,f,NA,f,1CY,2017,03.05.2017,ecotone,KIWS73,RED26,brown,325,NA
+356,M039476,Milvus milvus,Kalchstaetten,Chlyni Heid_17,2017,unknown,m,NA,m,1CY,2017,12.05.2017,ecotone,WSIK80,RKI15,brown,325,NA
+933,M045973,Milvus milvus,Zollhaus,Chnoewis,2020,unknown,m,NA,m,1CY,2020,01.05.2020,milsar,47392D10,1259,NA,621,NA
+238,XM301188,Milvus milvus,Heitenried,Dorf,2016,unknown,m,NA,m,3CY+,unknown,NA,ecotone,SWIK15,SIU30,red,unknown,Rehabilitation centre bird. Found post-breeding season 2016 (August)
+164,M023879,Milvus milvus,Farvagny,Foret de Montbau,2015,unknown,f,NA,f,1CY,2015,09.05.2015,ecotone,SWIK16,MLR11,red,227,NA
+137,M023852,Milvus milvus,Schmitten,Ettelberg,2015,unknown,f,NA,f,1CY,2015,29.04.2015,ecotone,SWIK17,MLR07,red,13,"2022: did not transmitt regurarly , last downloaded positions on 14.04.2022"
+316,M039469,Milvus milvus,Riffenmatt,Chrache,2017,unknown,m,NA,m,1CY,2017,12.05.2017,ecotone,WSIK40,SIW11,brown,288,NA
+167,M023882,Milvus milvus,Ueberstorf,Banholz 15,2015,unknown,f,NA,f,1CY,2015,23.05.2015,ecotone,SWIK18,MLR26,red,6,NA
+375,M039457,Milvus milvus,St. Sylvester,Chrachen,2017,unknown,m,NA,m,1CY,2017,11.05.2017,ecotone,KIWS35,REK16,brown,334,NA
+155,M023870,Milvus milvus,Grolley,Grolley S,2015,unknown,m,NA,m,1CY,2015,08.05.2015,ecotone,SWIK19,MLR08,red,66,2021: not transmitting during breeding season
+376,M039458,Milvus milvus,St. Sylvester,Chrachen,2017,unknown,m,NA,m,1CY,2017,11.05.2017,ecotone,KIWS52,RED04,brown,334,NA
+68,M023953,Milvus milvus,Bulle,Clos aux Cerfs,2016,unknown,f,NA,f,1CY,2016,12.05.2016,ecotone,SWIK93,SWI26,brown,202,NA
+69,M023954,Milvus milvus,Bulle,Clos aux Cerfs,2016,unknown,m,NA,m,1CY,2016,14.05.2016,ecotone,SWIK94,SWI27,brown,202,NA
+805,M045769,Milvus milvus,Bourguillon,Cote du Gotteron,2019,unknown,m,NA,m,1CY,2019,10.05.2019,ecotone,KIWS62,RED15,NA,547,NA
+377,M039497,Milvus milvus,Rechthalten,Sonnenberg,2017,unknown,m,NA,m,1CY,2017,14.05.2017,ecotone,SWIK20,MLR14,brown,335,NA
+906,M045907,Milvus milvus,Bourguillon,Cote du Gotteron,2020,unknown,m,NA,m,1CY,2020,03.05.2020,milsar,93D0D910,1290,NA,547,NA
+1159,M051177,Milvus milvus,Bourgillon,Cote du Gotteron,2022,unknown,m,NA,m,1CY,2022,03.05.2022,milsar,00F1A215,3009,NA,547,NA
+1160,R6570,Milvus milvus,Bourgillon,Cote du Gotteron,2022,unknown,f,NA,f,1CY,2022,02.05.2022,milsar,EBF0A215,3031,NA,547,NA
+1135,M046753,Milvus milvus,Delemont,Courrendlin,2021,unknown,m,NA,m,1CY,2021,03.05.2021,milsar,ADD0D910,5038,NA,852,NA
+163,M023878,Milvus milvus,Echarlens,Stande_de_tir,2015,unknown,m,NA,m,1CY,2015,10.05.2015,ecotone,SWIK20,MLR14,red,50,NA
+1136,M046754,Milvus milvus,Delemont,Courrendlin,2021,unknown,f,NA,f,1CY,2021,03.05.2021,milsar,8AD0D910,5040,NA,852,NA
+1137,M046755,Milvus milvus,Delemont,Courrendlin,2021,unknown,m,NA,m,1CY,2021,02.05.2021,milsar,E9100D12,5004,NA,852,NA
+121,M036568,Milvus milvus,Riffenmatt,Dorfmatte,2016,unknown,m,NA,m,1CY,2016,16.05.2016,ecotone,WSIK46,SIW18,brown,212,NA
+148,M023863,Milvus milvus,Ueberstorf,Mischlere,2015,unknown,m,NA,m,1CY,2015,12.05.2015,ecotone,SWIK21,MLR19,red,11,NA
+130,M036572,Milvus milvus,Riedstaett,Mittlisried,2016,m,m,NA,m,3CY+,unknown,NA,ecotone,SWIK63,IWS28,blue,unknown,NA
+271,M036626,Milvus milvus,Riffenmatt,Dorfmatte,2017,unknown,m,NA,m,1CY,2017,11.05.2017,ecotone,WSIK69,RKI02,brown,212,NA
+272,M039042,Milvus milvus,Riffenmatt,Dorfmatte,2017,unknown,m,NA,m,1CY,2017,06.05.2017,ecotone,WSIK93,RKI28,brown,212,NA
+746,M045783,Milvus milvus,Schwarzenburg,Waldgasse_18,2019,unknown,f,NA,f,1CY,2019,14.05.2019,ecotone,KISW10,KIA10,NA,455,NA
+331,M039466,Milvus milvus,Mamishaus,Dunti_17,2017,unknown,f,NA,f,1CY,2017,22.04.2017,ecotone,WSIK86,RKI21,brown,302,NA
+252,M036604,Milvus milvus,Ependes,Ependes,2017,unknown,m,NA,m,1CY,2017,29.04.2017,ecotone,KIWS27,REK07,brown,140,NA
+136,M023851,Buteo buteo,Alterswil,Wolgiswil S,2015,unknown,NA,NA,unknown,unknown,unknown,NA,NA,NA,NA,NA,37,NA
+253,M036632,Milvus milvus,Ependes,Ependes,2017,unknown,m,NA,m,1CY,2017,26.04.2017,ecotone,KIWS32,REK12,brown,140,NA
+190,M036575,Milvus milvus,Le Mouret,Essert,2016,unknown,f,NA,f,1CY,2016,21.05.2016,ecotone,WSIK20,WIS22,brown,226,NA
+191,M036576,Milvus milvus,Le Mouret,Essert,2016,unknown,m,NA,m,1CY,2016,25.05.2016,ecotone,WSIK13,WIS15,brown,226,NA
+708,R7481,Milvus milvus,Le Mouret,Essert,2019,unknown,f,NA,f,1CY,2019,06.05.2019,ecotone,KISS01,OP01,NA,226,dead next to higway. Ring changed from M045391 to R7481 because it was too small.
+156,M023871,Milvus milvus,Grolley,Grolley S,2015,unknown,f,NA,f,1CY,2015,12.05.2015,ecotone,SWIK22,MLR15,red,66,NA
+147,M023862,Milvus milvus,Alterswil,aeschlenberg,2015,unknown,m,NA,m,1CY,2015,18.05.2015,ecotone,SWIK23,MLR18,red,38,NA
+254,M036608,Milvus milvus,Schmitten,Ettelberg power line,2017,unknown,f,NA,f,1CY,2017,26.04.2017,ecotone,KIWS31,REK11,brown,145,NA
+55,M035157,Milvus milvus,Schmitten,Ettelberg power line,2016,unknown,f,NA,f,1CY,2016,10.05.2016,ecotone,WSIK58,SIW30,brown,145,NA
+255,M036609,Milvus milvus,Schmitten,Ettelberg power line,2017,unknown,m,NA,m,1CY,2017,26.04.2017,ecotone,KIWS15,RKA21,brown,145,NA
+256,M036644,Milvus milvus,Schmitten,Ettelberg power line,2017,unknown,f,NA,f,1CY,2017,30.04.2017,ecotone,KIWS58,RED10,brown,145,results of vet report not known
+487,M045175,Milvus milvus,Schmitten,Ettelberg_18,2018,unknown,f,NA,f,1CY,2018,01.05.2018,milsar,79379F1C,1238,brown,412,NA
+486,M045174,Milvus milvus,Schmitten,Ettelberg_18,2018,unknown,m,NA,m,1CY,2018,03.05.2018,milsar,A8F0C31C,1247,brown,412,2023: New Settler
+485,M045173,Milvus milvus,Schmitten,Ettelberg_18,2018,unknown,m,NA,m,1CY,2018,04.05.2018,milsar,8D319F1C,1234,brown,412,NA
+38,M035187,Milvus milvus,Schmitten,Fillistorf,2016,unknown,f,NA,f,1CY,2016,08.05.2016,ecotone,SWIK96,SWI29,brown,154,UHF data downloaded in 2021. Clearly no successful nest this year.
+39,M035188,Milvus milvus,Schmitten,Fillistorf,2016,unknown,m,NA,m,1CY,2016,06.05.2016,ecotone,SWIK89,SWI22,brown,154,NA
+287,M039483,Milvus milvus,Schmitten,Fillistorf_17,2017,unknown,m,NA,m,1CY,2017,28.04.2017,ecotone,WSIK30,SIW02,brown,255,NA
+288,M039484,Milvus milvus,Schmitten,Fillistorf_17,2017,unknown,f,NA,f,1CY,2017,28.04.2017,ecotone,KIWS86,KRX14,brown,255,NA
+289,M039485,Milvus milvus,Schmitten,Fillistorf_17,2017,unknown,f,NA,f,1CY,2017,28.04.2017,ecotone,KIWS85,KRX12,brown,255,NA
+876,M045977,Milvus milvus,Schmitten,Fillistorf_spruce,2020,unknown,m,NA,m,1CY,2020,14.05.2020,milsar,91D0D910,1292,NA,462,NA
+113,M036565,Milvus milvus,Lanzenhaeusern,Finel,2016,unknown,f,NA,f,1CY,2016,13.05.2016,ecotone,WSIK39,SIW10,brown,157,NA
+114,M036566,Milvus milvus,Lanzenhaeusern,Finel,2016,unknown,m,NA,m,1CY,2016,17.05.2016,ecotone,WSIK41,SIW13,brown,157,NA
+7,M023908,Milvus milvus,Cordast,Fineta,2016,unknown,f,NA,f,1CY,2016,02.05.2016,ecotone,SWIK97,SWI30,brown,132,NA
+403,M036638,Milvus milvus,Guggisberg,Floeschachere,2017,unknown,f,NA,f,1CY,2017,05.05.2017,ecotone,KIWS67,RED20,brown,353,NA
+402,M036637,Milvus milvus,Guggisberg,Floeschachere,2017,unknown,f,NA,f,1CY,2017,05.05.2017,ecotone,KIWS71,RED24,brown,353,2023: Pair was around but never found an active nest
+401,M036636,Milvus milvus,Guggisberg,Floeschachere,2017,unknown,m,NA,m,1CY,2017,05.05.2017,ecotone,KIWS66,RED19,brown,353,NA
+932,M045957,Milvus milvus,Milken,Flueematte,2020,unknown,m,NA,m,1CY,2020,07.05.2020,milsar,88D0D910,1298,NA,620,NA
+82,M036557,Milvus milvus,Giffers,Obertswil,2016,unknown,m,NA,m,1CY,2016,10.05.2016,ecotone,SWIK23,SWU03,brown,207,"2022: not transmitting well , last contact on the 06.05.2022"
+1098,M068122,Milvus milvus,Boesingen,Friesenheit,2021,unknown,f,NA,f,1CY,2021,27.05.2021,milsar,1B6AFE12,5029,NA,790,NA
+317,M039489,Milvus milvus,Fillistorf,Friseneithubel,2017,unknown,m,NA,m,1CY,2017,13.05.2017,ecotone,KIWS90,KRX21,brown,289,NA
+1091,M045874,Milvus milvus,Duedingen,Fuchsenacher,2021,unknown,m,NA,m,1CY,2021,08.05.2021,milsar,336AFE12,5007,NA,759,NA
+1108,M046756,Milvus milvus,Niederwil,Fuchsloch,2021,unknown,m,NA,m,1CY,2021,05.05.2021,milsar,126AFE12,5028,NA,804,stopped transmitting the day of tagging
+1109,R7402,Milvus milvus,Niederwil,Fuchsloch,2021,unknown,f,NA,f,1CY,2021,01.05.2021,milsar,A2D0D910,5035,NA,804,NA
+1110,M046757,Milvus milvus,Niederwil,Fuchsloch,2021,unknown,m,NA,m,1CY,2021,28.04.2021,milsar,D6319F1C,5032,NA,804,NA
+1212,M046759,Milvus milvus,Niederwil,Fuchsloch,2022,unknown,m,NA,m,1CY,2022,09.05.2022,milsar,E4F0A215,3013,NA,804,NA
+1213,M046760,Milvus milvus,Niederwil,Fuchsloch,2022,unknown,m,NA,m,1CY,2022,09.05.2022,milsar,E5F0A215,3016,NA,804,NA
+996,M046752,Milvus milvus,Niederwil,Fuchsloch_20,2020,unknown,f,NA,f,1CY,2020,29.04.2020,milsar,99D0D910,1284,NA,698,2023: New settler no nest
+995,M046751,Milvus milvus,Niederwil,Fuchsloch_20,2020,unknown,m,NA,m,1CY,2020,30.04.2020,milsar,97D0D910,1286,NA,698,NA
+997,R7401,Milvus milvus,Niederwil,Fuchsloch_20,2020,unknown,f,NA,f,1CY,2020,04.05.2020,milsar,9DD0D910,1281,NA,698,NA
+108,M036567,Milvus milvus,Wahlern,Gaensemoos,2016,unknown,m,NA,m,1CY,2016,16.05.2016,ecotone,WSIK56,SIW28,brown,87,"2023: Bird was around with bad transmition, we never found their nest"
+432,M036633,Milvus milvus,Wahlern,Gaensemoos,2017,unknown,m,NA,m,1CY,2017,03.05.2017,ecotone,WSIK76,RKI10,brown,87,NA
+433,M039451,Milvus milvus,Wahlern,Gaensemoos,2017,unknown,f,NA,f,1CY,2017,07.05.2017,ecotone,WSIK75,RKI08,brown,87,NA
+406,M036639,Milvus milvus,Schwarzenburg,Gaeu,2017,unknown,m,NA,m,1CY,2017,05.05.2017,ecotone,WSIK33,SIW05,brown,354,NA
+407,M036640,Milvus milvus,Schwarzenburg,Gaeu,2017,unknown,m,NA,m,1CY,2017,05.05.2017,ecotone,WSIK37,SIW08,brown,354,NA
+181,M023896,Milvus milvus,Autigny,Chenens,2015,unknown,m,NA,m,1CY,2015,27.06.2015,NA,NA,NA,NA,501,NA
+408,M039459,Milvus milvus,Schwarzenburg,Gaeu,2017,unknown,f,NA,f,1CY,2017,06.05.2017,ecotone,WSIK08,WIS10,brown,354,NA
+183,NA,Milvus milvus,Ueberstorf,Summerau center,2015,unknown,NA,NA,unknown,1CY,2015,NA,NA,NA,NA,NA,12,Fledged before could climb nest.
+184,NA,Milvus milvus,Chavannes-sous-Orsonnens,La Pale,2015,unknown,NA,NA,unknown,1CY,2015,NA,NA,NA,NA,NA,221,Fledged before could climb nest.
+185,NA,Milvus milvus,Le Mouret,Essert,2015,unknown,NA,NA,unknown,1CY,2015,NA,NA,NA,NA,NA,226,Fledged before could climb nest.
+169,M023884,Milvus milvus,Corserey,Les Vuettes,2015,unknown,f,NA,f,1CY,2015,14.05.2015,ecotone,SWIK24,MLR10,red,71,NA
+187,M036579,Milvus milvus,Alterswil,Rueti,2016,m,m,NA,m,3CY+,unknown,NA,ecotone,SWIK61,IWS04,blue,unknown,Second breeding attempt in 2019 on 595 Alterswil_Grabach
+318,M039462,Milvus milvus,Rueschegg,Gambach,2017,unknown,f,NA,f,1CY,2017,13.05.2017,ecotone,SWIK70,SWI03,brown,291,2021: not transmitting during breeding season
+12,M023907,Milvus milvus,Boesingen,Gertholz,2016,unknown,f,NA,f,1CY,2016,01.05.2016,ecotone,SWIK80,SWI13,brown,149,NA
+10,M035178,Milvus milvus,Schwarzenburg,Zaelg,2016,f,f,NA,f,3CY+,unknown,NA,ecotone,SWIK24,SIU10,red,unknown,NA
+205,M035169,Buteo buteo,Boesingen,Gertholz,2016,m,NA,NA,m,unknown,unknown,NA,NA,NA,NA,NA,NA,NA
+349,M039490,Milvus milvus,Boesingen,Gertholz_17,2017,unknown,f,NA,f,1CY,2017,03.05.2017,ecotone,KIWS48,REK29,brown,319,NA
+25,M035161,Milvus milvus,Wuennewil,Golf,2016,unknown,f,NA,f,1CY,2016,07.05.2016,ecotone,WSIK48,SIW20,brown,114,NA
+230,M023904,Buteo buteo,Boesingen,Gertholz,2016,unknown,NA,NA,unknown,1CY,2016,NA,NA,NA,NA,NA,NA,NA
+231,M023905,Buteo buteo,Boesingen,Gertholz,2016,unknown,NA,NA,unknown,1CY,2016,NA,NA,NA,NA,NA,NA,NA
+232,M023906,Buteo buteo,Boesingen,Gertholz,2016,unknown,NA,NA,unknown,1CY,2016,NA,NA,NA,NA,NA,NA,NA
+233,M023910,Milvus milvus,Liebistorf,Laengeberg,2016,unknown,NA,NA,unknown,1CY,2016,11.05.2016,NA,NA,NA,NA,161,NA
+234,M023911,Milvus milvus,Liebistorf,Laengeberg,2016,unknown,NA,NA,unknown,1CY,2016,10.05.2016,NA,NA,NA,NA,161,NA
+235,M023912,Milvus milvus,Ueberstorf,Mischlere,2016,unknown,NA,NA,unknown,1CY,2016,15.05.2016,NA,NA,NA,NA,11,NA
+236,M023921,Milvus milvus,Ueberstorf,Guldifeld,2016,unknown,NA,NA,unknown,1CY,2016,13.05.2016,NA,NA,NA,NA,197,NA
+237,M023922,Milvus milvus,Ueberstorf,Guldifeld,2016,unknown,NA,NA,unknown,1CY,2016,15.05.2016,NA,NA,NA,NA,197,NA
+138,M023853,Milvus milvus,Schmitten,Ettelberg,2015,unknown,f,NA,f,1CY,2015,03.05.2015,ecotone,SWIK25,MLR05,red,13,NA
+239,M035158,Milvus milvus,Schmitten,Ettelberg power line,2016,unknown,NA,NA,unknown,1CY,2016,NA,NA,NA,NA,NA,145,predated in nest
+241,M035160,Milvus milvus,Wuennewil,Golf,2016,unknown,NA,NA,unknown,1CY,2016,07.05.2016,NA,NA,NA,NA,114,died in nest
+242,M039022,Milvus milvus,Ueberstorf,Summerau edge,2017,unknown,f,NA,f,1CY,2017,01.05.2017,NA,NA,NA,NA,10,NA
+243,M036614,Milvus milvus,Ueberstorf,Summerau edge,2017,unknown,m,NA,m,1CY,2017,01.05.2017,NA,NA,NA,NA,10,NA
+244,M039021,Milvus milvus,Ueberstorf,Summerau edge,2017,unknown,m,NA,m,1CY,2017,05.05.2017,NA,NA,NA,NA,10,NA
+1252,M051199,Milvus milvus,Wuennewil,Golf,2022,unknown,m,NA,m,1CY,2022,06.06.2022,milsar,9DD0D910,5046,NA,938,NA
+26,M035162,Milvus milvus,Wuennewil,Golf,2016,unknown,f,NA,f,1CY,2016,05.05.2016,ecotone,WSIK06,WIS08,brown,114,NA
+247,M039226,Milvus milvus,Alterswil,Rueti,2017,unknown,NA,NA,unknown,1CY,2017,10.05.2017,NA,NA,NA,NA,120,NA
+248,M039227,Milvus milvus,Alterswil,Rueti,2017,unknown,NA,NA,unknown,1CY,2017,20.06.2017,NA,NA,NA,NA,120,NA
+386,M039215,Milvus milvus,St. Sylvester,Gomma,2017,unknown,m,NA,m,1CY,2017,15.05.2017,ecotone,KISW04,MRX18,brown,341,NA
+260,M036602,Milvus milvus,Bourguillon,Gotteron,2017,unknown,f,NA,f,1CY,2017,11.05.2017,ecotone,KIWS23,REK03,brown,193,2022: first building at nest 785 Marly le Granette and then went to 894
+262,M036607,Milvus milvus,Bourguillon,Gotteron,2017,unknown,f,NA,f,1CY,2017,11.05.2017,ecotone,KIWS20,RKA26,brown,193,NA
+19,M035181,Milvus milvus,Bourguillon,Gotteron,2016,unknown,m,NA,m,1CY,2016,04.05.2016,ecotone,WSIK04,WIS06,brown,193,NA
+20,M035182,Milvus milvus,Bourguillon,Gotteron,2016,unknown,f,NA,f,1CY,2016,30.04.2016,ecotone,WSIK01,WIS03,brown,193,NA
+261,M036606,Milvus milvus,Bourguillon,Gotteron,2017,unknown,f,NA,f,1CY,2017,11.05.2017,ecotone,KIWS49,REK30,brown,193,NA
+361,M039463,Milvus milvus,Mamishaus,Hintermutten,2017,unknown,f,NA,unknown,1CY,2017,14.05.2017,ecotone,SWIK26,MLR03,brown,328,NA
+146,M023861,Milvus milvus,St. Antoni,Lehwil pinus,2015,unknown,m,NA,m,1CY,2015,15.05.2015,ecotone,SWIK26,MLR03,red,22,NA
+53,M023951,Milvus milvus,Bas-Intyamon,Grandvillard,2016,unknown,m,NA,m,1CY,2016,12.05.2016,ecotone,WSIK26,WIS28,brown,51,NA
+154,M023869,Milvus milvus,Pierrafortscha,Bois de morvin,2015,unknown,m,NA,m,1CY,2015,08.05.2015,ecotone,SWIK27,MLR23,red,77,2022: not trasmitting during breeding season
+54,M023952,Milvus milvus,Bas-Intyamon,Grandvillard,2016,unknown,m,NA,m,1CY,2016,16.05.2016,ecotone,SWIK73,SWI06,brown,51,"2022: not trasmitting regurarly , last contact uhf 21.04.2022"
+176,M023891,Milvus milvus,Ueberstorf,Niedermettlen,2015,unknown,f,NA,f,1CY,2015,20.05.2015,ecotone,SWIK28,MLR02,red,5,NA
+27,M035183,Milvus milvus,Tafers,Rohr,2016,f,f,NA,f,3CY+,unknown,NA,ecotone,SWIK29,SIU24,red,unknown,NA
+126,M023909,Milvus milvus,St. Antoni,Guglenberg,2016,unknown,m,NA,m,1CY,2016,16.05.2016,ecotone,WSIK38,SIW09,brown,177,2022: last uhf contact on the 15.06.2022
+266,M039005,Milvus milvus,Ueberstorf,Guldifeld,2017,unknown,m,NA,m,1CY,2017,05.05.2017,ecotone,SWIK98,WIS01,brown,197,found dead at train tracks
+267,M039472,Milvus milvus,Ueberstorf,Guldifeld,2017,unknown,f,NA,f,1CY,2017,11.05.2017,ecotone,WSIK90,RKI25,brown,197,NA
+990,M045970,Milvus milvus,Guggisberg,gummeli,2020,unknown,m,NA,m,1CY,2020,16.05.2020,milsar,A6D0D910,1272,NA,691,NA
+1221,M051183,Milvus milvus,Milken,Guuggenberg,2022,unknown,f,NA,f,1CY,2022,29.05.2022,milsar,DFF0A215,3014,NA,861,2023: Died in France 25/05
+37,M023950,Milvus milvus,Milken,Halten,2016,unknown,f,NA,f,1CY,2016,07.05.2016,ecotone,WSIK07,WIS09,brown,165,NA
+268,M039487,Milvus milvus,St. Antoni,Menzishus top,2017,unknown,f,NA,f,1CY,2017,11.05.2017,NA,NA,NA,NA,198,NA
+269,M039488,Milvus milvus,St. Antoni,Menzishus top,2017,unknown,m,NA,m,1CY,2017,11.05.2017,NA,NA,NA,NA,198,NA
+133,M023945,Milvus milvus,Mamishaus,Hausmattweid spruce,2016,unknown,f,NA,f,1CY,2016,19.05.2016,ecotone,WSIK43,SIW15,brown,211,NA
+747,M045784,Milvus milvus,Schwarzenburg,Waldgasse_18,2019,unknown,f,NA,f,1CY,2019,12.05.2019,ecotone,KISW11,KIA11,NA,455,NA
+1138,M045894,Milvus milvus,Mamishaus,Henzischwand,2021,unknown,m,NA,m,1CY,2021,19.05.2021,milsar,196AFE12,5027,NA,854,NA
+40,M035189,Milvus milvus,Schwarzenburg,Herrenholz,2016,unknown,f,NA,f,1CY,2016,04.05.2016,ecotone,SWIK69,SWI02,brown,83,NA
+431,M039017,Milvus milvus,Schwarzenburg,Herrenholz,2017,unknown,m,NA,m,1CY,2017,03.05.2017,ecotone,KIWS55,RED07,brown,83,"2022: did not trasmit regurarly anymore, last contact uhf 14.06.2022"
+430,M036616,Milvus milvus,Schwarzenburg,Herrenholz,2017,unknown,m,NA,m,1CY,2017,13.05.2017,ecotone,KIWS60,RED12,brown,83,NA
+276,M036542,Milvus milvus,Wuennewil,Muelital,2017,unknown,m,NA,m,1CY,2017,28.04.2017,NA,NA,NA,NA,222,NA
+277,M036543,Milvus milvus,Wuennewil,Muelital,2017,unknown,f,NA,f,1CY,2017,28.04.2017,NA,NA,NA,NA,222,NA
+278,M036544,Milvus milvus,Wuennewil,Muelital,2017,unknown,m,NA,m,1CY,2017,28.04.2017,NA,NA,NA,NA,222,NA
+279,M039498,Milvus milvus,Le Mouret,Essert,2017,unknown,NA,NA,unknown,1CY,2017,28.04.2017,NA,NA,NA,NA,226,NA
+280,M039499,Milvus milvus,Le Mouret,Essert,2017,unknown,NA,NA,unknown,1CY,2017,28.04.2017,NA,NA,NA,NA,226,NA
+281,M036625,Milvus milvus,Kalchstaetten,Herrenmatt_17,2017,unknown,f,NA,f,1CY,2017,28.04.2017,ecotone,KIWS76,RED29,brown,245,NA
+57,M035195,Milvus milvus,Heitenried,Hinter Schoenfels,2016,unknown,f,NA,f,1CY,2016,08.05.2016,ecotone,WSIK54,SIW26,brown,209,NA
+58,M035196,Milvus milvus,Heitenried,Hinter Schoenfels,2016,unknown,f,NA,f,1CY,2016,08.05.2016,ecotone,WSIK30,SIW02,brown,209,NA
+303,M036624,Milvus milvus,Heitenried,Hinter Schoenfels_17,2017,unknown,f,NA,f,1CY,2017,26.04.2017,ecotone,KIWS61,RED14,brown,275,2022: last uhf contact 20.04.2022
+304,M039026,Milvus milvus,Heitenried,Hinter Schoenfels_17,2017,unknown,m,NA,m,1CY,2017,30.04.2017,ecotone,KIWS75,RED28,brown,275,NA
+8,M035176,Milvus milvus,Schmitten,Fillistorf,2016,f,f,NA,f,3CY+,unknown,NA,ecotone,SWIK30,IWS25,red,unknown,NA
+362,M039464,Milvus milvus,Mamishaus,Hintermutten,2017,unknown,m,NA,m,1CY,2017,13.05.2017,ecotone,KIWS91,KRX22,brown,328,NA
+363,M039465,Milvus milvus,Mamishaus,Hintermutten,2017,unknown,m,NA,m,1CY,2017,12.05.2017,ecotone,KIWS82,KRX07,brown,328,NA
+902,M045928,Milvus milvus,Rueschegg,Hirschhorn,2020,unknown,m,NA,m,1CY,2020,08.05.2020,milsar,8BD0D910,1297,NA,543,NA
+118,M023918,Milvus milvus,Guggisberg,Hirschmatt,2016,unknown,m,NA,m,1CY,2016,12.05.2016,ecotone,WSIK35,SIW12,brown,80,2023: Territory evidence but no nest found
+370,M039012,Milvus milvus,Elisried,Hoehi,2017,unknown,m,NA,m,1CY,2017,11.05.2017,ecotone,KIWS47,REK28,brown,330,NA
+292,M039001,Milvus milvus,Marly,Le_Claru,2017,unknown,NA,NA,unknown,1CY,2017,02.05.2017,NA,NA,NA,NA,264,NA
+293,M039002,Milvus milvus,Marly,Le_Claru,2017,unknown,NA,NA,unknown,1CY,2017,02.05.2017,NA,NA,NA,NA,264,NA
+294,M039024,Milvus milvus,Ueberstorf,Cholholz_17,2017,unknown,m,NA,m,1CY,2017,02.05.2017,NA,NA,NA,NA,265,NA
+295,M039025,Milvus milvus,Ueberstorf,Cholholz_17,2017,unknown,m,NA,m,1CY,2017,02.05.2017,NA,NA,NA,NA,265,NA
+296,M039211,Milvus milvus,Schwarzenburg,Zaelg_17,2017,unknown,NA,NA,unknown,1CY,2017,02.05.2017,NA,NA,NA,NA,267,COD possibly linked to eye infection that Valentijn noticed on climb
+369,M039011,Milvus milvus,Elisried,Hoehi,2017,unknown,f,NA,f,1CY,2017,11.05.2017,ecotone,KIWS22,REK02,brown,330,NA
+298,M039201,Milvus milvus,Marly,Les_Fontanettes,2017,unknown,f,NA,f,1CY,2017,02.05.2017,NA,NA,NA,NA,270,NA
+299,M039500,Milvus milvus,Marly,Les_Fontanettes,2017,unknown,m,NA,m,1CY,2017,02.05.2017,NA,NA,NA,NA,270,NA
+488,M039341,Milvus milvus,elisried,Hoehi_18,2018,unknown,m,NA,m,1CY,2018,05.05.2018,milsar,01F0C31C,1235,brown,448,NA
+489,M039342,Milvus milvus,elisried,Hoehi_18,2018,unknown,m,NA,m,1CY,2018,01.05.2018,milsar,E6309F1C,1245,brown,448,NA
+340,M039470,Milvus milvus,Schmitten,Hohi Zelg,2017,unknown,m,NA,m,1CY,2017,03.05.2017,ecotone,WSIK92,RKI27,brown,310,found dead 01.04.2021
+341,M039471,Milvus milvus,Schmitten,Hohi Zelg,2017,unknown,m,NA,m,1CY,2017,03.05.2017,milsar,FDBBB81A,1217,brown,310,NA
+67,M023915,Milvus milvus,Plaffeien,Hohliebi,2016,unknown,m,NA,m,1CY,2016,11.05.2016,ecotone,WSIK17,WIS19,brown,124,Ghost bird
+515,M045369,Milvus milvus,Guggisberg,Willmesacher,2018,unknown,f,NA,f,1CY,2018,19.05.2018,ecotone,KISA11,KIA11,brown,90,NA
+523,R7453,Milvus milvus,St. Antoni,Holzacher,2018,unknown,f,NA,f,1CY,2018,25.05.2018,ecotone,WSIK78,RKI12,brown,423,NA
+896,M045995,Milvus milvus,St. Antoni,Holzacher_19,2020,unknown,f,NA,f,1CY,2020,18.05.2020,milsar,7FE70211,1264,NA,534,NA
+1127,M068101,Milvus milvus,Lanzenhaeusern,Holzmatten,2021,unknown,m,NA,m,1CY,2021,22.05.2021,milsar,EF100D12,5006,NA,833,NA
+24,M023949,Milvus milvus,Ueberstorf,Hundsflueh,2016,unknown,f,NA,f,1CY,2016,04.05.2016,ecotone,WSIK02,WIS04,brown,134,NA
+310,M036630,Milvus milvus,Giffers,Moosmatta_17,2017,unknown,NA,NA,unknown,1CY,2017,30.04.2017,NA,NA,NA,NA,282,NA
+311,M036631,Milvus milvus,Giffers,Moosmatta_17,2017,unknown,NA,NA,unknown,1CY,2017,30.04.2017,NA,NA,NA,NA,282,NA
+319,M039473,Milvus milvus,Ueberstorf,Hundsflueh_17,2017,unknown,m,NA,m,1CY,2017,13.05.2017,ecotone,KIWS24,REK04,brown,294,NA
+313,M036621,Milvus milvus,Flamatt,Eichholz,2017,unknown,NA,NA,unknown,1CY,2017,30.04.2017,NA,NA,NA,NA,286,NA
+958,M045926,Milvus milvus,Plaffeien,Jostrueti_20,2020,unknown,f,NA,f,1CY,2020,10.05.2020,milsar,80D0D910,1305,NA,650,NA
+1145,DA282013,Milvus milvus,France,Jujurieux,2021,unknown,f,NA,f,1CY,2021,28.04.2021,milsar,316AFE12,5009,NA,723,NA
+1146,DA282014,Milvus milvus,France,Jujurieux,2021,unknown,m,NA,m,1CY,2021,27.04.2021,milsar,9DD0D910,5046,NA,723,NA
+91,M023939,Milvus milvus,Kalchstaetten,Kalchstaetten,2016,unknown,m,NA,m,1CY,2016,09.05.2016,ecotone,SWIK88,SWI21,brown,210,2023: Probably breeding but never found the nest
+90,M023938,Milvus milvus,Kalchstaetten,Kalchstaetten,2016,unknown,f,NA,f,1CY,2016,11.05.2016,ecotone,SWIK92,SWI25,brown,210,NA
+1107,M046758,Milvus milvus,SteinamRhein,Kaltenbach,2021,unknown,m,NA,m,1CY,2021,09.05.2021,milsar,236AFE12,5022,NA,803,NA
+1210,M046761,Milvus milvus,SteiNAmRhein,Kaltenbach,2022,unknown,f,NA,f,1CY,2022,05.05.2022,milsar,E2F0A215,3010,NA,803,NA
+1211,M046762,Milvus milvus,SteiNAmRhein,Kaltenbach,2022,unknown,m,NA,m,1CY,2022,01.05.2022,milsar,E8F0A215,3032,NA,803,NA
+246,M039047,Milvus milvus,Alterswil,Seliholz,2017,unknown,m,NA,m,1CY,2017,10.05.2017,ecotone,SWIK30,IWS25,brown,116,NA
+329,M036601,Milvus milvus,Gurmels,Kleinboesingen,2017,unknown,m,NA,m,1CY,2017,04.05.2017,ecotone,KIWS10,RKA16,brown,2,NA
+3,M035174,Milvus milvus,Gurmels,Kleinboesingen,2016,unknown,m,NA,m,1CY,2016,27.04.2016,ecotone,SWIK82,SWI15,brown,2,NA
+4,M035173,Milvus milvus,Gurmels,Kleinboesingen,2016,unknown,f,NA,f,1CY,2016,27.04.2016,ecotone,SWIK83,SWI16,brown,2,NA
+330,M036605,Milvus milvus,Gurmels,Kleinboesingen,2017,unknown,f,NA,f,1CY,2017,22.04.2017,ecotone,KIWS14,RKA20,brown,2,NA
+960,M045930,Milvus milvus,Gurmels,Kleinboesingen_20,2020,unknown,f,NA,f,1CY,2020,30.04.2020,milsar,98D0D910,1283,NA,654,NA
+314,M039043,Milvus milvus,Milken,Kriesbaumen,2017,unknown,m,NA,m,1CY,2017,30.04.2017,ecotone,WSIK78,RKI12,brown,287,NA
+849,M045974,Milvus milvus,Milken,Kriesbaumen,2020,unknown,f,NA,f,1CY,2020,30.04.2020,milsar,ABD0D910,1269,NA,287,2023: Died 9/04
+926,M045920,Milvus milvus,Berbereche,La Fenetta,2020,unknown,f,NA,f,1CY,2020,01.05.2020,milsar,A0D0D910,1276,NA,616,2023: Died in Spain 06/03
+1223,M068133,Milvus milvus,La Berbereche,La Fenetta,2022,unknown,m,NA,m,1CY,2022,29.04.2022,milsar,06F1A215,3004,NA,883,NA
+332,M039014,Milvus milvus,Ueberstorf,Mischlere_17,2017,unknown,NA,NA,unknown,1CY,2017,22.04.2017,NA,NA,NA,NA,304,NA
+1097,M045883,Milvus milvus,Marly,La Grangette,2021,unknown,f,NA,f,1CY,2021,12.05.2021,milsar,296AFE12,5016,NA,785,2023: Died in France
+334,M036538,Milvus milvus,Ueberstorf,Ledeu_17,2017,unknown,m,NA,m,1CY,2017,04.05.2017,NA,NA,NA,NA,305,NA
+335,M036649,Milvus milvus,Ueberstorf,Ledeu_17,2017,unknown,f,NA,f,1CY,2017,04.05.2017,NA,NA,NA,NA,305,NA
+336,M036650,Milvus milvus,Ueberstorf,Ledeu_17,2017,unknown,m,NA,m,1CY,2017,04.05.2017,NA,NA,NA,NA,305,NA
+21,M004946,Milvus milvus,Chavannes-sous-Orsonnens,La Pale,2016,unknown,f,NA,f,1CY,2016,27.04.2016,ecotone,SWIK76,SWI09,brown,221,NA
+338,M036613,Milvus milvus,Duedingen,Chiemiwald,2017,unknown,NA,NA,unknown,1CY,2017,04.05.2017,NA,NA,NA,NA,309,NA
+22,M023899,Milvus milvus,Chavannes-sous-Orsonnens,La Pale,2016,unknown,m,NA,m,1CY,2016,01.05.2016,ecotone,WSIK60,WIK02,brown,221,NA
+23,M023900,Milvus milvus,Chavannes-sous-Orsonnens,La Pale,2016,unknown,f,NA,f,1CY,2016,27.04.2016,ecotone,WSIK21,WIS23,brown,221,NA
+99,M023960,Milvus milvus,Bulle,La Perause,2016,unknown,f,NA,f,1CY,2016,17.05.2016,ecotone,WSIK24,WIS26,brown,203,NA
+1102,M068113,Milvus milvus,Bonnefontaine,La Preru,2021,unknown,m,NA,m,1CY,2021,21.05.2021,milsar,1F6AFE12,5025,NA,794,not transm.
+1103,M045891,Milvus milvus,Bonnefontaine,La Preru,2021,unknown,m,NA,m,1CY,2021,17.05.2021,milsar,166AFE12,5034,NA,794,NA
+1154,M051175,Milvus milvus,Schmitten,Lanthen,2022,unknown,f,NA,f,1CY,2022,04.05.2022,milsar,E9F0A215,3033,NA,421,NA
+345,M036548,Milvus milvus,Schmitten,Lanthenholz_17,2017,unknown,f,NA,f,1CY,2017,03.05.2017,NA,NA,NA,NA,313,NA
+346,M036549,Milvus milvus,Schmitten,Lanthenholz_17,2017,unknown,m,NA,m,1CY,2017,03.05.2017,NA,NA,NA,NA,313,NA
+1155,M068132,Milvus milvus,Schmitten,Lanthen,2022,unknown,f,NA,f,1CY,2022,04.05.2022,milsar,EDF0A215,3028,NA,421,NA
+862,M045908,Milvus milvus,Schmitten,Lanthen_18,2020,unknown,m,NA,m,1CY,2020,03.05.2020,milsar,94D0D910,1287,NA,421,NA
+791,M045766,Milvus milvus,Schmitten,Lanthen_19,2019,unknown,f,NA,f,1CY,2019,09.05.2019,milsar,22329F1C,1248,NA,537,NA
+792,M045767,Milvus milvus,Schmitten,Lanthen_19,2019,unknown,m,NA,m,1CY,2019,05.05.2019,ecotone,KIWS19,RKA25,NA,537,NA
+389,M039048,Milvus milvus,Schmitten,Lanthen_spruce,2017,unknown,f,NA,f,1CY,2017,05.05.2017,ecotone,KIWS17,RKA23,brown,343,NA
+352,M039033,Milvus milvus,Flamatt,railroad,2017,unknown,NA,NA,unknown,1CY,2017,03.05.2017,NA,NA,NA,NA,322,date of death +/- a week
+353,M039034,Milvus milvus,Flamatt,railroad,2017,unknown,NA,NA,unknown,1CY,2017,03.05.2017,NA,NA,NA,NA,322,NA
+390,M039049,Milvus milvus,Schmitten,Lanthen_spruce,2017,unknown,m,NA,m,1CY,2017,05.05.2017,ecotone,WSIK77,RKI11,brown,343,NA
+442,M039316,Milvus milvus,St. Antoni,Baechlisbrunnen,2017,m,m,NA,m,3CY+,unknown,10.05.2017,ecotone,KISA12,KIA12,brown,unknown,NA
+850,M045822,Milvus milvus,Schmitten,Lanthenholz_17,2020,unknown,f,NA,f,1CY,2020,29.04.2020,milsar,94392D10,1262,NA,313,NA
+851,M045916,Milvus milvus,Schmitten,Lanthenholz_17,2020,unknown,f,NA,f,1CY,2020,30.04.2020,milsar,ACD0D910,1267,NA,313,NA
+428,M023966,Milvus milvus,Le Mouret,Le Grabo,2017,unknown,f,NA,f,1CY,2017,13.05.2017,ecotone,KIWS81,KRX06,brown,377,NA
+429,M036588,Milvus milvus,Le Mouret,Le Grabo,2017,unknown,f,NA,f,1CY,2017,13.05.2017,milsar,1CBC0C1D,1212,brown,377,NA
+491,M039250,Milvus milvus,Le Mouret,Le Grabo_18,2018,unknown,f,NA,f,1CY,2018,04.05.2018,milsar,22329F1C,1248,brown,403,NA
+492,M039325,Milvus milvus,Le Mouret,Le Grabo_18,2018,unknown,f,NA,f,1CY,2018,04.05.2018,milsar,BD319F1C,1240,brown,403,NA
+364,M039037,Milvus milvus,Lanzenhaeusern,Finel_17,2017,unknown,NA,NA,unknown,1CY,2017,12.05.2017,NA,NA,NA,NA,329,NA
+365,M039038,Milvus milvus,Lanzenhaeusern,Finel_17,2017,unknown,NA,NA,unknown,1CY,2017,12.05.2017,NA,NA,NA,NA,329,NA
+366,M039039,Milvus milvus,Lanzenhaeusern,Finel_17,2017,unknown,NA,NA,unknown,1CY,2017,12.05.2017,NA,NA,NA,NA,329,NA
+160,M023875,Milvus milvus,Lechelles,Lechelles,2015,unknown,f,NA,f,1CY,2015,10.05.2015,ecotone,SWIK30,MLR25,red,67,NA
+151,M023866,Milvus milvus,Bas-Intyamon,Grandvillard,2015,unknown,m,NA,m,1CY,2015,08.05.2015,ecotone,SWIK31,MLR19,green,51,logger stopped working on the 23.11.2019
+832,M039694,Milvus milvus,Ueberstorf,Ledeu beech,2019,unknown,m,NA,m,1CY,2019,29.04.2019,milsar,AF319F1C,1252,NA,7,NA
+180,M023895,Milvus milvus,Tafers,Chly Maggenberg,2015,unknown,m,NA,m,1CY,2015,08.06.2015,ecotone,SWIK32,MLR30,green,29,2023: Suspected to be the ghost bird of 999-St. Ursen_Daelhoelzli_23. territory_ID: 195
+831,M039693,Milvus milvus,Ueberstorf,Ledeu beech,2019,unknown,f,NA,f,1CY,2019,30.04.2019,milsar,7D319F1C,1222,NA,7,NA
+833,M045385,Milvus milvus,Ueberstorf,Ledeu beech,2019,unknown,m,NA,m,1CY,2019,02.05.2019,ecotone,KISW09,KIW09,NA,7,"2023: New settler, died during breeding season 10/04"
+52,M023944,Milvus milvus,Ueberstorf,Ledeu spruce,2016,unknown,m,NA,m,1CY,2016,06.05.2016,ecotone,WSIK22,WIS24,brown,138,NA
+1006,R6864,Milvus milvus,Schmitten,Lehm,2020,unknown,f,NA,f,1CY,2020,19.05.2020,milsar,A5D0D910,1274,NA,714,NA
+1007,R6865,Milvus milvus,Schmitten,Lehm,2020,unknown,f,NA,f,1CY,2020,15.05.2020,milsar,8FD0D910,1293,NA,714,NA
+344,M039219,Milvus milvus,Mamishaus,Lehn,2017,unknown,f,NA,f,1CY,2017,03.05.2017,ecotone,KISA13,KIA13,brown,312,NA
+1230,M068149,Milvus milvus,St. Antoni,Lehwil,2022,unknown,f,NA,f,1CY,2022,10.05.2022,milsar,2C6AFE12,5012,NA,899,2023: Died 13/05
+378,M039036,Milvus milvus,Alterswil,Baletswil_treeline,2017,unknown,m,NA,m,1CY,2017,14.05.2017,NA,NA,NA,NA,336,NA
+379,M039453,Milvus milvus,Giffers,Poplera,2017,unknown,m,NA,m,1CY,2017,14.05.2017,NA,NA,NA,NA,338,NA
+380,M039454,Milvus milvus,Giffers,Poplera,2017,unknown,m,NA,m,1CY,2017,14.05.2017,NA,NA,NA,NA,338,NA
+381,M036587,Milvus milvus,Villarsel,Nesslerabach_17,2017,unknown,m,NA,m,1CY,2017,15.05.2017,NA,NA,NA,NA,339,NA
+382,M039455,Milvus milvus,Villarsel,Nesslerabach_17,2017,unknown,m,NA,m,1CY,2017,15.05.2017,NA,NA,NA,NA,339,NA
+383,M036540,Milvus milvus,Alterswil,beniwil,2017,unknown,f,NA,f,1CY,2017,15.05.2017,NA,NA,NA,NA,33,NA
+384,M036541,Milvus milvus,Alterswil,beniwil,2017,unknown,f,NA,f,1CY,2017,15.05.2017,NA,NA,NA,NA,33,NA
+385,M039456,Milvus milvus,Praroman,Chechin,2017,unknown,m,NA,m,1CY,2017,15.05.2017,NA,NA,NA,NA,340,NA
+172,M023887,Milvus milvus,Vuippens,Vuippens,2015,unknown,m,NA,m,1CY,2015,20.05.2015,ecotone,SWIK33,MLR09,green,49,NA
+166,M023881,Milvus milvus,Onnens,Onnens,2015,unknown,m,NA,m,1CY,2015,22.05.2015,ecotone,SWIK34,MLR18,green,72,NA
+28,M035185,Milvus milvus,Oberschrot,Sali,2016,f,f,NA,f,3CY+,unknown,NA,ecotone,SWIK34,SIU18,green,unknown,Eggshells found with fallen nest under tree in 2017. 2023: Breakup with male 481
+150,M023865,Milvus milvus,Bas-Intyamon,Grandvillard,2015,unknown,m,NA,m,1CY,2015,12.05.2015,ecotone,SWIK35,MLR22,green,51,NA
+143,M023858,Milvus milvus,St. Antoni,Lehwil beech,2015,unknown,m,NA,m,1CY,2015,05.05.2015,ecotone,SWIK04,MLR27,red,23,NA
+1254,M051184,Milvus milvus,Vaulrus,Les Molettes,2022,unknown,m,NA,m,1CY,2022,31.05.2022,milsar,2F6AFE12,5011,NA,945,NA
+392,M039009,Milvus milvus,Heitenried,Winterlingen_17,2017,unknown,NA,NA,unknown,1CY,2017,05.05.2017,NA,NA,NA,NA,344,died between the 01.06 and the 14.06.2017
+393,M039010,Milvus milvus,Heitenried,Winterlingen_17,2017,unknown,NA,NA,unknown,1CY,2017,05.05.2017,NA,NA,NA,NA,344,died between the 01.06 and the 14.06.2017
+394,M036585,Milvus milvus,Duedingen,St. Wolfgangholz_17,2017,unknown,m,NA,m,1CY,2017,05.05.2017,NA,NA,NA,NA,347,NA
+395,M036586,Milvus milvus,Duedingen,St. Wolfgangholz_17,2017,unknown,m,NA,m,1CY,2017,05.05.2017,NA,NA,NA,NA,347,NA
+1130,M045900,Milvus milvus,La Roche,Les Rontes,2021,unknown,f,NA,f,1CY,2021,19.05.2021,milsar,AAD0D910,5036,NA,844,not transm.
+1249,M068139,Milvus milvus,LaRoche,Les Rontes,2022,unknown,m,NA,m,1CY,2022,10.05.2022,milsar,136AFE12,5002,NA,930,2023: Died in France 4/06
+125,M035166,Milvus milvus,Riffenmatt,Dorfmatte,2016,m,m,NA,m,3CY+,unknown,NA,ecotone,SWIK37,IWS17,brown,unknown,Logger stopped working after 2017 breeding season. 2018 territory
+140,M023855,Milvus milvus,Alterswil,Wolgiswil S,2015,unknown,m,NA,m,1CY,2015,09.05.2015,ecotone,SWIK38,MLR26,green,37,NA
+400,M036589,Milvus milvus,Tafers,Brunnenbergrain_17,2017,unknown,m,NA,m,1CY,2017,05.05.2017,NA,NA,NA,NA,350,NA
+101,M036513,Milvus milvus,Schwarzenburg,Chilchermatt,2016,m,m,NA,m,3CY+,unknown,NA,ecotone,SWIK39,IWS03,green,unknown,NA
+178,M023893,Milvus milvus,Lossy,Lossy,2015,unknown,m,NA,m,1CY,2015,17.05.2015,ecotone,SWIK40,MLR29,green,16,NA
+111,M036516,Milvus milvus,Rechthalten,Moosholz,2016,f,f,NA,f,3CY+,unknown,NA,ecotone,SWIK40,SIU29,gold,unknown,NA
+77,M036551,Milvus milvus,Zumholz,Brand edge,2016,m,m,NA,m,3CY+,unknown,NA,ecotone,SWIK41,SIU14,green,unknown,"2023: Ghost, read the ring with camera trap."
+371,M036546,Milvus milvus,St. Antoni,Menzishus_W,2017,unknown,m,NA,m,1CY,2017,11.05.2017,milsar,C68CEA1D,1209,brown,332,NA
+372,M036547,Milvus milvus,St. Antoni,Menzishus_W,2017,unknown,f,NA,f,1CY,2017,11.05.2017,ecotone,KIWS88,KRX18,brown,332,NA
+409,M039040,Milvus milvus,Schwarzenburg,Eigen_17,2017,unknown,NA,NA,unknown,1CY,2017,06.05.2017,NA,NA,NA,NA,355,NA
+410,M039041,Milvus milvus,Schwarzenburg,Eigen_17,2017,unknown,NA,NA,unknown,1CY,2017,06.05.2017,NA,NA,NA,NA,355,NA
+1106,R6892,Milvus milvus,St. Antoni,Menzishustop,2021,unknown,f,NA,f,1CY,2021,15.05.2021,milsar,EA100D12,5003,NA,800,NA
+984,R6862,Milvus milvus,St. Sylvester,Metzgera,2020,unknown,f,NA,f,1CY,2020,19.05.2020,milsar,A3D0D910,1306,NA,683,NA
+413,M039480,Milvus milvus,Alterswil,wolgiswil,2017,unknown,NA,NA,unknown,1CY,2017,13.05.2017,NA,NA,NA,NA,361,NA
+414,M039202,Milvus milvus,St. Antoni,Steinberg_17,2017,unknown,m,NA,m,1CY,2017,13.05.2017,NA,NA,NA,NA,362,NA
+415,M039203,Milvus milvus,St. Antoni,Steinberg_17,2017,unknown,m,NA,m,1CY,2017,13.05.2017,NA,NA,NA,NA,362,NA
+122,M036569,Milvus milvus,Milken,Milkeholz,2016,unknown,m,NA,m,1CY,2016,21.05.2016,ecotone,WSIK03,WIS05,brown,164,NA
+123,M036570,Milvus milvus,Milken,Milkeholz,2016,unknown,f,NA,f,1CY,2016,25.05.2016,ecotone,SWIK70,SWI03,brown,164,NA
+396,M039205,Milvus milvus,Milken,Milkeholz_17,2017,unknown,m,NA,m,1CY,2017,05.05.2017,ecotone,KIWS51,RED03,brown,348,NA
+521,M039746,Milvus milvus,Ueberstorf,Mischlere,2018,unknown,f,NA,f,1CY,2018,15.05.2018,ecotone,KIWS76,RED29,brown,11,NA
+192,M036520,Milvus milvus,Guggisberg,Underbalm,2016,f,f,NA,f,3CY+,unknown,NA,ecotone,SWIK42,SIU16,green,unknown,NA
+96,M023913,Milvus milvus,Ueberstorf,Mischlere,2016,unknown,f,NA,f,1CY,2016,12.05.2016,ecotone,WSIK42,SIW14,brown,11,NA
+520,M039745,Milvus milvus,Ueberstorf,Mischlere,2018,unknown,m,NA,m,1CY,2018,17.05.2018,ecotone,KIWS32,REK12,brown,11,NA
+424,M039206,Milvus milvus,Plaffeien,Jostrueti_17,2017,unknown,NA,NA,unknown,1CY,2017,13.05.2017,NA,NA,NA,NA,373,NA
+333,M039015,Milvus milvus,Ueberstorf,Mischlere_17,2017,unknown,m,NA,m,1CY,2017,22.04.2017,ecotone,WSIK95,RKI30,brown,304,NA
+988,M045967,Milvus milvus,Ueberstorf,Mischlere_20,2020,unknown,f,NA,f,1CY,2020,11.05.2020,milsar,96D0D910,1285,NA,689,NA
+427,M036539,Milvus milvus,Marly,Les_Fontanettes_17,2017,unknown,f,NA,f,1CY,2017,13.05.2017,NA,NA,NA,NA,376,NA
+119,M023940,Milvus milvus,Riedstaett,Mittlisried,2016,unknown,m,NA,m,1CY,2016,13.05.2016,ecotone,WSIK10,WIS12,brown,163,NA
+285,M039495,Milvus milvus,Riedstaett,Mittlisried_17,2017,unknown,m,NA,m,1CY,2017,28.04.2017,ecotone,KIWS92,KRX28,brown,252,"2023: Breakup with female 425, kept territory, probably had a nest but was not found"
+284,M039494,Milvus milvus,Riedstaett,Mittlisried_17,2017,unknown,f,NA,f,1CY,2017,28.04.2017,ecotone,KISW05,KIW05,brown,252,NA
+286,M039496,Milvus milvus,Riedstaett,Mittlisried_17,2017,unknown,m,NA,m,1CY,2017,28.04.2017,ecotone,KIWS83,KRX08,brown,252,NA
+1011,M045990,Milvus milvus,Riedstaett,Mittlisried_20,2020,unknown,f,NA,f,1CY,2020,09.05.2020,milsar,B94BD810,1265,NA,722,NA
+30,M004947,Milvus milvus,Bulle,Mollenchins,2016,unknown,m,NA,m,1CY,2016,06.05.2016,ecotone,WSIK40,SIW11,brown,204,NA
+434,M039204,Milvus milvus,Mittelhaeusern,Hubel,2017,unknown,f,NA,f,1CY,2017,10.05.2017,NA,NA,NA,NA,89,NA
+435,M039452,Milvus milvus,Mittelhaeusern,Hubel,2017,unknown,m,NA,m,1CY,2017,06.05.2017,NA,NA,NA,NA,89,NA
+31,M004948,Milvus milvus,Bulle,Mollenchins,2016,unknown,m,NA,m,1CY,2016,05.05.2016,ecotone,WSIK23,WIS25,brown,204,NA
+32,M004949,Milvus milvus,Bulle,Mollenchins,2016,unknown,NA,NA,unknown,1CY,2016,10.05.2016,ecotone,WSIK63,WIK05,brown,204,NA
+387,M036629,Milvus milvus,Le Mouret,Montrevaz,2017,unknown,m,NA,m,1CY,2017,15.05.2017,ecotone,KIWS43,REK24,brown,342,it was found on the 21/02/2019
+439,M036522,Milvus milvus,Ueberstorf,Ufem Burst,2017,m,m,NA,m,3CY+,unknown,10.05.2017,ecotone,KIWS40,REK21,brown,unknown,2021: reports of hanging logger coming in 6th Oct 2021
+440,M039302,Milvus milvus,Boesingen,Under Gruenenburg,2017,m,m,NA,m,3CY+,unknown,10.05.2017,ecotone,KIWS09,RKA15,brown,unknown,NA
+507,M045151,Milvus milvus,Heitenried,Tannenholz,2018,unknown,f,NA,f,1CY,2018,12.05.2018,ecotone,KISA13,KIA13,brown,316,NA
+443,M039301,Milvus milvus,Heitenried,Schinelhus,2017,f,f,NA,f,3CY+,unknown,10.05.2017,ecotone,KIWS44,REK25,silver,unknown,NA
+444,M039313,Milvus milvus,Rueschegg,Gambach,2017,m,m,NA,m,3CY+,unknown,10.05.2017,milsar,7DBC0C1D,1218,brown,unknown,NA
+445,M036532,Milvus milvus,Schmitten,Bunziwil,2017,m,m,NA,m,3CY+,unknown,10.05.2017,ecotone,KIWS41,REK22,brown,unknown,date_of_last_pos first 2018-08-14
+446,M036533,Milvus milvus,Schmitten,Bunziwil,2017,f,f,NA,f,3CY+,unknown,10.05.2017,ecotone,KIWS02,RKA07,silver,unknown,"2022: first saw it building on a BK nest close by 624Bunziwil ,later in the season moved to 624Bunziwil"
+447,M036582,Milvus milvus,Gurmels,Kleinboesingen,2017,m,m,NA,m,3CY+,unknown,10.05.2017,ecotone,KIWS36,REK17,brown,unknown,NA
+448,M039304,Milvus milvus,Duedingen,Chiemiwald,2017,f,f,NA,f,3CY+,unknown,10.05.2017,ecotone,KIWS42,REK23,silver,unknown,NA
+449,M039303,Milvus milvus,Schmitten,Hohi Zelg,2017,f,f,NA,f,3CY+,unknown,10.05.2017,ecotone,WSIK82,RKI17,silver,unknown,NA
+450,M039308,Milvus milvus,Elisried,Hoehi_18,2017,f,f,NA,f,3CY+,unknown,10.05.2017,ecotone,KIWS38,REK19,silver,unknown,NA
+451,M039310,Milvus milvus,St. Antoni,Menzishus,2017,f,f,NA,f,3CY+,unknown,10.05.2017,ecotone,KIWS39,REK20,brown,unknown,NA
+452,M036536,Milvus milvus,Le Mouret,Montevraz,2017,m,m,NA,m,3CY+,unknown,10.05.2017,ecotone,WSIK97,RKA03,brown,unknown,2021: sabbatical year
+453,M036534,Milvus milvus,Schmitten,Lanthen,2017,m,m,NA,m,3CY+,unknown,10.05.2017,ecotone,KIWS28,REK08,brown,unknown,Logger stopped working after 2017 breeding season. 2018 territory
+454,E7107766,Milvus milvus,Heitenried,Winterlingen,2017,m,NA,NA,m,9CY,2009,10.05.2017,ecotone,KIWS33,REK14,brown,unknown,age and hatch_year updated by ringing record (ringed as 2CY in 2010 in Binaced). 2022 : started building on 910 Heitenried_Lettiswil_22 and then moved to 952
+455,M039309,Milvus milvus,Guggisberg,Brannele_17,2017,f,f,NA,f,3CY+,unknown,10.05.2017,ecotone,WSIK99,RKA05,silver,unknown,NA
+456,M036523,Milvus milvus,Aeckenmatt,Muehle,2017,m,m,NA,m,3CY+,unknown,10.05.2017,ecotone,KIWS07,RKA12,brown,unknown,"2023: No nest found, probably failed early"
+457,M036524,Milvus milvus,Aeckenmatt,Muehle,2017,f,f,NA,f,3CY+,unknown,10.05.2017,ecotone,KIWS39,REK20,silver,unknown,Bird was found weakened some weeks after tagging. Cause of weakness was unclear
+458,M036535,Milvus milvus,Boesingen,Risau,2017,f,f,NA,f,3CY+,unknown,10.05.2017,ecotone,KIWS08,RKA14,silver,unknown,NA
+459,M039311,Milvus milvus,Le Mouret,Le Grabo,2017,m,m,NA,m,3CY+,unknown,10.05.2017,milsar,B4BC0C1D,1211,brown,unknown,NA
+460,M036525,Milvus milvus,Schwarzenburg,Herrenholz,2017,m,m,NA,m,3CY+,unknown,10.05.2017,ecotone,KIWS12,RKA18,brown,unknown,"Eggshells found in both 2017 and 2018 in forest patch under tree near point cluster. 2022 : badly trasmitting during breeding season , last contact uhf 26.05.2022"
+461,M036526,Milvus milvus,Schwarzenburg,Herrenholz,2017,f,f,NA,f,3CY+,unknown,10.05.2017,ecotone,KIWS25,REK05,gold,unknown,NA
+462,M036329,Milvus milvus,Wahlern,Gaensemoos,2017,m,m,NA,m,3CY+,unknown,10.05.2017,ecotone,KIWS18,RKA24,brown,unknown,NA
+463,XM301198,Milvus milvus,Ueberstorf,Burlingen,2017,f,NA,NA,f,3CY+,unknown,NA,ecotone,KIWS63,RED16,silver,unknown,Rehabilitation centre bird. Found mid-breeding season 2017 (May). Had brood patch
+465,XM302458,Milvus milvus,Albeuve,l'Arse,2017,f,f,NA,f,3CY+,unknown,NA,ecotone,KISW06,KIW06,silver,unknown,Rehabilitation centre bird. Found post-breeding season 2017 (August)
+467,M039653,Milvus milvus,Ueberstorf,Banholz center,2018,m,NA,NA,m,3CY+,unknown,NA,milsar,AF319F1C,1252,brown,unknown,Bird broke logger off some weeks after tagging.
+468,M039324,Milvus milvus,Alterswil,beniwil,2018,m,NA,NA,m,3CY+,unknown,NA,milsar,AA329F1C,1249,brown,unknown,Bird broke logger off some weeks after tagging.
+469,M039652,Milvus milvus,Kalchstaetten,Herrenmatt,2018,m,NA,NA,m,3CY+,unknown,NA,milsar,3F309F1C,1237,brown,unknown,NA
+470,M039323,Milvus milvus,Boesingen,Gertholz,2018,f,NA,NA,f,3CY+,unknown,NA,milsar,99379F1C,1229,silver,unknown,NA
+471,M039322,Milvus milvus,St. Sylvester,villarsel,2018,m,NA,NA,m,3CY+,unknown,NA,milsar,78309F1C,1225,brown,unknown,NA
+472,M039321,Milvus milvus,Fribourg,Grandfey,2018,m,NA,NA,m,3CY+,unknown,NA,milsar,7D319F1C,1222,brown,unknown,NA
+473,M039319,Milvus milvus,St. Ursen,Roeschiwil,2018,f,NA,NA,f,3CY+,unknown,NA,milsar,C9379F1C,1227,silver,unknown,NA
+474,M039654,Milvus milvus,Boesingen,Risau,2018,m,NA,NA,m,3CY+,unknown,NA,milsar,ACEE311C,1239,brown,unknown,Suspected water penetration to logger some weeks after tagging. Territory ID should be the same as individual 458.
+475,M039655,Milvus milvus,Duedingen,St. Wolfgangholz_17,2018,m,NA,NA,m,3CY+,unknown,NA,milsar,D6319F1C,1221,brown,unknown,NA
+476,M039656,Milvus milvus,Heitenried,Schinelhus,2018,m,NA,NA,m,3CY+,unknown,NA,milsar,9D319F1C,1254,brown,unknown,NA
+477,M039658,Milvus milvus,Ueberstorf,mischlere,2018,m,NA,NA,m,3CY+,unknown,NA,milsar,BB379F1C,1242,brown,unknown,2023: lost his tag after hanging on his belly most of the season
+479,M039660,Milvus milvus,Rechthalten,Entemoos,2018,m,NA,NA,m,3CY+,unknown,NA,milsar,E7319F1C,1232,brown,unknown,NA
+480,M039663,Milvus milvus,elisried,Hoehi_18,2018,m,NA,NA,m,3CY+,unknown,NA,milsar,72F6C31C,1244,brown,unknown,NA
+481,M039662,Milvus milvus,Oberschrot,Sali,2018,m,NA,NA,m,3CY+,unknown,NA,milsar,8AF6C31C,1223,brown,unknown,2023: Breakup with female 28
+482,M039665,Milvus milvus,Aeckenmatt,Muehle_Burlingen,2018,m,NA,NA,m,3CY+,unknown,NA,milsar,77F0C31C,1243,brown,unknown,2021: might have had a nest (not 801) near 46.851213947348086
+388,M039045,Milvus milvus,Le Mouret,Montrevaz,2017,unknown,f,NA,f,1CY,2017,05.05.2017,ecotone,KIWS26,REK06,brown,342,NA
+518,M045194,Milvus milvus,St. Antoni,Baechlisbrunnen_18,2018,unknown,f,NA,f,1CY,2018,18.05.2018,ecotone,KISA14,KIA14,brown,397,2023: Thought new settler but no clear territory during the season
+503,M045200,Milvus milvus,St. Antoni,Moos,2018,unknown,m,NA,m,1CY,2018,12.05.2018,ecotone,KISW02,KRX26,brown,429,NA
+116,M036503,Milvus milvus,Rechthalten,Moosholz,2016,unknown,m,NA,m,1CY,2016,15.05.2016,ecotone,WSIK18,WIS20,brown,158,"2022: did not transmitt regurarly , last downloaded positions on 15.06.2022"
+117,M036504,Milvus milvus,Rechthalten,Moosholz,2016,unknown,m,NA,m,1CY,2016,14.05.2016,ecotone,WSIK59,WIK01,brown,158,NA
+425,M039221,Milvus milvus,Rechthalten,Moosholz_W,2017,unknown,f,NA,f,1CY,2017,13.05.2017,ecotone,KISW07,KIW07,brown,374,"2023: Breakup with male 285, moved to another territory, failed"
+506,M045199,Milvus milvus,Heitenried,Schinelhus_18,2018,unknown,f,NA,f,1CY,2018,12.05.2018,ecotone,KISA15,KIA15,brown,400,NA
+490,M039666,Milvus milvus,Le Mouret,Le Grabo,2018,f,NA,NA,f,3CY+,unknown,NA,milsar,5C379F1C,1253,silver,unknown,NA
+418,M036617,Milvus milvus,Aeckenmatt,Muehle_17,2017,unknown,f,NA,f,1CY,2017,13.05.2017,ecotone,WSIK72,RKI05,brown,368,NA
+419,M036618,Milvus milvus,Aeckenmatt,Muehle_17,2017,unknown,f,NA,f,1CY,2017,13.05.2017,ecotone,WSIK79,RKI14,brown,368,NA
+493,M039668,Milvus milvus,Treyvaux,Traumatta,2018,f,NA,NA,f,3CY+,unknown,NA,milsar,1E319F1C,1228,silver,unknown,NA
+522,M039703,Milvus milvus,Aeckenmatt,Muehle_Burlingen,2018,unknown,m,NA,m,1CY,2018,19.05.2018,ecotone,KIWS01,RKA06,brown,395,NA
+29,M035186,Milvus milvus,Wuennewil,Muelital,2016,unknown,m,NA,m,1CY,2016,06.05.2016,ecotone,WSIK12,WIS14,brown,222,NA
+1005,M045989,Milvus milvus,Massonens,Neirigue,2020,unknown,f,NA,f,1CY,2020,26.05.2020,milsar,9ED0D910,1278,NA,712,NA
+1099,M068120,Milvus milvus,Massonens,Neirigue,2021,unknown,f,NA,f,1CY,2021,25.05.2021,milsar,E4100D12,5005,NA,792,NA
+1100,M045897,Milvus milvus,Massonens,Neirigue,2021,unknown,m,NA,m,1CY,2021,21.05.2021,milsar,306AFE12,5008,NA,792,NA
+1264,M051169,Milvus milvus,Massonens,Neirigue,2022,unknown,m,NA,m,1CY,2022,16.05.2022,milsar,336AFE12,5007,NA,955,NA
+951,R6851,Milvus milvus,Wahlern,Neuhaus,2020,unknown,f,NA,f,1CY,2020,03.05.2020,milsar,A9D0D910,1271,NA,639,NA
+952,R6852,Milvus milvus,Wahlern,Neuhaus,2020,unknown,f,NA,f,1CY,2020,30.04.2020,milsar,A7D0D910,1273,NA,639,NA
+46,M035190,Milvus milvus,St. Ursen,Neumatt,2016,unknown,f,NA,f,1CY,2016,09.05.2016,ecotone,SWIK77,SWI10,brown,192,2023: New settler
+47,M035191,Milvus milvus,St. Ursen,Neumatt,2016,unknown,f,NA,f,1CY,2016,08.05.2016,ecotone,WSIK19,WIS21,brown,192,NA
+282,M039006,Milvus milvus,St. Ursen,Neumatt_17,2017,unknown,m,NA,m,1CY,2017,28.04.2017,ecotone,KIWS50,RED02,brown,251,NA
+283,M039007,Milvus milvus,St. Ursen,Neumatt_17,2017,unknown,m,NA,m,1CY,2017,28.04.2017,ecotone,KIWS64,RED17,brown,251,NA
+78,M036552,Milvus milvus,Villarsel,new nest,2016,unknown,m,NA,m,1CY,2016,09.05.2016,ecotone,SWIK99,WIS02,brown,220,Bird originally attached to 416 St. Sylvester_Hangeried nest
+64,M035155,Milvus milvus,Ueberstorf,Oberholzwald,2016,m,m,NA,m,3CY+,unknown,NA,ecotone,SWIK43,MLR15,green,unknown,2021 first at 407-Ueberstorf_Oberholzwald_18
+174,M023889,Milvus milvus,Vuippens,Vuippens,2015,unknown,m,NA,m,1CY,2015,21.05.2015,ecotone,SWIK43,MLR15,green,49,NA
+1057,M045857,Milvus milvus,Ueberstorf,Niedermettlen,2021,unknown,m,NA,m,1CY,2021,26.04.2021,milsar,82D0D910,5041,NA,671,NA
+1058,M045858,Milvus milvus,Ueberstorf,Niedermettlen,2021,unknown,m,NA,m,1CY,2021,25.04.2021,milsar,8BD0D910,5043,NA,671,NA
+1234,M068129,Milvus milvus,Ueberstorf,Niedermettlen,2022,unknown,f,NA,f,1CY,2022,29.04.2022,milsar,07F1A215,3005,NA,671,NA
+1235,R6556,Milvus milvus,Ueberstorf,Niedermettlen,2022,unknown,f,NA,f,1CY,2022,28.04.2022,milsar,08F1A215,3002,NA,671,NA
+513,M039674,Milvus milvus,Tafers,Brunnenbergrain,2018,f,NA,NA,f,3CY+,unknown,NA,ecotone,KISW03,MRX06,silver,unknown,NA
+359,M039220,Milvus milvus,Mamishaus,Hausmattweid_17,2017,unknown,m,NA,m,1CY,2017,12.05.2017,ecotone,KISA16,KIA16,brown,327,NA
+788,M045776,Milvus milvus,Ueberstorf,Niedermettlen_19,2019,unknown,m,NA,m,1CY,2019,12.05.2019,ecotone,KIWS22,REK02,NA,533,2023: New settler no nest
+789,M045777,Milvus milvus,Ueberstorf,Niedermettlen_19,2019,unknown,f,NA,f,1CY,2019,09.05.2019,ecotone,KIWS29,REK09,NA,533,stopped transmitting on the 2019-12-19
+973,M045850,Milvus milvus,Ueberstorf,Niedermettlen_20,2020,unknown,m,NA,m,1CY,2020,02.05.2020,milsar,95D0D910,1288,NA,671,NA
+974,M045978,Milvus milvus,Ueberstorf,Niedermettlen_20,2020,unknown,m,NA,m,1CY,2020,06.05.2020,milsar,92D0D910,1289,NA,671,NA
+62,M036506,Milvus milvus,Ueberstorf,Hundsflueh,2016,f,f,NA,f,3CY+,unknown,NA,ecotone,SWIK44,SIU07,green,unknown,Logger stopped working after 2017 breeding season. 2018 territory
+48,M035192,Milvus milvus,Ueberstorf,Oberholzwald,2016,unknown,f,NA,f,1CY,2016,07.05.2016,ecotone,WSIK16,WIS18,brown,156,NA
+1141,R6896,Milvus milvus,Ueberstorf,Oberholzwald,2021,unknown,f,NA,f,1CY,2021,01.06.2021,milsar,7E367112,5014,NA,860,replacement brood. 2023: Died in France 6/08
+1142,R6897,Milvus milvus,Ueberstorf,Oberholzwald,2021,unknown,f,NA,f,1CY,2021,28.05.2021,milsar,286AFE12,5015,NA,860,replacement brood
+1143,R6898,Milvus milvus,Ueberstorf,Oberholzwald,2021,unknown,f,NA,f,1CY,2021,25.05.2021,milsar,A8D0D910,5039,NA,860,replacement brood
+524,M039677,Milvus milvus,Ruschegg,Hirschhorn,2018,m,NA,NA,m,3CY+,unknown,NA,ecotone,SWIK91,SWI24,brown,unknown,NA
+525,M039679,Milvus milvus,Plaffeien,Hohliebi,2018,f,NA,NA,f,3CY+,unknown,NA,ecotone,SWIK83,SWI16,silver,unknown,NA
+526,M039680,Milvus milvus,Duedingen,Schueracher,2018,m,NA,NA,m,3CY+,unknown,NA,ecotone,WSIK80,RKI15,brown,unknown,2021: nest possibly not found (GPS points bit east of 2020 nest)
+527,M039678,Milvus milvus,Ueberstorf,Lenglod,2018,m,NA,NA,m,3CY+,unknown,NA,ecotone,KIWS54,RED06,brown,unknown,"2022: badly trasmitting during breeding season , last contact 20.04.2022"
+49,M035193,Milvus milvus,Ueberstorf,Oberholzwald,2016,unknown,m,NA,m,1CY,2016,07.05.2016,ecotone,WSIK57,SIW29,brown,156,NA
+529,M036591,Milvus milvus,Marly,Le_Claru,2018,unknown,m,NA,m,1CY,2018,29.04.2018,NA,NA,NA,NA,264,NA
+530,M036592,Milvus milvus,Marly,Le_Claru,2018,unknown,m,NA,m,1CY,2018,28.04.2018,NA,NA,NA,NA,264,NA
+531,M036594,Milvus milvus,Flamatt,railroad,2018,unknown,f,NA,f,1CY,2018,08.05.2018,NA,NA,NA,NA,322,NA
+532,M036595,Milvus milvus,Praroman,Chechin_18,2018,unknown,NA,m,m,1CY,2018,26.04.2018,NA,NA,NA,NA,426,NA
+533,M036596,Milvus milvus,Praroman,Chechin_18,2018,unknown,NA,f,f,1CY,2018,24.04.2018,NA,NA,NA,NA,426,NA
+534,M036597,Milvus milvus,Guggisberg,Underbalm_17,2018,unknown,m,NA,m,1CY,2018,04.05.2018,NA,NA,NA,NA,326,NA
+535,M036598,Milvus milvus,Guggisberg,Underbalm_17,2018,unknown,m,NA,m,1CY,2018,03.05.2018,NA,NA,NA,NA,326,NA
+536,M036599,Milvus milvus,Guggisberg,Underbalm_17,2018,unknown,m,NA,m,1CY,2018,02.05.2018,NA,NA,NA,NA,326,NA
+537,M036600,Milvus milvus,Milken,Kriesbaumen,2018,unknown,NA,NA,unknown,1CY,2018,01.05.2018,NA,NA,NA,NA,287,NA
+538,M039230,Milvus milvus,Bourguillon,Hattenberg_18,2018,unknown,NA,m,m,1CY,2018,01.05.2018,NA,NA,NA,NA,405,NA
+539,M039231,Milvus milvus,Bourguillon,Hattenberg_18,2018,unknown,NA,m,m,1CY,2018,01.05.2018,NA,NA,NA,NA,405,NA
+540,M039232,Milvus milvus,Ependes,Ependes,2018,unknown,m,NA,m,1CY,2018,06.05.2018,NA,NA,NA,NA,140,NA
+541,M039233,Milvus milvus,Ependes,Ependes,2018,unknown,f,NA,f,1CY,2018,04.05.2018,NA,NA,NA,NA,140,NA
+542,M039234,Milvus milvus,Ependes,Ependes,2018,unknown,f,NA,f,1CY,2018,02.05.2018,NA,NA,NA,NA,140,NA
+543,M039235,Milvus milvus,Tentlingen,Baerg_18,2018,unknown,f,NA,f,1CY,2018,09.05.2018,NA,NA,NA,NA,383,NA
+544,M039236,Milvus milvus,Bourguillon,Gotteron_18,2018,unknown,NA,m,m,1CY,2018,05.05.2018,NA,NA,NA,NA,381,NA
+545,M039237,Milvus milvus,Bourguillon,Gotteron_18,2018,unknown,NA,f,f,1CY,2018,01.05.2018,NA,NA,NA,NA,381,NA
+546,M039238,Milvus milvus,Bourguillon,Gotteron_18,2018,unknown,NA,m,m,1CY,2018,30.04.2018,NA,NA,NA,NA,381,NA
+547,M039239,Milvus milvus,Tentlingen,Vieille_Rossmatta_17,2018,unknown,f,NA,f,1CY,2018,30.04.2018,NA,NA,NA,NA,285,NA
+548,M039240,Milvus milvus,Tentlingen,Vieille_Rossmatta_17,2018,unknown,f,NA,f,1CY,2018,29.04.2018,NA,NA,NA,NA,285,NA
+549,M039241,Milvus milvus,Marly,Les_Fontanettes_17,2018,unknown,NA,f,f,1CY,2018,02.05.2018,NA,NA,NA,NA,376,NA
+550,M039242,Milvus milvus,Le Mouret,Zenauva,2018,unknown,NA,NA,unknown,1CY,2018,11.05.2018,NA,NA,NA,NA,256,NA
+551,M039243,Milvus milvus,Le Mouret,Zenauva,2018,unknown,NA,NA,unknown,1CY,2018,08.05.2018,NA,NA,NA,NA,256,NA
+552,M039244,Milvus milvus,St. Ursen,Roeschiwil_18,2018,unknown,f,NA,f,1CY,2018,07.05.2018,NA,NA,NA,NA,402,NA
+553,M039245,Milvus milvus,St. Ursen,Roeschiwil_18,2018,unknown,f,NA,f,1CY,2018,07.05.2018,NA,NA,NA,NA,402,NA
+554,M039246,Milvus milvus,Alterswil,weiermattenmoos,2018,unknown,NA,m,m,1CY,2018,01.05.2018,NA,NA,NA,NA,273,NA
+555,M039247,Milvus milvus,Alterswil,weiermattenmoos,2018,unknown,NA,f,f,1CY,2018,01.05.2018,NA,NA,NA,NA,273,NA
+556,M039248,Milvus milvus,Alterswil,Beniwil,2018,unknown,NA,NA,unknown,1CY,2018,12.05.2018,NA,NA,NA,NA,33,NA
+557,M039249,Milvus milvus,Alterswil,Beniwil,2018,unknown,NA,NA,unknown,1CY,2018,12.05.2018,NA,NA,NA,NA,33,NA
+558,M039326,Milvus milvus,Mamishaus,Dunti_18,2018,unknown,NA,m,m,1CY,2018,04.05.2018,NA,NA,NA,NA,467,NA
+559,M039327,Milvus milvus,Mamishaus,Dunti_18,2018,unknown,NA,f,f,1CY,2018,01.05.2018,NA,NA,NA,NA,467,NA
+560,M039328,Milvus milvus,Mamishaus,Dunti_18,2018,unknown,NA,m,m,1CY,2018,28.04.2018,NA,NA,NA,NA,467,NA
+561,M039329,Milvus milvus,Boesingen,Gertholz_18,2018,unknown,NA,m,m,1CY,2018,06.05.2018,NA,NA,NA,NA,432,NA
+562,M039330,Milvus milvus,Boesingen,Gertholz_18,2018,unknown,NA,m,m,1CY,2018,02.05.2018,NA,NA,NA,NA,432,NA
+563,M039331,Milvus milvus,Boesingen,Noflenau_18,2018,unknown,NA,m,m,1CY,2018,30.04.2018,NA,NA,NA,NA,433,NA
+564,M039332,Milvus milvus,Boesingen,Noflenau_18,2018,unknown,NA,f,f,1CY,2018,29.04.2018,NA,NA,NA,NA,433,NA
+565,M039333,Milvus milvus,Ueberstorf,Ledeu beech,2018,unknown,NA,m,m,1CY,2018,04.05.2018,NA,NA,NA,NA,7,NA
+566,M039334,Milvus milvus,Ueberstorf,Hundsflueh,2018,unknown,m,NA,m,1CY,2018,09.05.2018,NA,NA,NA,NA,134,Parent2 ring and ID numbers uncertain
+567,M039335,Milvus milvus,Giffers,Buntschumueli,2018,unknown,NA,m,m,1CY,2018,05.05.2018,NA,NA,NA,NA,414,NA
+568,M039336,Milvus milvus,Kalchstaetten,Herrenmatt_18,2018,unknown,NA,f,f,1CY,2018,03.05.2018,NA,NA,NA,NA,466,NA
+569,M039337,Milvus milvus,Kalchstaetten,Herrenmatt_18,2018,unknown,NA,f,f,1CY,2018,03.05.2018,NA,NA,NA,NA,466,NA
+570,M039338,Milvus milvus,Giffers,Buntschumueli,2018,unknown,NA,f,f,1CY,2018,02.05.2018,NA,NA,NA,NA,414,NA
+571,M039339,Milvus milvus,Bundtels,Galmisberg_18,2018,unknown,NA,m,m,1CY,2018,01.05.2018,NA,NA,NA,NA,382,NA
+572,M039340,Milvus milvus,Bundtels,Galmisberg_18,2018,unknown,NA,f,f,1CY,2018,30.04.2018,NA,NA,NA,NA,382,NA
+573,M039343,Milvus milvus,Le Mouret,Essert,2018,unknown,m,NA,m,1CY,2018,03.05.2018,NA,NA,NA,NA,226,NA
+574,M039344,Milvus milvus,Le Mouret,Essert,2018,unknown,m,NA,m,1CY,2018,02.05.2018,NA,NA,NA,NA,226,NA
+575,M039345,Milvus milvus,Villarsel,Villarsel 18,2018,unknown,f,NA,f,1CY,2018,06.05.2018,NA,NA,NA,NA,434,NA
+576,M039346,Milvus milvus,Giffers,Obertswil,2018,unknown,f,NA,f,1CY,2018,06.05.2018,NA,NA,NA,NA,207,NA
+577,M039347,Milvus milvus,Giffers,Obertswil,2018,unknown,f,NA,f,1CY,2018,03.05.2018,NA,NA,NA,NA,207,NA
+578,M039348,Milvus milvus,Giffers,Obertswil,2018,unknown,m,NA,m,1CY,2018,03.05.2018,NA,NA,NA,NA,207,NA
+579,M039349,Milvus milvus,Tafers,Brunnenbergrain_17,2018,unknown,f,NA,f,1CY,2018,13.05.2018,NA,NA,NA,NA,350,NA
+580,M039350,Milvus milvus,Tafers,Brunnenbergrain_17,2018,unknown,m,NA,m,1CY,2018,11.05.2018,NA,NA,NA,NA,350,NA
+581,M039701,Milvus milvus,St. Antoni,Moos,2018,unknown,NA,f,f,1CY,2018,09.05.2018,NA,NA,NA,NA,429,NA
+582,M039704,Milvus milvus,Aeckenmatt,Muehle_Burlingen,2018,unknown,NA,NA,unknown,1CY,2018,18.05.2018,NA,NA,NA,NA,395,NA
+583,M039705,Milvus milvus,Schwarzenburg,Chilchermatt_18,2018,unknown,m,NA,m,1CY,2018,14.05.2018,NA,NA,NA,NA,458,NA
+584,M039706,Milvus milvus,Schwarzenburg,Chilchermatt_18,2018,unknown,m,NA,m,1CY,2018,10.05.2018,NA,NA,NA,NA,458,NA
+585,M039707,Milvus milvus,Schwarzenburg,Herrenholz_18,2018,unknown,NA,NA,unknown,1CY,2018,16.05.2018,NA,NA,NA,NA,396,NA
+586,M039708,Milvus milvus,Schwarzenburg,Herrenholz_18,2018,unknown,NA,NA,unknown,1CY,2018,14.05.2018,NA,NA,NA,NA,396,NA
+587,M039709,Milvus milvus,Guggisberg,Multernboden,2018,unknown,m,NA,m,1CY,2018,06.05.2018,NA,NA,NA,NA,415,NA
+588,not yet ringed,Milvus milvus,Aeckenmatt,Muehle_Burlingen,2018,unknown,NA,NA,unknown,1CY,2018,22.05.2018,NA,NA,NA,NA,395,NA
+589,M039710,Milvus milvus,Alterswil,Halta,2018,unknown,NA,NA,unknown,1CY,2018,21.05.2018,NA,NA,NA,NA,444,ring found near nest. date of death uncertain
+590,M039711,Milvus milvus,Alterswil,Aeschlenberg_18,2018,unknown,NA,f,f,1CY,2018,07.05.2018,NA,NA,NA,NA,465,NA
+591,M039712,Milvus milvus,Wuennewil,Nussbaumen_17,2018,unknown,f,NA,f,1CY,2018,15.05.2018,NA,NA,NA,NA,337,NA
+592,M039713,Milvus milvus,Wuennewil,Nussbaumen_17,2018,unknown,f,NA,f,1CY,2018,12.05.2018,NA,NA,NA,NA,337,NA
+593,M039714,Milvus milvus,Gurmels,Kleinboesingen_N,2018,unknown,f,NA,f,1CY,2018,14.05.2018,NA,NA,NA,NA,440,NA
+594,M039716,Milvus milvus,Mamishaus,Hausmattweid_17,2018,unknown,m,NA,m,1CY,2018,15.05.2018,NA,NA,NA,NA,327,NA
+595,M039717,Milvus milvus,Kalchstaetten,Chlyni Heid_17,2018,unknown,NA,NA,unknown,1CY,2018,18.05.2018,NA,NA,NA,NA,325,NA
+596,M039718,Milvus milvus,Kalchstaetten,Chlyni Heid_17,2018,unknown,NA,NA,unknown,1CY,2018,14.05.2018,NA,NA,NA,NA,325,NA
+597,M039719,Milvus milvus,Plaffeien,Hohliebi_18,2018,unknown,f,NA,f,1CY,2018,15.05.2018,NA,NA,NA,NA,452,NA
+598,M039721,Milvus milvus,St. Ursen,Neumatt_18,2018,unknown,f,NA,f,1CY,2018,12.05.2018,NA,NA,NA,NA,451,NA
+599,M039722,Milvus milvus,St. Ursen,Neumatt_18,2018,unknown,f,NA,f,1CY,2018,08.05.2018,NA,NA,NA,NA,451,NA
+600,M039723,Milvus milvus,St. Ursen,Neumatt_18,2018,unknown,f,NA,f,1CY,2018,10.05.2018,NA,NA,NA,NA,451,NA
+601,M039724,Milvus milvus,Tentlingen,Baerg_18,2018,unknown,m,NA,m,1CY,2018,10.05.2018,NA,NA,NA,NA,383,NA
+602,M039727,Milvus milvus,Le Mouret,Montevraz_18,2018,unknown,NA,NA,unknown,1CY,2018,16.05.2018,NA,NA,NA,NA,408,NA
+603,R7451,Milvus milvus,Le Mouret,Montevraz_18,2018,unknown,f,NA,f,1CY,2018,12.05.2018,NA,NA,NA,NA,408,Ring number changed to R7451 from M039728
+604,M039729,Milvus milvus,Le Mouret,Montevraz_18,2018,unknown,NA,NA,unknown,1CY,2018,09.05.2018,NA,NA,NA,NA,408,NA
+605,M039730,Milvus milvus,Schmitten,Fillistorf_spruce,2018,unknown,NA,NA,unknown,1CY,2018,21.05.2018,NA,NA,NA,NA,462,NA
+606,M039731,Milvus milvus,Schmitten,Fillistorf_spruce,2018,unknown,NA,NA,unknown,1CY,2018,17.05.2018,NA,NA,NA,NA,462,NA
+607,M039732,Milvus milvus,Schmitten,Fillistorf_spruce,2018,unknown,NA,NA,unknown,1CY,2018,16.05.2018,NA,NA,NA,NA,462,NA
+608,M039733,Milvus milvus,Bourguillon,Buerglenholz,2018,unknown,NA,m,m,1CY,2018,14.05.2018,NA,NA,NA,NA,268,NA
+609,M039734,Milvus milvus,Bourguillon,Buerglenholz,2018,unknown,NA,m,m,1CY,2018,10.05.2018,NA,NA,NA,NA,268,NA
+610,M039735,Milvus milvus,Villarsel,Nesslerabach_18,2018,unknown,NA,f,f,1CY,2018,17.05.2018,NA,NA,NA,NA,409,NA
+611,M039736,Milvus milvus,Villarsel,Nesslerabach_18,2018,unknown,NA,f,f,1CY,2018,13.05.2018,NA,NA,NA,NA,409,NA
+612,M039737,Milvus milvus,St. Ursen,Chuerscheli,2018,unknown,NA,f,f,1CY,2018,09.05.2018,NA,NA,NA,NA,441,NA
+613,M039738,Milvus milvus,Duedingen,Raesch_18,2018,unknown,NA,NA,unknown,1CY,2018,20.05.2018,NA,NA,NA,NA,387,NA
+614,M039739,Milvus milvus,Schmitten,Hohi Zelg,2018,unknown,m,NA,m,1CY,2018,23.05.2018,NA,NA,NA,NA,310,NA
+615,M039740,Milvus milvus,Schmitten,Hohi Zelg,2018,unknown,m,NA,m,1CY,2018,19.05.2018,NA,NA,NA,NA,310,NA
+616,M039741,Milvus milvus,Wahlern,Gaensemoos_18,2018,unknown,m,NA,m,1CY,2018,13.05.2018,NA,NA,NA,NA,413,NA
+617,M039742,Milvus milvus,Wahlern,Gaensemoos_18,2018,unknown,f,NA,f,1CY,2018,13.05.2018,NA,NA,NA,NA,413,NA
+618,M039744,Milvus milvus,Ueberstorf,Mischlere,2018,unknown,m,NA,m,1CY,2018,19.05.2018,NA,NA,NA,NA,11,NA
+619,M039747,Milvus milvus,Riedstaett,Mittlisried_17,2018,unknown,NA,f,f,1CY,2018,16.05.2018,NA,NA,NA,NA,252,NA
+620,M039748,Milvus milvus,Ueberstorf,Ufem Burst_18,2018,unknown,NA,f,f,1CY,2018,26.05.2018,NA,NA,NA,NA,443,NA
+621,M039749,Milvus milvus,Ueberstorf,Ufem Burst_18,2018,unknown,m,NA,m,1CY,2018,22.05.2018,NA,NA,NA,NA,443,NA
+622,M039750,Milvus milvus,Alterswil,Seliholz,2018,unknown,m,NA,m,1CY,2018,11.05.2018,NA,NA,NA,NA,463,NA
+623,M045153,Milvus milvus,Aeckenmatt,Muehle_18,2018,unknown,f,NA,f,1CY,2018,11.05.2018,NA,NA,NA,NA,394,NA
+624,M045154,Milvus milvus,Aeckenmatt,Muehle_18,2018,unknown,m,NA,m,1CY,2018,07.05.2018,NA,NA,NA,NA,394,NA
+625,M045157,Milvus milvus,Flamatt,Sensebruecke_18,2018,unknown,NA,m,m,1CY,2018,08.05.2018,NA,NA,NA,NA,389,NA
+626,M045158,Milvus milvus,Flamatt,Sensebruecke_18,2018,unknown,NA,m,m,1CY,2018,04.05.2018,NA,NA,NA,NA,389,NA
+627,M045159,Milvus milvus,Flamatt,Sensebruecke_18,2018,unknown,NA,f,f,1CY,2018,04.05.2018,NA,NA,NA,NA,389,NA
+628,M045163,Milvus milvus,Rueschegg,Gambach_18,2018,unknown,NA,m,m,1CY,2018,10.05.2018,NA,NA,NA,NA,468,NA
+629,M045164,Milvus milvus,Rueschegg,Gambach_18,2018,unknown,f,NA,f,1CY,2018,07.05.2018,NA,NA,NA,NA,468,NA
+630,M045165,Milvus milvus,Rueschegg,Gambach_18,2018,unknown,m,NA,m,1CY,2018,06.05.2018,NA,NA,NA,NA,468,NA
+631,M045170,Milvus milvus,Rechthalten,Entemoos,2018,unknown,f,NA,f,1CY,2018,12.05.2018,NA,NA,NA,NA,410,NA
+632,M045171,Milvus milvus,Villarsel,Commanderie_18,2018,unknown,NA,f,f,1CY,2018,06.05.2018,NA,NA,NA,NA,499,NA
+633,M045172,Milvus milvus,Tafers,Rohr_18,2018,unknown,NA,m,m,1CY,2018,28.04.2018,NA,NA,NA,NA,438,NA
+634,M045176,Milvus milvus,Ueberstorf,Banholz center,2018,unknown,NA,NA,unknown,1CY,2018,12.05.2018,NA,NA,NA,NA,175,NA
+635,M045177,Milvus milvus,Fribourg,Grandfey,2018,unknown,f,NA,f,1CY,2018,11.05.2018,NA,NA,NA,NA,283,NA
+636,M045178,Milvus milvus,Duedingen,Horia_18,2018,unknown,NA,m,m,1CY,2018,04.05.2018,NA,NA,NA,NA,411,NA
+637,M045179,Milvus milvus,Schmitten,Lanthenholz_17,2018,unknown,f,NA,f,1CY,2018,08.05.2018,NA,NA,NA,NA,313,NA
+638,M045180,Milvus milvus,Schmitten,Lanthenholz_17,2018,unknown,m,NA,m,1CY,2018,07.05.2018,NA,NA,NA,NA,313,NA
+639,M045181,Milvus milvus,Schmitten,Lanthenholz_17,2018,unknown,f,NA,f,1CY,2018,05.05.2018,NA,NA,NA,NA,313,NA
+640,M045182,Milvus milvus,Tafers,Brunnenberg,2018,unknown,f,NA,f,1CY,2018,07.05.2018,NA,NA,NA,NA,217,NA
+641,M045183,Milvus milvus,Tafers,Brunnenberg,2018,unknown,f,NA,f,1CY,2018,06.05.2018,NA,NA,NA,NA,217,NA
+642,M045184,Milvus milvus,Alterswil,Seliholz,2018,unknown,NA,m,m,1CY,2018,12.05.2018,NA,NA,NA,NA,116,NA
+643,M045185,Milvus milvus,Boesingen,Frieseneit_18,2018,unknown,NA,NA,unknown,1CY,2018,20.05.2018,NA,NA,NA,NA,456,NA
+644,M045186,Milvus milvus,Tentlingen,Vieille Rossmatta_18,2018,unknown,NA,NA,unknown,1CY,2018,15.05.2018,NA,NA,NA,NA,419,NA
+645,M045187,Milvus milvus,Tentlingen,Vieille Rossmatta_18,2018,unknown,NA,NA,unknown,1CY,2018,11.05.2018,NA,NA,NA,NA,419,NA
+646,M045188,Milvus milvus,Duedingen,St. Wolfgangholz_17,2018,unknown,m,NA,m,1CY,2018,16.05.2018,NA,NA,NA,NA,347,NA
+647,M045191,Milvus milvus,Duedingen,Chiemiwald_18,2018,unknown,NA,NA,unknown,1CY,2018,15.05.2018,NA,NA,NA,NA,449,NA
+648,M045192,Milvus milvus,Duedingen,Chiemiwald_18,2018,unknown,NA,f,f,1CY,2018,11.05.2018,NA,NA,NA,NA,449,NA
+649,M045193,Milvus milvus,Duedingen,Chiemiwald_18,2018,unknown,f,NA,f,1CY,2018,11.05.2018,NA,NA,NA,NA,449,NA
+650,M045196,Milvus milvus,Heitenried,Berghoelzli,2018,unknown,m,NA,m,1CY,2018,13.05.2018,NA,NA,NA,NA,453,NA
+651,M045197,Milvus milvus,Heitenried,Berghoelzli,2018,unknown,m,NA,m,1CY,2018,10.05.2018,NA,NA,NA,NA,453,NA
+652,M045351,Milvus milvus,Alterswil,chaela,2018,unknown,m,NA,m,1CY,2018,20.05.2018,NA,NA,NA,NA,404,NA
+653,M045352,Milvus milvus,Rechthalten,Sonnenberg_18,2018,unknown,NA,NA,unknown,1CY,2018,25.05.2018,NA,NA,NA,NA,464,NA
+654,M045353,Milvus milvus,Rechthalten,Sonnenberg_18,2018,unknown,NA,NA,unknown,1CY,2018,22.05.2018,NA,NA,NA,NA,464,NA
+655,M045354,Milvus milvus,Wuennewil,Golf,2018,unknown,NA,f,f,1CY,2018,15.05.2018,NA,NA,NA,NA,114,NA
+656,M045355,Milvus milvus,Wuennewil,Golf,2018,unknown,f,NA,f,1CY,2018,11.05.2018,NA,NA,NA,NA,114,NA
+657,M045356,Milvus milvus,Wahlern,Althaus_18,2018,unknown,NA,NA,unknown,1CY,2018,10.05.2018,NA,NA,NA,NA,476,NA
+658,M045357,Milvus milvus,Wahlern,Althaus_18,2018,unknown,m,NA,m,1CY,2018,06.05.2018,NA,NA,NA,NA,476,NA
+659,M045358,Milvus milvus,Wahlern,Althaus_18,2018,unknown,m?,NA,m,1CY,2018,06.05.2018,NA,NA,NA,NA,476,NA
+660,M045359,Milvus milvus,Bruenisried,Schuerlimatta,2018,unknown,NA,f,f,1CY,2018,14.05.2018,NA,NA,NA,NA,437,NA
+661,M045360,Milvus milvus,Bruenisried,Schuerlimatta,2018,unknown,f,NA,f,1CY,2018,10.05.2018,NA,NA,NA,NA,437,NA
+662,M045361,Milvus milvus,Bruenisried,Obere Weier_18,2018,unknown,NA,f,f,1CY,2018,18.05.2018,NA,NA,NA,NA,477,NA
+663,M045362,Milvus milvus,St. Ursen,Roeschiwil_18,2018,unknown,NA,m,m,1CY,2018,11.05.2018,NA,NA,NA,NA,402,NA
+664,M045363,Milvus milvus,Kalchstaetten,Birche_18,2018,unknown,f,NA,f,1CY,2018,16.05.2018,NA,NA,NA,NA,478,NA
+665,M045364,Milvus milvus,Kalchstaetten,Birche_18,2018,unknown,m,NA,m,1CY,2018,12.05.2018,NA,NA,NA,NA,478,NA
+666,M045365,Milvus milvus,Kalchstaetten,Birche_18,2018,unknown,m,NA,m,1CY,2018,08.05.2018,NA,NA,NA,NA,478,NA
+667,M045366,Milvus milvus,Mamishaus,Ruemlisberg_18,2018,unknown,f?,f,f,1CY,2018,13.05.2018,NA,NA,NA,NA,479,NA
+668,M045367,Milvus milvus,Mamishaus,Ruemlisberg_18,2018,unknown,m,NA,m,1CY,2018,09.05.2018,NA,NA,NA,NA,479,NA
+669,M036590,Milvus milvus,Marly,Le_Claru,2018,unknown,m,NA,m,1CY,2018,02.05.2018,NA,NA,NA,NA,264,NA
+670,M045371,Milvus milvus,Alterswil,Mediwil,2018,unknown,NA,m,m,1CY,2018,22.05.2018,NA,NA,NA,NA,480,NA
+671,M045372,Milvus milvus,Huttwil,Kaltenegg,2018,unknown,m,NA,m,1CY,2018,29.05.2018,NA,NA,NA,NA,461,NA
+672,M045373,Milvus milvus,Alterswil,wolgiswil,2018,unknown,f,NA,f,1CY,2018,15.05.2018,NA,NA,NA,NA,469,NA
+673,M045374,Milvus milvus,St. Sylvester,Flue,2018,unknown,NA,m,m,1CY,2018,21.05.2018,NA,NA,NA,NA,435,NA
+674,M045375,Milvus milvus,Ursy,Au Cuard,2018,unknown,f,NA,f,1CY,2018,30.05.2018,NA,NA,NA,NA,446,NA
+675,not yet ringed,Milvus milvus,Le Mouret,Zenauva,2018,unknown,NA,NA,unknown,1CY,2018,12.05.2018,NA,NA,NA,NA,256,NA
+676,not yet ringed,Milvus milvus,Alterswil,beniwil,2018,unknown,NA,NA,unknown,1CY,2018,16.05.2018,NA,NA,NA,NA,33,NA
+677,not yet ringed,Milvus milvus,Ueberstorf,Banholz center,2018,unknown,NA,NA,unknown,1CY,2018,16.05.2018,NA,NA,NA,NA,175,NA
+678,R7454,Milvus milvus,St. Sylvester,Flue,2018,unknown,NA,f,f,1CY,2018,17.05.2018,NA,NA,NA,NA,435,NA
+679,not yet ringed,Milvus milvus,Flamatt,railroad,2018,unknown,NA,NA,unknown,1CY,2018,12.05.2018,NA,NA,NA,NA,322,NA
+684,not yet ringed,Milvus milvus,Aeckenmatt,Muehle_18,2018,unknown,NA,NA,unknown,1CY,2018,15.05.2018,NA,NA,NA,NA,394,NA
+685,not yet ringed,Milvus milvus,Kalchstaetten,Kalchstaetten,2017,unknown,NA,NA,unknown,1CY,2017,14.05.2017,NA,NA,NA,NA,210,NA
+686,not yet ringed,Milvus milvus,Kalchstaetten,Kalchstaetten,2017,unknown,NA,NA,unknown,1CY,2017,14.05.2017,NA,NA,NA,NA,210,NA
+687,not yet ringed,Milvus milvus,Pierrafortscha,Bruenisberg,2017,unknown,NA,NA,unknown,1CY,2017,03.05.2017,NA,NA,NA,NA,269,NA
+688,not yet ringed,Milvus milvus,Giffers,Moosmatta_17,2017,unknown,NA,NA,unknown,1CY,2017,04.05.2017,NA,NA,NA,NA,282,NA
+689,not yet ringed,Milvus milvus,Flamatt,Eichholz,2017,unknown,NA,NA,unknown,1CY,2017,04.05.2017,NA,NA,NA,NA,286,NA
+690,dead,Milvus milvus,Alterswil,Aeschlenberg_17,2017,unknown,NA,NA,unknown,1CY,2017,15.05.2017,NA,NA,NA,NA,308,NA
+691,not yet ringed,Milvus milvus,Schwarzenburg,Eigen_17,2017,unknown,NA,NA,unknown,1CY,2017,08.05.2017,NA,NA,NA,NA,355,NA
+692,not yet ringed,Milvus milvus,Alterswil,wolgiswil,2017,unknown,NA,NA,unknown,1CY,2017,14.05.2017,NA,NA,NA,NA,361,NA
+693,not yet ringed,Milvus milvus,Kleingurmels,Under Gruenenburg,2017,unknown,NA,NA,unknown,1CY,2017,03.05.2017,NA,NA,NA,NA,260,NA
+694,M039016,Milvus milvus,Aeckenmatt,Muehle_17,2017,unknown,NA,NA,unknown,1CY,2017,01.05.2017,NA,NA,NA,NA,368,NA
+695,M045771,Milvus milvus,Alterswil,Seliholz,2019,unknown,m,NA,m,1CY,2019,04.05.2019,NA,NA,NA,NA,116,NA
+696,M045398,Milvus milvus,Ueberstorf,Hundsflueh,2019,unknown,m,NA,m,1CY,2019,28.04.2019,NA,NA,NA,NA,134,NA
+697,M045399,Milvus milvus,Ueberstorf,Hundsflueh,2019,unknown,m,NA,m,1CY,2019,24.04.2019,NA,NA,NA,NA,134,NA
+698,M039684,Milvus milvus,Bourguillon,Gotteron,2019,unknown,m,NA,m,1CY,2019,22.04.2019,NA,NA,NA,NA,193,NA
+325,M039023,Milvus milvus,Ueberstorf,Oberholzwald_17,2017,unknown,m,NA,m,1CY,2017,04.05.2017,ecotone,WSIK96,RKA02,brown,296,NA
+323,M036622,Milvus milvus,Ueberstorf,Oberholzwald_17,2017,unknown,f,NA,f,1CY,2017,19.05.2017,ecotone,KIWS70,RED23,brown,296,NA
+701,not yet ringed,Milvus milvus,Giffers,Obertswil,2019,unknown,NA,NA,NA,1CY,2019,03.05.2019,NA,NA,NA,NA,207,NA
+702,M045796,Milvus milvus,kalchstaetten,kalchstaetten,2019,unknown,f,NA,f,1CY,2019,15.05.2019,NA,NA,NA,NA,210,NA
+703,M039689,Milvus milvus,Tafers,Brunnenberg,2019,unknown,m,NA,m,1CY,2019,29.04.2019,NA,NA,NA,NA,217,NA
+324,M036623,Milvus milvus,Ueberstorf,Oberholzwald_17,2017,unknown,m,NA,m,1CY,2017,19.05.2017,ecotone,KIWS16,RKA22,brown,296,NA
+705,M045792,Milvus milvus,Ueberstorf,Summerau_19,2019,unknown,m,NA,m,1CY,2019,03.05.2019,NA,NA,NA,NA,598,NA
+706,M045793,Milvus milvus,Ueberstorf,Summerau_19,2019,unknown,f,NA,f,1CY,2019,01.05.2019,NA,NA,NA,NA,598,NA
+707,M045794,Milvus milvus,Ueberstorf,Summerau_19,2019,unknown,f,NA,f,1CY,2019,30.04.2019,NA,NA,NA,NA,598,NA
+495,M045156,Milvus milvus,Ueberstorf,Oberholzwald_18,2018,unknown,f,NA,f,1CY,2018,07.05.2018,milsar,3B319F1C,1250,brown,407,2023: Territory evidence but no nest found
+709,M045770,Milvus milvus,Bourguillon,Buerglenholz,2019,unknown,f,NA,f,1CY,2019,05.05.2019,NA,NA,NA,NA,268,NA
+494,M045155,Milvus milvus,Ueberstorf,Oberholzwald_18,2018,unknown,f,NA,f,1CY,2018,07.05.2018,milsar,6D309F1C,1236,brown,407,NA
+711,M045778,Milvus milvus,Flamatt,railroad,2019,unknown,m,NA,m,1CY,2019,06.05.2019,NA,NA,NA,NA,322,NA
+712,M045779,Milvus milvus,Flamatt,railroad,2019,unknown,m,NA,m,1CY,2019,02.05.2019,NA,NA,NA,NA,322,NA
+713,M045755,Milvus milvus,Guggisberg,Underbalm_17,2019,unknown,m,NA,m,1CY,2019,04.05.2019,NA,NA,NA,NA,326,NA
+714,M045756,Milvus milvus,Guggisberg,Underbalm_17,2019,unknown,f,NA,f,1CY,2019,01.05.2019,NA,NA,NA,NA,326,NA
+715,M045813,Milvus migrans,Wuennewil,Nussbaumen_17,2019,unknown,NA,NA,NA,1CY,2019,NA,NA,NA,NA,NA,337,NA
+716,R7459,Milvus milvus,Duedingen,St. Wolfgangholz_17,2019,unknown,f,NA,f,1CY,2019,02.05.2019,NA,NA,NA,NA,347,NA
+717,M045762,Milvus milvus,Cordast,Grand_bois,2019,unknown,m,NA,m,1CY,2019,27.04.2019,NA,NA,NA,NA,365,NA
+718,R7465,Milvus milvus,Alterswil,weiermattenmoos,2019,unknown,f,NA,f,1CY,2019,22.04.2019,NA,NA,NA,NA,36,NA
+719,R7466,Milvus milvus,Alterswil,weiermattenmoos,2019,unknown,m,NA,m,1CY,2019,20.04.2019,NA,NA,NA,NA,36,NA
+720,R7467,Milvus milvus,Alterswil,weiermattenmoos,2019,unknown,f,NA,f,1CY,2019,20.04.2019,NA,NA,NA,NA,36,NA
+721,M039651,Milvus milvus,Bundtels,Galmisberg_18,2019,unknown,m,NA,m,1CY,2019,23.04.2019,NA,NA,NA,NA,382,NA
+722,M045765,Milvus milvus,Boesingen,Waldheim_18,2019,unknown,f,NA,f,1CY,2019,02.05.2019,NA,NA,NA,NA,392,NA
+723,M039696,Milvus milvus,Boesingen,Risau_18,2019,unknown,m,NA,m,1CY,2019,29.04.2019,NA,NA,NA,NA,399,NA
+724,M039698,Milvus milvus,Boesingen,Risau_18,2019,unknown,m,NA,m,1CY,2019,28.04.2019,NA,NA,NA,NA,399,NA
+725,M045797,Milvus milvus,Alterswil,Chaela,2019,unknown,NA,m,m,1CY,2019,24.05.2019,NA,NA,NA,NA,404,NA
+726,R7477,Milvus milvus,Alterswil,Chaela,2019,unknown,f,NA,f,1CY,2019,20.05.2019,NA,NA,NA,NA,404,NA
+727,M045377,Milvus milvus,Ueberstorf,Oberholzwald_18,2019,unknown,m,NA,m,1CY,2019,05.05.2019,NA,NA,NA,NA,407,NA
+728,M045380,Milvus milvus,Le Mouret,Montevraz_18,2019,unknown,m,NA,m,1CY,2019,04.05.2019,NA,NA,NA,NA,408,NA
+729,M045798,Milvus milvus,Le Mouret,Montevraz_18,2019,unknown,m,NA,m,1CY,2019,08.05.2019,NA,NA,NA,NA,408,NA
+730,R7473,Milvus milvus,Schmitten,Ettelberg_18,2019,unknown,f,NA,f,1CY,2019,07.05.2019,NA,NA,NA,NA,412,NA
+731,R7474,Milvus milvus,Schmitten,Ettelberg_18,2019,unknown,f,NA,f,1CY,2019,03.05.2019,NA,NA,NA,NA,412,NA
+732,M045394,Milvus milvus,Giffers,Buntschumueli,2019,unknown,m,NA,m,1CY,2019,24.04.2019,NA,NA,NA,NA,414,NA
+733,R7458,Milvus milvus,Giffers,Buntschumueli,2019,unknown,f,NA,f,1CY,2019,22.04.2019,NA,NA,NA,NA,414,NA
+734,M045786,Milvus milvus,Guggisberg,Multernboden,2019,unknown,m,NA,m,1CY,2019,12.05.2019,NA,NA,NA,NA,415,NA
+735,M045807,Milvus milvus,Alterswil,Galteren_E,2019,unknown,f,NA,f,1CY,2019,27.05.2019,NA,NA,NA,NA,420,NA
+736,M045808,Milvus milvus,Alterswil,Galteren_E,2019,unknown,f,NA,f,1CY,2019,26.05.2019,NA,NA,NA,NA,420,NA
+737,R7482,Milvus milvus,Alterswil,Galteren_E,2019,unknown,f,NA,f,1CY,2019,24.05.2019,NA,NA,NA,NA,420,NA
+738,M045781,Milvus milvus,Bruenisried,Schuerlimatta,2019,unknown,m,NA,m,1CY,2019,09.05.2019,NA,NA,NA,NA,437,NA
+739,M045782,Milvus milvus,Bruenisried,Schuerlimatta,2019,unknown,m,NA,m,1CY,2019,07.05.2019,NA,NA,NA,NA,437,NA
+740,M045379,Milvus milvus,St. Ursen,Chuerscheli,2019,unknown,m,NA,m,1CY,2019,26.04.2019,NA,NA,NA,NA,441,NA
+741,M045761,Milvus milvus,St. Ursen,Neumatt_18,2019,unknown,m,NA,m,1CY,2019,30.04.2019,NA,NA,NA,NA,451,NA
+742,R7470,Milvus milvus,St. Ursen,Neumatt_18,2019,unknown,f,NA,f,1CY,2019,02.05.2019,NA,NA,NA,NA,451,NA
+743,M045384,Milvus milvus,Heitenried,Berghoelzli,2019,unknown,f,NA,f,1CY,2019,22.04.2019,NA,NA,NA,NA,453,NA
+744,R7457,Milvus milvus,Heitenried,Berghoelzli,2019,unknown,m,NA,m,1CY,2019,21.04.2019,NA,NA,NA,NA,453,NA
+745,M045774,Milvus milvus,Flamatt,Zenthus_19,2019,unknown,f,NA,f,1CY,2019,17.05.2019,NA,NA,NA,NA,557,NA
+1113,M068102,Milvus milvus,Zollhaus,OberstiSite,2021,unknown,m,NA,m,1CY,2021,26.05.2021,milsar,F2100D12,5001,NA,809,NA
+270,M036610,Milvus milvus,Giffers,Obertswil,2017,unknown,f,NA,f,1CY,2017,11.05.2017,ecotone,KIWS30,REK10,brown,207,NA
+748,M045775,Milvus milvus,Schmitten,Fillistorf_spruce,2019,unknown,f,NA,f,1CY,2019,11.05.2019,NA,NA,NA,NA,462,NA
+749,M045758,Milvus milvus,Rechthalten,Sonnenberg_18,2019,unknown,m,NA,m,1CY,2019,03.05.2019,NA,NA,NA,NA,464,NA
+750,M045759,Milvus milvus,Rechthalten,Sonnenberg_18,2019,unknown,m,NA,m,1CY,2019,29.04.2019,NA,NA,NA,NA,464,NA
+751,M045760,Milvus milvus,Rechthalten,Sonnenberg_18,2019,unknown,m,NA,m,1CY,2019,27.04.2019,NA,NA,NA,NA,464,NA
+752,M045785,Milvus milvus,Alterswil,Aeschlenberg_18,2019,unknown,m,NA,m,1CY,2019,01.05.2019,NA,NA,NA,NA,465,NA
+753,M045400,Milvus milvus,Mamishaus,Dunti_18,2019,unknown,NA,m,m,1CY,2019,29.04.2019,NA,NA,NA,NA,467,NA
+754,M045806,Milvus milvus,Alterswil,Mediwil,2019,unknown,NA,m,m,1CY,2019,03.06.2019,NA,NA,NA,NA,480,NA
+182,M023897,Milvus milvus,Autigny,Chenens,2015,unknown,m,NA,m,1CY,2015,23.06.2015,ecotone,SWIK45,MLR11,green,501,NA
+699,M039687,Milvus milvus,Giffers,Obertswil,2019,unknown,m,NA,m,1CY,2019,26.04.2019,milsar,22329F1C,1248,NA,207,bird was found weakened in a meadow close to the nest a few weeks after tagging. Was brought to the rescue center in Fribourg where they found a fracture to its left wing from which it never recovered from. It was euthanaused on the 02/08/2019
+757,M045390,Milvus milvus,Boesingen,Riederberg_18,2019,unknown,m,NA,m,1CY,2019,02.05.2019,NA,NA,NA,NA,485,NA
+758,M045811,Milvus milvus,Milken,Milkeholz_18,2019,unknown,m,NA,m,1CY,2019,06.05.2019,NA,NA,NA,NA,489,NA
+759,M045812,Milvus milvus,Milken,Milkeholz_18,2019,unknown,m,NA,m,1CY,2019,06.05.2019,NA,NA,NA,NA,489,NA
+760,M045387,Milvus milvus,Duedingen,Schueracher,2019,unknown,f,NA,f,1CY,2019,04.05.2019,NA,NA,NA,NA,497,NA
+761,M045388,Milvus milvus,Duedingen,Schueracher,2019,unknown,m,NA,m,1CY,2019,03.05.2019,NA,NA,NA,NA,497,NA
+762,M045814,Milvus milvus,Villarsel,Commanderie_18,2019,unknown,f,NA,f,1CY,2019,06.06.2019,NA,NA,NA,NA,499,NA
+763,R7483,Milvus milvus,Villarsel,Commanderie_18,2019,unknown,f,NA,f,1CY,2019,02.06.2019,NA,NA,NA,NA,499,NA
+764,R7484,Milvus milvus,Villarsel,Commanderie_18,2019,unknown,f,NA,f,1CY,2019,31.05.2019,NA,NA,NA,NA,499,NA
+765,M039695,Milvus milvus,Lanzenhaeusern,Finel_19,2019,unknown,m,NA,m,1CY,2019,29.04.2019,NA,NA,NA,NA,508,NA
+766,M045386,Milvus milvus,Lanzenhaeusern,Finel_19,2019,unknown,f,NA,f,1CY,2019,04.05.2019,NA,NA,NA,NA,508,NA
+767,M045751,Milvus migrans,Schwarzenburg,Herrenholz_19,2019,unknown,NA,NA,NA,1CY,2019,NA,NA,NA,NA,NA,510,NA
+768,M045752,Milvus migrans,Schwarzenburg,Herrenholz_19,2019,unknown,m,NA,m,1CY,2019,NA,NA,NA,NA,NA,510,NA
+769,M045789,Milvus milvus,Le Mouret,Zenauva_19,2019,unknown,m,NA,m,1CY,2019,09.05.2019,NA,NA,NA,NA,518,NA
+770,M045790,Milvus milvus,Le Mouret,Zenauva_19,2019,unknown,f,NA,f,1CY,2019,05.05.2019,NA,NA,NA,NA,518,NA
+771,M045791,Milvus milvus,Le Mouret,Zenauva_19,2019,unknown,m,NA,m,1CY,2019,04.05.2019,NA,NA,NA,NA,518,NA
+772,not yet ringed,Milvus milvus,Ependes,ependes_19,2019,unknown,m,NA,m,1CY,2019,22.04.2019,NA,NA,NA,NA,522,NA
+773,not yet ringed,Milvus milvus,Ependes,ependes_19,2019,unknown,f,NA,f,1CY,2019,26.04.2019,NA,NA,NA,NA,522,NA
+774,M039682,Milvus milvus,Praroman,Chechin_19,2019,unknown,m,NA,m,1CY,2019,16.04.2019,NA,NA,NA,NA,524,NA
+775,M039683,Milvus milvus,Praroman,Chechin_19,2019,unknown,m,NA,m,1CY,2019,16.04.2019,NA,NA,NA,NA,524,NA
+776,not yet ringed,Milvus milvus,Praroman,Chechin_19,2019,unknown,m,NA,m,1CY,2019,19.04.2019,NA,NA,NA,NA,524,NA
+777,not yet ringed,Milvus milvus,Praroman,Chechin_19,2019,unknown,f,NA,f,1CY,2019,19.04.2019,NA,NA,NA,NA,524,NA
+778,R7475,Milvus milvus,Heitenried,Breitenried_19,2019,unknown,f,NA,f,1CY,2019,03.05.2019,NA,NA,NA,NA,525,NA
+779,M039691,Milvus milvus,Villarsel,La_Rotztetta,2019,unknown,NA,NA,NA,1CY,2019,02.05.2019,NA,NA,NA,NA,526,NA
+780,M039692,Milvus milvus,Villarsel,La_Rotztetta,2019,unknown,NA,NA,NA,1CY,2019,29.04.2019,NA,NA,NA,NA,526,NA
+781,M045383,Milvus milvus,Schmitten,Bunziwil_19,2019,unknown,m,NA,m,1CY,2019,07.05.2019,NA,NA,NA,NA,528,NA
+782,M045809,Milvus milvus,Kleingurmels,Under Gruenenburg_19,2019,unknown,m,NA,m,1CY,2019,10.05.2019,NA,NA,NA,NA,529,NA
+783,not yet ringed,Milvus milvus,Kleingurmels,Under Gruenenburg_19,2019,unknown,NA,NA,NA,1CY,2019,10.05.2019,NA,NA,NA,NA,529,NA
+784,M045381,Milvus milvus,Le Mouret,Le Grabo_19,2019,unknown,f,NA,f,1CY,2019,05.05.2019,NA,NA,NA,NA,530,NA
+785,M045382,Milvus milvus,Le Mouret,Le Grabo_19,2019,unknown,m,NA,m,1CY,2019,05.05.2019,NA,NA,NA,NA,530,NA
+786,M045787,Milvus milvus,Bruenisried,Ruef Guet_19,2019,unknown,f,NA,f,1CY,2019,06.05.2019,NA,NA,NA,NA,531,NA
+787,M045788,Milvus milvus,Bruenisried,Ruef Guet_19,2019,unknown,f,NA,f,1CY,2019,02.05.2019,NA,NA,NA,NA,531,NA
+700,M039688,Milvus milvus,Giffers,Obertswil,2019,unknown,m,NA,m,1CY,2019,25.04.2019,milsar,7DBC0C1D,1218,NA,207,NA
+928,M045821,Milvus milvus,Giffers,Obertswil_20,2020,unknown,f,NA,f,1CY,2020,25.04.2020,milsar,29392D10,1257,NA,617,2023: Escaped from Sardinia/Corsica the 29/03 and migrated to the Western Pyrenees (GPS points 29/05)
+790,M045378,Milvus milvus,St. Antoni,Holzacher_19,2019,unknown,f,NA,f,1CY,2019,02.05.2019,NA,NA,NA,NA,534,NA
+929,R7489,Milvus milvus,Giffers,Obertswil_20,2020,unknown,f,NA,f,1CY,2020,27.04.2020,milsar,A9382D10,1256,NA,617,NA
+165,M023880,Milvus milvus,Onnens,Onnens,2015,unknown,m,NA,m,1CY,2015,18.05.2015,ecotone,SWIK46,MLR12,green,72,NA
+793,R7460,Milvus milvus,St. Ursen,Stoeckholz_19,2019,unknown,f,NA,f,1CY,2019,05.05.2019,NA,NA,NA,NA,539,NA
+794,R7461,Milvus milvus,St. Ursen,Stoeckholz_19,2019,unknown,f,NA,f,1CY,2019,04.05.2019,NA,NA,NA,NA,539,NA
+795,M045392,Milvus milvus,St. Ursen,Roeschiwil_19,2019,unknown,m,NA,m,1CY,2019,03.05.2019,NA,NA,NA,NA,540,NA
+796,M045393,Milvus milvus,St. Ursen,Roeschiwil_19,2019,unknown,m,NA,m,1CY,2019,02.05.2019,NA,NA,NA,NA,540,NA
+797,R7462,Milvus milvus,Schwarzenburg,Herrenholz_N,2019,unknown,f,NA,f,1CY,2019,03.05.2019,NA,NA,NA,NA,541,NA
+115,M023901,Milvus milvus,Schwarzenburg,Herrenholz,2016,m,m,NA,m,3CY+,unknown,NA,ecotone,SWIK47,SIW04,white,unknown,NA
+799,M045795,Milvus milvus,Rueschegg,Hirschhorn,2019,unknown,m,NA,m,1CY,2019,15.05.2019,NA,NA,NA,NA,543,NA
+800,R7476,Milvus milvus,Rueschegg,Hirschhorn,2019,unknown,f,NA,f,1CY,2019,13.05.2019,NA,NA,NA,NA,543,NA
+801,M045757,Milvus milvus,Oberschrot,Sali_19,2019,unknown,m,NA,m,1CY,2019,05.05.2019,NA,NA,NA,NA,545,NA
+802,R7463,Milvus milvus,Oberschrot,Sali_19,2019,unknown,m,NA,m,1CY,2019,11.05.2019,NA,NA,NA,NA,545,NA
+803,R7464,Milvus milvus,Oberschrot,Sali_19,2019,unknown,f,NA,f,1CY,2019,07.05.2019,NA,NA,NA,NA,545,NA
+804,M045768,Milvus milvus,Bourguillon,Cote du Gotteron,2019,unknown,m,NA,m,1CY,2019,14.05.2019,NA,NA,NA,NA,547,NA
+120,M036517,Milvus milvus,Plaffeien,Hohliebi,2016,m,m,NA,m,3CY+,unknown,NA,ecotone,SWIK48,SIU05,green,unknown,NA
+806,R7472,Milvus milvus,Schwarzenburg,Chilchermatt_19,2019,unknown,f,NA,f,1CY,2019,15.05.2019,NA,NA,NA,NA,549,NA
+807,M045773,Milvus milvus,Schwarzenburg,Chilchermatt_beech,2019,unknown,f,NA,f,1CY,2019,03.05.2019,NA,NA,NA,NA,553,NA
+808,R7468,Milvus milvus,La Roche,Les Rontes,2019,unknown,f,NA,f,1CY,2019,08.05.2019,NA,NA,NA,NA,555,NA
+809,M045763,Milvus milvus,Gurmels,Kleinboesingen_19,2019,unknown,f,NA,f,1CY,2019,06.05.2019,NA,NA,NA,NA,556,NA
+810,M045764,Milvus milvus,Gurmels,Kleinboesingen_19,2019,unknown,f,NA,f,1CY,2019,04.05.2019,NA,NA,NA,NA,556,NA
+811,M045395,Milvus milvus,Alterswil,wolgiswil,2019,unknown,m,NA,m,1CY,2019,10.05.2019,NA,NA,NA,NA,558,NA
+812,M045396,Milvus milvus,Alterswil,wolgiswil,2019,unknown,m,NA,m,1CY,2019,06.05.2019,NA,NA,NA,NA,558,NA
+813,JG3343,Milvus milvus,Germany,Henschenberg,2019,unknown,m,NA,m,1CY,2019,29.05.2019,eobs,182941,NA,NA,572,NA
+814,not yet ringed,Milvus milvus,Germany,Henschenberg,2019,unknown,m,NA,m,1CY,2019,25.05.2019,NA,NA,NA,NA,572,NA
+815,M045818,Milvus milvus,Germany,Henschenberg,2019,unknown,m,NA,m,1CY,2019,23.05.2019,eobs,191774,NA,NA,572,NA
+816,M045803,Milvus milvus,Duedingen,Horia_19,2019,unknown,m,NA,m,1CY,2019,11.05.2019,NA,NA,NA,NA,576,NA
+817,M045389,Milvus milvus,Tentlingen,Villarsel_19,2019,unknown,m,NA,m,1CY,2019,07.05.2019,NA,NA,NA,NA,577,NA
+818,R7480,Milvus milvus,Tentlingen,Villarsel_19,2019,unknown,f,NA,f,1CY,2019,11.05.2019,NA,NA,NA,NA,577,NA
+819,M045816,Milvus milvus,Plaffeien,Holiebi_19,2019,unknown,NA,m,m,1CY,2019,24.05.2019,NA,NA,NA,NA,579,NA
+820,M045817,Milvus milvus,Plaffeien,Holiebi_19,2019,unknown,m,NA,m,1CY,2019,20.05.2019,NA,NA,NA,NA,579,NA
+821,not yet ringed,Milvus milvus,Tafers,Tuetzenberg,2019,unknown,NA,NA,NA,1CY,2019,25.05.2019,NA,NA,NA,NA,581,NA
+822,R7469,Milvus milvus,St. Antoni,Baechlisbrunnen_19,2019,unknown,f,NA,f,1CY,2019,14.05.2019,NA,NA,NA,NA,582,NA
+823,M045772,Milvus milvus,Ueberstorf,Chuerschi,2019,unknown,m,NA,m,1CY,2019,14.05.2019,NA,NA,NA,NA,584,NA
+824,R7471,Milvus milvus,Ueberstorf,Chuerschi,2019,unknown,f,NA,f,1CY,2019,15.05.2019,NA,NA,NA,NA,584,NA
+825,M045799,Milvus milvus,Duedingen,Unter St.Wolfgangholz_19,2019,unknown,m,NA,m,1CY,2019,25.05.2019,NA,NA,NA,NA,587,NA
+826,M045800,Milvus milvus,Duedingen,Unter St.Wolfgangholz_19,2019,unknown,f,NA,f,1CY,2019,21.05.2019,NA,NA,NA,NA,587,NA
+827,M045802,Milvus milvus,Tafers,Brunnenbergrain_19,2019,unknown,m,NA,m,1CY,2019,23.05.2019,NA,NA,NA,NA,588,NA
+828,R7479,Milvus milvus,Tafers,Brunnenbergrain_19,2019,unknown,f,NA,f,1CY,2019,21.05.2019,NA,NA,NA,NA,588,NA
+829,M045804,Milvus milvus,Rechthalten,Bergli,2019,unknown,m,NA,m,1CY,2019,23.05.2019,NA,NA,NA,NA,589,NA
+15,M023948,Milvus milvus,Alterswil,Wolgiswil spruce,2016,unknown,f,NA,f,1CY,2016,04.05.2016,ecotone,SWIK49,IWS23,brown,201,NA
+17,M004944,Milvus milvus,Sales,Pra Barlatey,2016,unknown,f,NA,f,1CY,2016,08.05.2016,ecotone,WSIK28,WIS30,brown,213,2020 looks settled in June. 2021: looks kind of settled only in first 2 weeks of May. 2022: nest and chicks
+16,M004943,Milvus milvus,Sales,Pra Barlatey,2016,unknown,m,NA,m,1CY,2016,04.05.2016,ecotone,WSIK08,WIS10,brown,213,NA
+18,M004945,Milvus milvus,Sales,Pra Barlatey,2016,unknown,m,NA,m,1CY,2016,12.05.2016,ecotone,WSIK67,WIK09,brown,213,NA
+834,M045753,Milvus milvus,Guggisberg,Willmesacher,2019,unknown,NA,NA,NA,1CY,2019,14.05.2019,NA,NA,NA,NA,90,NA
+835,M045754,Milvus milvus,Guggisberg,Willmesacher,2019,unknown,m,NA,m,1CY,2019,10.05.2019,NA,NA,NA,NA,90,NA
+836,M045397,Milvus milvus,Aeckenmatt,Muehle_19,2019,unknown,f,NA,f,1CY,2019,01.05.2019,NA,NA,NA,NA,520,NA
+837,M045801,Milvus milvus,Ueberstorf,Guldifeld_Oak,2019,unknown,f,NA,f,1CY,2019,05.05.2019,NA,NA,NA,NA,599,NA
+838,R7478,Milvus milvus,Ueberstorf,Guldifeld_Oak,2019,unknown,f,NA,f,1CY,2019,03.05.2019,NA,NA,NA,NA,599,NA
+839,M045810,Milvus milvus,Guggisberg,Wilmesacher_N,2019,unknown,m,NA,m,1CY,2019,16.05.2019,NA,NA,NA,NA,601,NA
+840,M045815,Milvus milvus,Cheiry,Coumin,2019,unknown,f,NA,f,1CY,2019,18.05.2019,NA,NA,NA,NA,603,NA
+841,not yet ringed,Milvus milvus,Niederwil,Fuchsloch,2019,unknown,m,NA,m,1CY,2019,08.06.2019,NA,NA,NA,NA,597,NA
+842,G000789,Milvus milvus,Austria,Unterlochen,2019,unknown,NA,NA,f,1CY,2019,07.06.2019,ornitela,Ornitela 195,NA,NA,602,NA
+843,G000790,Milvus milvus,Austria,Unterlochen,2019,unknown,NA,NA,NA,1CY,2019,11.06.2019,ornitela,Ornitela 196,NA,NA,602,NA
+844,M045825,Milvus milvus,Ueberstorf,Hundsflueh,2020,unknown,f,NA,f,1CY,2020,29.04.2020,NA,NA,NA,NA,134,NA
+845,M045826,Milvus milvus,Ueberstorf,Hundsflueh,2020,unknown,m,NA,m,1CY,2020,28.04.2020,NA,NA,NA,NA,134,NA
+1229,M068128,Milvus milvus,Marly,Ranch,2022,unknown,m,NA,m,1CY,2022,29.04.2022,milsar,0BF1A215,3001,NA,894,NA
+847,M045935,Milvus milvus,Tentlingen,Vieille Rossmatta power line,2020,unknown,NA,NA,NA,1CY,2020,06.05.2020,NA,NA,NA,NA,218,NA
+848,M045936,Milvus milvus,Tentlingen,Vieille Rossmatta power line,2020,unknown,f,NA,f,1CY,2020,02.05.2020,NA,NA,NA,NA,218,NA
+1217,M051167,Milvus milvus,Zumholz,Reinweid,2022,unknown,m,NA,m,1CY,2022,22.05.2022,ecotone,KISW10,KIW10,NA,835,NA
+1123,M045890,Milvus milvus,Guemmenen,Riedacher,2021,unknown,m,NA,m,1CY,2021,16.05.2021,milsar,246AFE12,5019,NA,825,NA
+1257,M051198,Milvus milvus,Aeckenmat,Riedmatte,2022,unknown,f,NA,f,1CY,2022,07.06.2022,milsar,D4F0A215,3022,NA,947,"2022: clear sign of mammals bites on body, probably predated by marten in the nest"
+852,M045941,Milvus milvus,Flamatt,railroad,2020,unknown,f,NA,f,1CY,2020,03.05.2020,NA,NA,NA,NA,322,NA
+853,M045942,Milvus milvus,Flamatt,railroad,2020,unknown,f,NA,f,1CY,2020,03.05.2020,NA,NA,NA,NA,322,NA
+854,M045927,Milvus milvus,Plaffeien,Vorsessli,2020,unknown,f,NA,f,1CY,2020,25.04.2020,NA,NA,NA,NA,384,NA
+855,M045917,Milvus milvus,Aeckenmatt,Muehle_Burlingen,2020,unknown,f,NA,f,1CY,2020,06.05.2020,NA,NA,NA,NA,395,NA
+856,M045925,Milvus milvus,Alterswil,Chaela,2020,unknown,f,NA,f,1CY,2020,06.05.2020,NA,NA,NA,NA,404,NA
+857,M045824,Milvus milvus,Ueberstorf,Oberholzwald_18,2020,unknown,f,NA,f,1CY,2020,30.04.2020,NA,NA,NA,NA,407,NA
+858,M045975,Milvus milvus,Ueberstorf,Oberholzwald_18,2020,unknown,f,NA,f,1CY,2020,04.05.2020,NA,NA,NA,NA,407,NA
+859,M045846,Milvus milvus,Le Mouret,Montevraz_18,2020,unknown,NA,NA,NA,1CY,2020,06.05.2020,NA,NA,NA,NA,408,NA
+860,M045847,Milvus milvus,Le Mouret,Montevraz_18,2020,unknown,m,NA,m,1CY,2020,02.05.2020,NA,NA,NA,NA,408,NA
+861,M045956,Milvus milvus,Schmitten,Ettelberg_18,2020,unknown,m,NA,m,1CY,2020,02.05.2020,NA,NA,NA,NA,412,NA
+421,M036619,Milvus milvus,Boesingen,Risau,2017,unknown,m,NA,m,1CY,2017,13.05.2017,ecotone,KIWS21,RKA27,brown,369,NA
+863,M045837,Milvus milvus,Gurmels,Kleinboesingen_N,2020,unknown,m,NA,m,1CY,2020,03.05.2020,NA,NA,NA,NA,440,NA
+864,R7490,Milvus milvus,Gurmels,Kleinboesingen_N,2020,unknown,f,NA,f,1CY,2020,29.04.2020,NA,NA,NA,NA,440,NA
+865,R7499,Milvus milvus,Elisried,Hoehi_18,2020,unknown,f,NA,f,1CY,2020,23.04.2020,NA,NA,NA,NA,448,NA
+866,dead,Milvus milvus,St. Ursen,Neumatt_18,2020,unknown,m,NA,m,1CY,2020,10.05.2020,NA,NA,NA,NA,451,Chick was found dead in nest on the 11.06 and looked still fresh
+867,M045835,Milvus milvus,St. Ursen,Neumatt_18,2020,unknown,m,NA,m,1CY,2020,06.05.2020,NA,NA,NA,NA,451,NA
+868,M045836,Milvus milvus,St. Ursen,Neumatt_18,2020,unknown,f,NA,f,1CY,2020,03.05.2020,NA,NA,NA,NA,451,NA
+869,M045848,Milvus milvus,Heitenried,Berghoelzli,2020,unknown,m?,NA,m?,1CY,2020,03.05.2020,NA,NA,NA,NA,453,NA
+870,M045849,Milvus milvus,Heitenried,Berghoelzli,2020,unknown,m,NA,m,1CY,2020,29.04.2020,NA,NA,NA,NA,453,NA
+871,not yet ringed,Milvus milvus,Boesingen,Frieseneit_18,2020,unknown,NA,NA,NA,1CY,2020,10.05.2020,NA,NA,NA,NA,456,NA
+872,M045922,Milvus milvus,Boesingen,Frieseneit_18,2020,unknown,m,NA,m,1CY,2020,06.05.2020,NA,NA,NA,NA,456,NA
+873,R6853,Milvus milvus,Boesingen,Frieseneit_18,2020,unknown,f,NA,f,1CY,2020,04.05.2020,NA,NA,NA,NA,456,NA
+874,M045934,Milvus milvus,Marly,Les_Fontanettes_18,2020,unknown,m,NA,m,1CY,2020,28.04.2020,NA,NA,NA,NA,459,NA
+875,not yet ringed,Milvus milvus,Schmitten,Fillistorf_spruce,2020,unknown,m,NA,m,1CY,2020,14.05.2020,NA,NA,NA,NA,462,NA
+422,M036620,Milvus milvus,Boesingen,Risau,2017,unknown,m,NA,m,1CY,2017,13.05.2017,ecotone,KIWS11,RKA17,brown,369,2021: only more or less settled in second half of June
+877,M045914,Milvus milvus,Alterswil,Aeschlenberg_18,2020,unknown,m,NA,m,1CY,2020,01.05.2020,NA,NA,NA,NA,465,NA
+878,R7493,Milvus milvus,Alterswil,Aeschlenberg_18,2020,unknown,f,NA,f,1CY,2020,03.05.2020,NA,NA,NA,NA,465,NA
+879,R7485,Milvus milvus,Ueberstorf,lenglod_18,2020,unknown,m,NA,m,1CY,2020,29.04.2020,NA,NA,NA,NA,491,NA
+880,M045932,Milvus milvus,Villarsel,Commanderie_18,2020,unknown,m,NA,m,1CY,2020,27.04.2020,NA,NA,NA,NA,499,NA
+881,R6855,Milvus milvus,Villarsel,Commanderie_18,2020,unknown,f,NA,f,1CY,2020,25.04.2020,NA,NA,NA,NA,499,NA
+483,M039228,Milvus milvus,Boesingen,Risau_18,2018,unknown,f,NA,f,1CY,2018,04.05.2018,milsar,D8F6C31C,1224,brown,399,Last position point on the 16.06.2019
+883,M045947,Milvus milvus,Tentlingen,Baerg_19,2020,unknown,m,NA,m,1CY,2020,02.05.2020,NA,NA,NA,NA,509,NA
+884,M045948,Milvus milvus,Tentlingen,Baerg_19,2020,unknown,m,NA,m,1CY,2020,01.05.2020,NA,NA,NA,NA,509,NA
+885,M045991,Milvus milvus,Alterswil,Chleholz_19,2020,unknown,m,NA,m,1CY,2020,12.05.2020,NA,NA,NA,NA,519,NA
+886,M045992,Milvus milvus,Alterswil,Chleholz_19,2020,unknown,m,NA,m,1CY,2020,08.05.2020,NA,NA,NA,NA,519,NA
+887,R6863,Milvus milvus,Alterswil,Chleholz_19,2020,unknown,f,NA,f,1CY,2020,04.05.2020,NA,NA,NA,NA,519,NA
+888,not yet ringed,Milvus milvus,Aeckenmatt,Muehle_19,2020,unknown,NA,NA,NA,1CY,2020,04.05.2020,NA,NA,NA,NA,520,NA
+889,M045827,Milvus milvus,Aeckenmatt,Muehle_19,2020,unknown,NA,NA,NA,1CY,2020,30.04.2020,NA,NA,NA,NA,520,NA
+890,M045819,Milvus milvus,Praroman,Chechin_19,2020,unknown,f,NA,f,1CY,2020,23.04.2020,NA,NA,NA,NA,524,NA
+891,M045820,Milvus milvus,Praroman,Chechin_19,2020,unknown,m,NA,m,1CY,2020,19.04.2020,NA,NA,NA,NA,524,NA
+484,M039229,Milvus milvus,Boesingen,Risau_18,2018,unknown,f,NA,f,1CY,2018,03.05.2018,milsar,88F0C31C,1251,brown,399,NA
+179,M023894,Milvus milvus,Treyvaux,Kiesgrube,2015,unknown,f,NA,f,1CY,2015,30.05.2015,ecotone,SWIK49,MLR23,green,228,NA
+894,M045993,Milvus milvus,Bruenisried,Ruef Guet_19,2020,unknown,f,NA,f,1CY,2020,06.05.2020,NA,NA,NA,NA,531,NA
+895,not yet ringed,Milvus milvus,St. Antoni,Holzacher_19,2020,unknown,NA,NA,NA,1CY,2020,18.05.2020,NA,NA,NA,NA,534,NA
+259,M039035,Milvus milvus,St. Ursen,Roeschiwil N,2017,unknown,m,NA,m,1CY,2017,11.05.2017,ecotone,WSIK47,SIW19,brown,186,NA
+43,M023925,Milvus milvus,Tafers,Rohr,2016,unknown,m,NA,m,1CY,2016,05.05.2016,ecotone,WSIK25,WIS27,brown,170,NA
+41,M023923,Milvus milvus,Tafers,Rohr,2016,unknown,m,NA,m,1CY,2016,09.05.2016,ecotone,SWIK87,SWI20,brown,170,NA
+899,R7500,Milvus milvus,Schwarzenburg,Herrenholz_N,2020,unknown,NA,NA,NA,1CY,2020,02.05.2020,NA,NA,NA,NA,541,NA
+900,M045918,Milvus milvus,St. Antoni,Stockera_19,2020,unknown,NA,NA,NA,1CY,2020,02.05.2020,NA,NA,NA,NA,542,NA
+42,M023924,Milvus milvus,Tafers,Rohr,2016,unknown,m,NA,m,1CY,2016,03.05.2016,ecotone,WSIK14,WIS16,brown,170,NA
+257,M039032,Milvus milvus,Tafers,Rohr,2017,unknown,f,NA,f,1CY,2017,10.05.2017,ecotone,WSIK94,RKI29,brown,170,NA
+258,M039481,Milvus milvus,Tafers,Rohr,2017,unknown,m,NA,m,1CY,2017,11.05.2017,ecotone,WSIK22,WIS24,brown,170,NA
+1134,M068119,Milvus milvus,Mamishaus,Ruemlisberg,2021,unknown,f,NA,f,1CY,2021,12.06.2021,milsar,87D0D910,5042,NA,851,NA
+905,M045929,Milvus milvus,Tafers,Rohr_19,2020,unknown,f,NA,f,1CY,2020,30.04.2020,NA,NA,NA,NA,546,NA
+1220,M051165,Milvus milvus,Mamishaus,Ruemlisberg,2022,unknown,m,NA,m,1CY,2022,18.05.2022,milsar,DAF0A215,3017,NA,851,NA
+343,M039468,Milvus milvus,Mamishaus,Ruemlisberg_17,2017,unknown,f,NA,f,1CY,2017,03.05.2017,ecotone,KIWS79,KRX04,brown,311,2023: extra-pair copulation with sibling 342
+908,not yet ringed,Milvus milvus,Alterswil,Wolgiswil_19,2020,unknown,NA,NA,NA,1CY,2020,24.05.2020,NA,NA,NA,NA,558,NA
+342,M039467,Milvus milvus,Mamishaus,Ruemlisberg_17,2017,unknown,m,NA,m,1CY,2017,03.05.2017,ecotone,KIWS93,KRX24,brown,311,2021: first in 749-Milken_Weizacker_21. 2023: extra-pair copulation with sibling 343
+910,M045983,Milvus milvus,St. Antoni,Bachmattholz,2020,unknown,m,NA,m,1CY,2020,10.05.2020,NA,NA,NA,NA,559,NA
+911,M045984,Milvus milvus,St. Antoni,Bachmattholz,2020,unknown,m,NA,m,1CY,2020,08.05.2020,NA,NA,NA,NA,559,NA
+912,M045842,Milvus milvus,Tentlingen,Villarsel_19,2020,unknown,m,NA,m,1CY,2020,02.05.2020,NA,NA,NA,NA,577,NA
+913,M045843,Milvus milvus,Tentlingen,Villarsel_19,2020,unknown,f,NA,f,1CY,2020,30.04.2020,NA,NA,NA,NA,577,NA
+228,M036578,Milvus milvus,Alterswil,Rueti,2016,unknown,f,NA,f,1CY,2016,10.06.2016,ecotone,SWIK71,SWI04,brown,120,Second breeding attempt in 2019 on a nest in the garden of a castle owned by russian. Nest was never found
+915,M045910,Milvus milvus,Bruenisried,Wuhrsmatta,2020,unknown,NA,NA,NA,1CY,2020,03.05.2020,NA,NA,NA,NA,585,NA
+916,M045911,Milvus milvus,Bruenisried,Wuhrsmatta,2020,unknown,NA,NA,NA,1CY,2020,29.04.2020,NA,NA,NA,NA,585,NA
+917,not yet ringed,Milvus milvus,Duedingen,Unter St.Wolfgangholz_19,2020,unknown,m,NA,m,1CY,2020,03.05.2020,NA,NA,NA,NA,587,NA
+918,M045903,Milvus milvus,Duedingen,Unter St.Wolfgangholz_19,2020,unknown,f,NA,f,1CY,2020,29.04.2020,NA,NA,NA,NA,587,NA
+919,M045904,Milvus milvus,Duedingen,Unter St.Wolfgangholz_19,2020,unknown,f,NA,f,1CY,2020,28.04.2020,NA,NA,NA,NA,587,NA
+920,M045834,Milvus milvus,Tafers,Brunnenbergrain_19,2020,unknown,m,NA,m,1CY,2020,05.05.2020,NA,NA,NA,NA,588,NA
+921,M045980,Milvus milvus,Tafers,Brunnenbergrain_19,2020,unknown,m,NA,m,1CY,2020,09.05.2020,NA,NA,NA,NA,588,NA
+227,M036577,Milvus milvus,Alterswil,Rueti,2016,unknown,f,NA,f,1CY,2016,14.06.2016,ecotone,WSIK62,WIK04,brown,120,NA
+1117,R6553,Milvus milvus,Alterswil,Rueti,2021,unknown,f,NA,f,1CY,2021,16.05.2021,milsar,9CD0D910,5044,NA,818,NA
+924,M045950,Milvus milvus,St. Antoni,Lehwil 20,2020,unknown,NA,NA,NA,1CY,2020,11.05.2020,NA,NA,NA,NA,610,NA
+925,M045951,Milvus milvus,St. Antoni,Lehwil 20,2020,unknown,f,NA,f,1CY,2020,07.05.2020,NA,NA,NA,NA,610,NA
+1147,M068141,Milvus milvus,Schmitten,Ruetihubel,2022,unknown,f,NA,f,1CY,2022,11.05.2022,milsar,7C367112,5024,NA,9,NA
+927,not yet ringed,Milvus milvus,Giffers,Obertswil_20,2020,unknown,m,NA,m,1CY,2020,01.05.2020,NA,NA,NA,NA,617,despite camera
+300,M039214,Milvus milvus,Rechthalten,Saga,2017,unknown,m,NA,m,1CY,2017,02.05.2017,milsar,5D962E1D,1220,brown,272,NA
+516,M045166,Milvus milvus,Guggisberg,Willmesacher,2018,unknown,m,NA,m,1CY,2018,16.05.2018,ecotone,KISA17,KIA17,brown,90,NA
+930,M045915,Milvus milvus,Alterswil,Weiermattenmoos_20,2020,unknown,f,NA,f,1CY,2020,29.04.2020,NA,NA,NA,NA,618,NA
+931,R7497,Milvus milvus,Alterswil,Weiermattenmoos_20,2020,unknown,m,NA,m,1CY,2020,03.05.2020,NA,NA,NA,NA,618,NA
+45,M023929,Milvus milvus,Oberschrot,Sali,2016,unknown,m,NA,m,1CY,2016,08.05.2016,ecotone,WSIK61,WIK03,brown,182,NA
+498,M045168,Milvus milvus,Oberschrot,Sali_18,2018,unknown,f,NA,f,1CY,2018,07.05.2018,milsar,CB319F1C,1246,brown,422,NA
+934,not yet ringed,Milvus milvus,Zollhaus,Chnoewis,2020,unknown,NA,NA,NA,1CY,2020,05.05.2020,NA,NA,NA,NA,621,Dead probably because of leg swollen and entangled in plastic
+499,M045169,Milvus milvus,Oberschrot,Sali_18,2018,unknown,m,NA,m,1CY,2018,03.05.2018,milsar,11F0C31C,1231,brown,422,NA
+903,M045828,Milvus milvus,Oberschrot,Sali_19,2020,unknown,m,NA,m,1CY,2020,29.04.2020,milsar,CF392D10,1263,NA,545,NA
+937,M045901,Milvus milvus,Duedingen,Schueracher_20,2020,unknown,NA,NA,NA,1CY,2020,09.05.2020,NA,NA,NA,NA,626,NA
+938,M045902,Milvus milvus,Duedingen,Schueracher_20,2020,unknown,m,NA,m,1CY,2020,05.05.2020,NA,NA,NA,NA,626,NA
+939,M045844,Milvus milvus,Le Mouret,Le Grabot_20,2020,unknown,NA,NA,NA,1CY,2020,06.05.2020,NA,NA,NA,NA,629,NA
+940,M045845,Milvus milvus,Le Mouret,Le Grabot_20,2020,unknown,f,NA,f,1CY,2020,04.05.2020,NA,NA,NA,NA,629,NA
+941,M045981,Milvus milvus,Le Mouret,Le Grabot_20,2020,unknown,m,NA,m,1CY,2020,09.05.2020,NA,NA,NA,NA,629,NA
+942,R7487,Milvus milvus,St. Sylvester,Goleta_20,2020,unknown,NA,NA,NA,1CY,2020,04.05.2020,NA,NA,NA,NA,630,NA
+943,M045841,Milvus milvus,Boesingen,Grenchen_20,2020,unknown,NA,NA,NA,1CY,2020,06.05.2020,NA,NA,NA,NA,634,NA
+944,M045982,Milvus milvus,Boesingen,Grenchen_20,2020,unknown,m,NA,m,1CY,2020,10.05.2020,NA,NA,NA,NA,634,NA
+945,M045838,Milvus milvus,Boesingen,Risau_20,2020,unknown,NA,NA,NA,1CY,2020,30.04.2020,NA,NA,NA,NA,635,NA
+946,R7492,Milvus milvus,Boesingen,Risau_20,2020,unknown,f,NA,f,1CY,2020,26.04.2020,NA,NA,NA,NA,635,NA
+904,M045972,Milvus milvus,Oberschrot,Sali_19,2020,unknown,m,NA,m,1CY,2020,03.05.2020,milsar,38392D10,1258,NA,545,NA
+948,M045823,Milvus milvus,Lanzenhaeusern,Buttnigen_20,2020,unknown,m,NA,m,1CY,2020,01.05.2020,NA,NA,NA,NA,638,DOD not clear
+962,M045909,Milvus milvus,Heitenried,Schindelhus_20,2020,unknown,f,NA,f,1CY,2020,05.05.2020,milsar,8DD0D910,1295,NA,655,goshawk flying away from massive plucking site
+307,M039027,Milvus milvus,Heitenried,Schinelhus,2017,unknown,f,NA,f,1CY,2017,30.04.2017,ecotone,KIWS19,RKA25,brown,281,NA
+309,M039029,Milvus milvus,Heitenried,Schinelhus,2017,unknown,f,NA,f,1CY,2017,30.04.2017,ecotone,KIWS57,RED09,brown,281,NA
+308,M039028,Milvus milvus,Heitenried,Schinelhus,2017,unknown,f,NA,f,1CY,2017,30.04.2017,ecotone,KIWS46,REK27,brown,281,NA
+953,M045921,Milvus milvus,Cordast,Buillardholz_20,2020,unknown,NA,NA,NA,1CY,2020,09.05.2020,NA,NA,NA,NA,645,NA
+954,R6860,Milvus milvus,Boesingen,Riederbergholz,2020,unknown,f,NA,f,1CY,2020,30.04.2020,NA,NA,NA,NA,646,NA
+955,M045829,Milvus milvus,Tafers,Brunnenberg_20,2020,unknown,NA,NA,NA,1CY,2020,30.04.2020,NA,NA,NA,NA,648,NA
+956,M045830,Milvus milvus,Tafers,Brunnenberg_20,2020,unknown,NA,NA,NA,1CY,2020,29.04.2020,NA,NA,NA,NA,648,NA
+957,M045833,Milvus milvus,St. Ursen,Schwandholz,2020,unknown,NA,NA,NA,1CY,2020,05.05.2020,NA,NA,NA,NA,649,NA
+505,M045198,Milvus milvus,Heitenried,Schinelhus_18,2018,unknown,m,NA,m,1CY,2018,13.05.2018,milsar,BB387B1C,1255,brown,400,NA
+959,M045953,Milvus milvus,Kalchstaetten,Kirchhalten_20,2020,unknown,NA,NA,NA,1CY,2020,16.05.2020,NA,NA,NA,NA,651,NA
+508,M045152,Milvus milvus,Heitenried,Tannenholz,2018,unknown,f,NA,f,1CY,2018,10.05.2018,ecotone,KISA18,KIA18,brown,316,NA
+961,not yet ringed,Milvus milvus,Heitenried,Schindelhus_20,2020,unknown,NA,NA,NA,1CY,2020,09.05.2020,NA,NA,NA,NA,655,NA
+1131,M068115,Milvus milvus,Rechthalten,Schlossweid,2021,unknown,f,NA,f,1CY,2021,22.05.2021,milsar,266AFE12,5017,NA,845,delivered weak from Rechthalten with 659 gr weight to rescue station 03.08.2021
+963,R7495,Milvus milvus,Alterswil,Baletswil_20,2020,unknown,m,NA,m,1CY,2020,27.04.2020,NA,NA,NA,NA,656,NA
+964,M045912,Milvus milvus,Alterswil,Aeschlenberg_20,2020,unknown,NA,NA,NA,1CY,2020,04.05.2020,NA,NA,NA,NA,657,NA
+965,M045913,Milvus milvus,Alterswil,Aeschlenberg_20,2020,unknown,m,NA,m,1CY,2020,30.04.2020,NA,NA,NA,NA,657,NA
+966,M045839,Milvus milvus,Boesingen,Gertholz_20,2020,unknown,NA,NA,NA,1CY,2020,04.05.2020,NA,NA,NA,NA,660,NA
+967,M045840,Milvus milvus,Boesingen,Gertholz_20,2020,unknown,NA,NA,NA,1CY,2020,30.04.2020,NA,NA,NA,NA,660,NA
+968,M045960,Milvus milvus,Flamatt,Chruezacher,2020,unknown,NA,NA,NA,1CY,2020,05.05.2020,NA,NA,NA,NA,661,NA
+969,M045961,Milvus milvus,Flamatt,Chruezacher,2020,unknown,m,NA,m,1CY,2020,01.05.2020,NA,NA,NA,NA,661,NA
+2,M035168,Milvus milvus,Boesingen,Noflenau,2016,f,f,NA,f,3CY+,unknown,NA,ecotone,SWIK50,SIU25,white,unknown,"2022 : not transmitting regurarly , last uhf contact 14.04.22"
+971,M045931,Milvus milvus,Bonnefontaine,Ruedigrabe,2020,unknown,m,NA,m,1CY,2020,08.05.2020,NA,NA,NA,NA,669,DOD not 100% confirmed
+972,R6854,Milvus milvus,Bonnefontaine,Ruedigrabe,2020,unknown,m,NA,m,1CY,2020,09.05.2020,NA,NA,NA,NA,669,DOD not 100% confirmed
+153,M023868,Milvus milvus,Haute-Intyamon,Lessoc,2015,unknown,f,NA,f,1CY,2015,11.05.2015,ecotone,SWIK36,MLR27,green,52,Comment from Adrian: Wings
+1101,R7403,Milvus milvus,Werthenstein,Schwaendi,2021,unknown,m,NA,m,1CY,2021,08.05.2021,milsar,206AFE12,5023,NA,793,NA
+975,M045905,Milvus milvus,Duedingen,Unter St. Wolfgangholz_20,2020,unknown,NA,NA,NA,1CY,2020,10.05.2020,NA,NA,NA,NA,672,NA
+976,M045906,Milvus milvus,Duedingen,Unter St. Wolfgangholz_20,2020,unknown,NA,NA,NA,1CY,2020,06.05.2020,NA,NA,NA,NA,672,NA
+977,M045945,Milvus milvus,Marly,Bois_des_Rittes_20,2020,unknown,m,NA,m,1CY,2020,27.04.2020,NA,NA,NA,NA,677,NA
+978,M045946,Milvus milvus,Marly,Bois_des_Rittes_20,2020,unknown,m,NA,m,1CY,2020,24.04.2020,NA,NA,NA,NA,677,NA
+979,R6859,Milvus milvus,Duedingen,Ottisberg,2020,unknown,f,NA,f,1CY,2020,25.04.2020,NA,NA,NA,NA,678,NA
+980,M045963,Milvus milvus,Kleingurmels,Gros Bruel,2020,unknown,m,NA,m,1CY,2020,04.05.2020,NA,NA,NA,NA,681,NA
+981,M045964,Milvus milvus,Kleingurmels,Gros Bruel,2020,unknown,m,NA,m,1CY,2020,30.04.2020,NA,NA,NA,NA,681,NA
+982,not yet ringed,Milvus milvus,Ueberstorf,Ufem_Burst_20,2020,unknown,m,NA,m,1CY,2020,13.05.2020,NA,NA,NA,NA,682,NA
+983,M045938,Milvus milvus,Ueberstorf,Ufem_Burst_20,2020,unknown,f,NA,f,1CY,2020,09.05.2020,NA,NA,NA,NA,682,NA
+1124,M045879,Milvus milvus,Flamatt,Seiseacher,2021,unknown,m,NA,m,1CY,2021,05.05.2021,milsar,136AFE12,5002,NA,830,NA
+985,M045954,Milvus milvus,Milken,Trombyfang,2020,unknown,m,NA,m,1CY,2020,01.05.2020,NA,NA,NA,NA,686,NA
+986,M045955,Milvus milvus,Milken,Trombyfang,2020,unknown,m,NA,m,1CY,2020,30.04.2020,NA,NA,NA,NA,686,NA
+987,M045971,Milvus milvus,Heitenried,Oberwinterlingen,2020,unknown,f,NA,f,1CY,2020,08.05.2020,NA,NA,NA,NA,687,NA
+367,M036545,Milvus milvus,Alterswil,Seliholz,2017,unknown,m,NA,m,1CY,2017,11.05.2017,ecotone,SWIK75,SWI08,brown,32,NA
+989,M045969,Milvus milvus,Guggisberg,gummeli,2020,unknown,NA,NA,NA,1CY,2020,20.05.2020,NA,NA,NA,NA,691,NA
+157,M023872,Milvus milvus,St. Ursen,Plentsch,2015,unknown,f,NA,f,1CY,2015,13.05.2015,ecotone,SWIK52,MLR28,green,40,NA
+991,M045985,Milvus milvus,St. Antoni,Weissenbach_20,2020,unknown,m,NA,m,1CY,2020,25.05.2020,NA,NA,NA,NA,692,date of death estimated from gps points of mother
+992,M045933,Milvus milvus,Ependes,Ependes_20,2020,unknown,m,NA,m,1CY,2020,25.04.2020,NA,NA,NA,NA,693,NA
+993,R6856,Milvus milvus,Ependes,Ependes_20,2020,unknown,f,NA,f,1CY,2020,29.04.2020,NA,NA,NA,NA,693,NA
+994,R6857,Milvus milvus,Ependes,Ependes_20,2020,unknown,f,NA,f,1CY,2020,24.04.2020,NA,NA,NA,NA,693,NA
+97,M023920,Milvus milvus,Alterswil,Seliholz,2016,unknown,m,NA,m,1CY,2016,14.05.2016,ecotone,SWIK72,SWI05,brown,194,NA
+245,M036550,Milvus milvus,Alterswil,Seliholz,2017,unknown,f,NA,f,1CY,2017,10.05.2017,ecotone,WSIK64,WIK06,brown,116,NA
+110,M036514,Milvus milvus,St. Antoni,Ufem Berg,2016,m,m,NA,m,3CY+,unknown,NA,ecotone,SWIK53,IWS05,green,unknown,"2023: Breakup with female 109, kept old territory but no nest"
+998,M045952,Milvus milvus,Rueggisberg,Hinterfultigen_20,2020,unknown,NA,NA,NA,1CY,2020,13.05.2020,NA,NA,NA,NA,702,DOD not 100% confirmed
+368,M039046,Milvus milvus,Alterswil,Seliholz,2017,unknown,m,NA,m,1CY,2017,11.05.2017,ecotone,WSIK13,WIS15,brown,32,NA
+1000,M045986,Milvus milvus,Boesingen,Risau new,2020,unknown,m,NA,m,1CY,2020,14.05.2020,NA,NA,NA,NA,707,NA
+1001,M045987,Milvus milvus,Boesingen,Risau new,2020,unknown,m,NA,m,1CY,2020,12.05.2020,NA,NA,NA,NA,707,NA
+1002,M045939,Milvus milvus,Ueberstorf,Guldifeld_20,2020,unknown,m,NA,m,1CY,2020,05.05.2020,NA,NA,NA,NA,709,NA
+1003,M045940,Milvus milvus,Ueberstorf,Guldifeld_20,2020,unknown,m,NA,m,1CY,2020,01.05.2020,NA,NA,NA,NA,709,NA
+1004,not yet ringed,Milvus milvus,Massonens,Neirigue,2020,unknown,NA,NA,NA,1CY,2020,26.05.2020,NA,NA,NA,NA,712,NA
+186,M036580,Milvus milvus,Alterswil,Rueti,2016,f,f,NA,f,3CY+,unknown,NA,ecotone,SWIK54,IWS10,green,unknown,Second breeding attempt in 2019 on 595 Alterswil_Grabach
+509,M039720,Milvus milvus,Plaffeien,Hohliebi_18,2018,unknown,f,NA,f,1CY,2018,12.05.2018,ecotone,KISA19,KIA19,brown,452,NA
+514,M039715,Milvus milvus,Ueberstorf,Niedermettlen_17,2018,unknown,f,NA,f,1CY,2018,18.05.2018,ecotone,KISA20,KIA20,brown,293,NA
+1008,M045988,Milvus milvus,Alterswil,Rueti_20,2020,unknown,f,NA,f,1CY,2020,28.05.2020,NA,NA,NA,NA,717,NA
+1009,M045831,Milvus milvus,Bourguillon,Gotteron_20,2020,unknown,f,NA,f,1CY,2020,24.04.2020,NA,NA,NA,NA,718,NA
+1010,M045832,Milvus milvus,Bourguillon,Gotteron_20,2020,unknown,m,NA,m,1CY,2020,20.04.2020,NA,NA,NA,NA,718,NA
+73,M035197,Milvus milvus,Wuennewil,Staffels S,2016,unknown,f,NA,f,1CY,2016,05.05.2016,ecotone,WSIK66,WIK08,brown,106,NA
+1012,not yet ringed,Milvus milvus,Boesingen,Gertholz,2016,unknown,NA,NA,NA,1CY,2016,NA,NA,NA,NA,NA,149,NA
+1013,not yet ringed,Milvus milvus,Cordast,Fineta,2016,unknown,NA,NA,NA,1CY,2016,NA,NA,NA,NA,NA,132,NA
+1014,not yet ringed,Milvus milvus,Kalchstaetten,Lade,2016,unknown,NA,NA,NA,1CY,2016,NA,NA,NA,NA,NA,185,NA
+1015,M068103,Milvus milvus,Ueberstorf,Hundsflueh,2021,unknown,f,NA,f,1CY,2021,07.05.2021,NA,NA,NA,NA,134,NA
+1016,not yet ringed,Milvus milvus,Ueberstorf,Hundsflueh,2021,unknown,NA,NA,NA,1CY,2021,04.05.2021,NA,NA,NA,NA,134,NA
+1017,not yet ringed,Milvus milvus,Schmitten,Lanthenholz,2021,unknown,m,NA,m,1CY,2021,27.04.2021,NA,NA,NA,NA,313,NA
+1018,M045851,Milvus milvus,Schmitten,Lanthenholz,2021,unknown,m,NA,m,1CY,2021,23.04.2021,NA,NA,NA,NA,313,NA
+1019,M045862,Milvus milvus,Boesingen,Risau,2021,unknown,m,NA,m,1CY,2021,30.04.2021,NA,NA,NA,NA,635,NA
+1020,M068111,Milvus milvus,Alterswil,Chaela,2021,unknown,f,NA,f,1CY,2021,18.05.2021,NA,NA,NA,NA,404,NA
+1021,R6552,Milvus milvus,Alterswil,Chaela,2021,unknown,f,NA,f,1CY,2021,14.05.2021,NA,NA,NA,NA,404,NA
+1022,M045855,Milvus milvus,Schmitten,Lanthen,2021,unknown,f,NA,f,1CY,2021,01.05.2021,NA,NA,NA,NA,421,NA
+1023,M045856,Milvus milvus,Schmitten,Lanthen,2021,unknown,m,NA,m,1CY,2021,27.04.2021,NA,NA,NA,NA,421,NA
+1024,M045861,Milvus milvus,St. Ursen,Neumatt,2021,unknown,m,NA,m,1CY,2021,24.04.2021,NA,NA,NA,NA,451,NA
+1025,M068106,Milvus milvus,Schwarzenburg,Chilchermatt,2021,unknown,m,NA,m,1CY,2021,12.05.2021,NA,NA,NA,NA,458,NA
+1026,R6895,Milvus milvus,Schwarzenburg,Chilchermatt,2021,unknown,f,NA,f,1CY,2021,08.05.2021,NA,NA,NA,NA,458,NA
+1027,R6882,Milvus milvus,St. Antoni,Holzacher,2021,unknown,f,NA,f,1CY,2021,08.05.2021,NA,NA,NA,NA,534,NA
+1028,M045870,Milvus milvus,Schwarzenburg,Herrenholz,2021,unknown,m,NA,m,1CY,2021,05.05.2021,NA,NA,NA,NA,541,NA
+1029,M045871,Milvus milvus,Schwarzenburg,Herrenholz,2021,unknown,f,NA,f,1CY,2021,04.05.2021,NA,NA,NA,NA,541,NA
+1030,M045867,Milvus milvus,Oberschrot,Sali,2021,unknown,f,NA,f,1CY,2021,12.05.2021,NA,NA,NA,NA,545,NA
+1031,M068104,Milvus milvus,Oberschrot,Sali,2021,unknown,m,NA,m,1CY,2021,12.05.2021,NA,NA,NA,NA,545,NA
+1032,M045859,Milvus milvus,Bourgillon,Cote du Gotteron,2021,unknown,f,NA,f,1CY,2021,01.05.2021,NA,NA,NA,NA,547,NA
+1033,M045860,Milvus milvus,Bourgillon,Cote du Gotteron,2021,unknown,m,NA,m,1CY,2021,30.04.2021,NA,NA,NA,NA,547,NA
+139,M023854,Milvus milvus,Alterswil,Wolgiswil S,2015,unknown,m,NA,m,1CY,2015,07.05.2015,ecotone,SWIK55,MLR08,green,37,2021: probably had a nest
+798,M045780,Milvus milvus,St. Antoni,Stockera_19,2019,unknown,f,NA,f,1CY,2019,06.05.2019,ecotone,KIWS15,RKA21,NA,542,NA
+1036,R6876,Milvus milvus,Tentlingen,Villarsel,2021,unknown,f,NA,f,1CY,2021,28.04.2021,NA,NA,NA,NA,577,NA
+1037,M045866,Milvus milvus,Tentlingen,Villarsel,2021,unknown,m,NA,m,1CY,2021,28.04.2021,NA,NA,NA,NA,577,NA
+1038,R6878,Milvus milvus,St. Antoni,Baechlisbrunnen,2021,unknown,f,NA,f,1CY,2021,05.05.2021,NA,NA,NA,NA,582,NA
+1039,R6879,Milvus milvus,St. Antoni,Baechlisbrunnen,2021,unknown,f,NA,f,1CY,2021,01.05.2021,NA,NA,NA,NA,582,NA
+1040,M045864,Milvus milvus,Duedingen,Unter St Wolfgangholz,2021,unknown,f,NA,f,1CY,2021,24.04.2021,NA,NA,NA,NA,587,NA
+1041,M045865,Milvus milvus,Duedingen,Unter St Wolfgangholz,2021,unknown,m,NA,m,1CY,2021,22.04.2021,NA,NA,NA,NA,587,NA
+1042,R6877,Milvus milvus,Rechthalten,Bergli,2021,unknown,f,NA,f,1CY,2021,06.05.2021,NA,NA,NA,NA,589,NA
+1043,M045875,Milvus milvus,Berbereche,La Fenetta,2021,unknown,m,NA,m,1CY,2021,01.05.2021,NA,NA,NA,NA,616,NA
+1044,R6890,Milvus milvus,Heitenried,Lettiswil,2021,unknown,f,NA,f,1CY,2021,01.05.2021,NA,NA,NA,NA,623,NA
+1045,R6875,Milvus milvus,Heitenried,Lettiswil,2021,unknown,f,NA,f,1CY,2021,27.04.2021,NA,NA,NA,NA,623,NA
+1046,M046000,Milvus milvus,Heitenried,Lettiswil,2021,unknown,m,NA,m,1CY,2021,27.04.2021,NA,NA,NA,NA,623,NA
+1047,M045899,Milvus milvus,Schmitten,Bunziwil,2021,unknown,m,NA,m,1CY,2021,06.05.2021,NA,NA,NA,NA,624,NA
+1048,M045873,Milvus milvus,Schmitten,Bunziwil,2021,unknown,m,NA,m,1CY,2021,02.05.2021,NA,NA,NA,NA,624,NA
+1049,R6880,Milvus milvus,Schmitten,Bunziwil,2021,unknown,f,NA,f,1CY,2021,30.04.2021,NA,NA,NA,NA,624,NA
+901,M045919,Milvus milvus,St. Antoni,Stockera_19,2020,unknown,m,NA,m,1CY,2020,28.04.2020,milsar,52392D10,1260,NA,542,NA
+72,M023957,Milvus milvus,St. Ursen,Stoeckholz,2016,unknown,m,NA,m,1CY,2016,10.05.2016,ecotone,WSIK44,SIW16,brown,225,NA
+1052,not yet ringed,Milvus milvus,St. Ursen,Stoeckholz,2021,unknown,f,NA,f,1CY,2021,18.05.2021,NA,NA,NA,NA,640,NA
+1053,M045885,Milvus milvus,St. Ursen,Stoeckholz,2021,unknown,m,NA,m,1CY,2021,14.05.2021,NA,NA,NA,NA,640,NA
+1054,not yet ringed,Milvus milvus,Boesingen,Riederberghol,2021,unknown,m,NA,m,1CY,2021,08.05.2021,NA,NA,NA,NA,646,NA
+1055,M045868,Milvus milvus,Boesingen,Riederberghol,2021,unknown,m,NA,m,1CY,2021,06.05.2021,NA,NA,NA,NA,646,NA
+1056,M045869,Milvus milvus,Boesingen,Riederberghol,2021,unknown,m,NA,m,1CY,2021,02.05.2021,NA,NA,NA,NA,646,NA
+897,M045944,Milvus milvus,St. Ursen,Stoeckholz_19,2020,unknown,m,NA,m,1CY,2020,14.05.2020,ecotone,KIWS70,Na,NA,539,NA
+898,R6858,Milvus milvus,St. Ursen,Stoeckholz_19,2020,unknown,f,NA,f,1CY,2020,13.05.2020,ecotone,KIWS64,Na,NA,539,NA
+1247,R6567,Milvus milvus,Ueberstorf,Summerau East,2022,unknown,f,NA,f,1CY,2022,03.05.2022,milsar,04F1A215,3006,NA,929,NA
+34,M023926,Milvus milvus,Ueberstorf,Summerau new nest,2016,unknown,f,NA,f,1CY,2016,08.05.2016,ecotone,SWIK79,SWI12,brown,219,NA
+1061,not yet ringed,Milvus milvus,Ursy,Au Cuard,2021,unknown,NA,NA,NA,1CY,2021,17.05.2021,NA,NA,NA,NA,676,NA
+1062,M045852,Milvus milvus,Duedingen,Ottisberg,2021,unknown,m,NA,m,1CY,2021,24.04.2021,NA,NA,NA,NA,678,NA
+1063,R6883,Milvus milvus,Ueberstorf,Ufem Burst,2021,unknown,f,NA,f,1CY,2021,07.05.2021,NA,NA,NA,NA,682,NA
+1064,R6886,Milvus milvus,Ueberstorf,Mischlere,2021,unknown,f,NA,f,1CY,2021,13.05.2021,NA,NA,NA,NA,689,NA
+1065,R6887,Milvus milvus,Ueberstorf,Mischlere,2021,unknown,f,NA,f,1CY,2021,09.05.2021,NA,NA,NA,NA,689,NA
+1066,R6888,Milvus milvus,Ueberstorf,Mischlere,2021,unknown,f,NA,f,1CY,2021,09.05.2021,NA,NA,NA,NA,689,NA
+1067,M045886,Milvus milvus,St. Antoni,Weissenbach,2021,unknown,f,NA,f,1CY,2021,18.05.2021,NA,NA,NA,NA,692,NA
+1068,M045887,Milvus milvus,St. Antoni,Weissenbach,2021,unknown,f,NA,f,1CY,2021,16.05.2021,NA,NA,NA,NA,692,NA
+35,M023927,Milvus milvus,Ueberstorf,Summerau new nest,2016,unknown,m,NA,m,1CY,2016,04.05.2016,ecotone,WSIK15,WIS17,brown,219,NA
+1258,M051196,Milvus milvus,Bruenisried,Tana,2022,unknown,f,NA,f,1CY,2022,04.06.2022,milsar,CB319F1C,5031,NA,948,NA
+1071,not yet ringed,Milvus milvus,Huttwil,Buehl,2021,unknown,NA,NA,NA,1CY,2021,18.05.2021,NA,NA,NA,NA,853,NA
+1072,R6894,Milvus milvus,Tafers,Brunnenbergrain,2021,unknown,f,NA,f,1CY,2021,09.05.2021,NA,NA,NA,NA,739,NA
+1073,M045872,Milvus milvus,Tafers,Brunnenbergrain,2021,unknown,f,NA,f,1CY,2021,05.05.2021,NA,NA,NA,NA,739,NA
+1074,M045999,Milvus milvus,Pensier,La Graviere,2021,unknown,m,NA,m,1CY,2021,21.04.2021,NA,NA,NA,NA,743,NA
+1075,R6873,Milvus milvus,Pensier,La Graviere,2021,unknown,f,NA,f,1CY,2021,19.04.2021,NA,NA,NA,NA,743,NA
+1076,R6874,Milvus milvus,Pensier,La Graviere,2021,unknown,f,NA,f,1CY,2021,19.04.2021,NA,NA,NA,NA,743,NA
+1077,R6900,Milvus milvus,Heitenried,Schindelhus,2021,unknown,f,NA,f,1CY,2021,11.05.2021,NA,NA,NA,NA,745,NA
+1078,R6551,Milvus milvus,Heitenried,Schindelhus,2021,unknown,f,NA,f,1CY,2021,11.05.2021,NA,NA,NA,NA,745,NA
+1079,not yet ringed,Milvus milvus,Heitenried,Schindelhus,2021,unknown,NA,NA,NA,1CY,2021,11.05.2021,NA,NA,NA,NA,745,NA
+1080,not yet ringed,Milvus milvus,Boesingen,Gertholz,2021,unknown,f,NA,f,1CY,2021,07.05.2021,NA,NA,NA,NA,746,NA
+1081,M045863,Milvus milvus,Boesingen,Gertholz,2021,unknown,f,NA,f,1CY,2021,06.05.2021,NA,NA,NA,NA,746,NA
+1082,M045895,Milvus milvus,Schwarzenburg,Stoecken,2021,unknown,f,NA,f,1CY,2021,17.05.2021,NA,NA,NA,NA,747,NA
+1083,M045896,Milvus milvus,Schwarzenburg,Stoecken,2021,unknown,NA,NA,NA,1CY,2021,13.05.2021,NA,NA,NA,NA,747,NA
+1084,M068107,Milvus milvus,Le Mouret,Le Grabo,2021,unknown,m,NA,m,1CY,2021,10.05.2021,NA,NA,NA,NA,750,NA
+1085,M068108,Milvus milvus,Le Mouret,Le Grabo,2021,unknown,m,NA,m,1CY,2021,10.05.2021,NA,NA,NA,NA,750,NA
+1086,R6899,Milvus milvus,Le Mouret,Le Grabo,2021,unknown,f,NA,f,1CY,2021,10.05.2021,NA,NA,NA,NA,750,NA
+1087,dead,Milvus milvus,Aeckenmatt,Muehle,2021,unknown,m,NA,m,1CY,2021,29.04.2021,NA,NA,NA,NA,754,NA
+1088,M045853,Milvus milvus,Aeckenmatt,Muehle,2021,unknown,m,NA,m,1CY,2021,25.04.2021,NA,NA,NA,NA,754,NA
+1089,M045854,Milvus milvus,Aeckenmatt,Muehle,2021,unknown,m,NA,m,1CY,2021,22.04.2021,NA,NA,NA,NA,754,NA
+1090,R6885,Milvus milvus,Boesingen,Grenchen,2021,unknown,f,NA,f,1CY,2021,05.05.2021,NA,NA,NA,NA,757,NA
+347,M039486,Milvus milvus,Heitenried,Tannenholz,2017,unknown,m,NA,m,1CY,2017,03.05.2017,ecotone,KIWS37,REK18,brown,316,NA
+1092,not yet ringed,Milvus milvus,Bruenisried,Unterweid,2021,unknown,NA,NA,NA,1CY,2021,21.05.2021,NA,NA,NA,NA,767,NA
+1093,M045893,Milvus milvus,Rueggisberg,Chueeweidli,2021,unknown,m,NA,m,1CY,2021,20.05.2021,NA,NA,NA,NA,777,NA
+1094,dead,Milvus milvus,Rueggisberg,Chueeweidli,2021,unknown,NA,NA,NA,1CY,2021,24.05.2021,NA,NA,NA,NA,777,NA
+1095,M045888,Milvus milvus,Flamatt,Flamatt,2021,unknown,m,NA,m,1CY,2021,11.05.2021,NA,NA,NA,NA,780,NA
+1096,M045882,Milvus milvus,Marly,La Grangette,2021,unknown,m,NA,m,1CY,2021,14.05.2021,NA,NA,NA,NA,785,NA
+510,R7452,Milvus milvus,Riffenmatt,Dorfmatte,2018,unknown,f,NA,f,1CY,2018,14.05.2018,ecotone,KISA21,KIA21,brown,212,Parent ring and ID numbers uncertain
+504,M039702,Milvus milvus,St. Antoni,Moos,2018,unknown,m,NA,m,1CY,2018,07.05.2018,ecotone,KISA22,KIA22,brown,429,NA
+348,M039482,Milvus milvus,Heitenried,Tannenholz_W,2017,unknown,f,NA,f,1CY,2017,03.05.2017,ecotone,WSIK83,RKI18,brown,318,NA
+6,M004941,Milvus milvus,Duedingen,Tiefmoos,2016,unknown,m,NA,m,1CY,2016,26.04.2016,ecotone,SWIK95,SWI28,brown,205,2022 : not trasmitting regurarly but contact during breeding season
+5,M004942,Milvus milvus,Duedingen,Tiefmoos,2016,unknown,f,NA,f,1CY,2016,26.04.2016,ecotone,SWIK84,SWI17,brown,205,NA
+496,M039725,Milvus milvus,Treyvaux,Traumatta,2018,unknown,m,NA,m,1CY,2018,06.05.2018,milsar,30309F1C,1230,brown,430,NA
+497,M039726,Milvus milvus,Treyvaux,Traumatta,2018,unknown,f,NA,f,1CY,2018,05.05.2018,milsar,16329F1C,1233,brown,430,NA
+1104,M045876,Milvus milvus,Kleingurmels,UnderGruenenburg,2021,unknown,f,NA,f,1CY,2021,05.05.2021,NA,NA,NA,NA,798,NA
+1105,M045877,Milvus milvus,Kleingurmels,UnderGruenenburg,2021,unknown,m,NA,m,1CY,2021,04.05.2021,NA,NA,NA,NA,798,NA
+59,M036501,Milvus milvus,St. Antoni,Ufem Berg,2016,unknown,m,NA,m,1CY,2016,08.05.2016,ecotone,WSIK11,WIS13,brown,216,"2022 : not transmitting regurarly , last contact 06.06.2022"
+60,M036502,Milvus milvus,St. Antoni,Ufem Berg,2016,unknown,m,NA,m,1CY,2016,06.05.2016,ecotone,WSIK53,SIW25,brown,216,NA
+273,M036647,Milvus milvus,St. Antoni,Ufem Berg,2017,unknown,f,NA,f,1CY,2017,04.05.2017,ecotone,KIWS05,RKA10,brown,216,NA
+274,M036648,Milvus milvus,St. Antoni,Ufem Berg,2017,unknown,m,NA,m,1CY,2017,30.04.2017,ecotone,WSIK98,RKA04,brown,216,NA
+56,M035194,Milvus milvus,Ueberstorf,Ufem Burst,2016,unknown,m,NA,m,1CY,2016,11.05.2016,ecotone,WSIK31,SIW03,brown,136,NA
+250,M036634,Milvus milvus,Ueberstorf,Ufem Burst,2017,unknown,m,NA,m,1CY,2017,03.05.2017,ecotone,WSIK70,RKI03,brown,136,NA
+1112,not yet ringed,Milvus milvus,St. Antoni,Steinberg,2021,unknown,NA,NA,NA,1CY,2021,11.06.2021,NA,NA,NA,NA,808,NA
+846,M045937,Milvus milvus,Ueberstorf,Ufem Burst,2020,unknown,f,NA,f,1CY,2020,12.05.2020,milsar,ADD0D910,1268,NA,136,secondary predation by mammalian
+1150,M051172,Milvus milvus,Ueberstorf,Ufem Burst,2022,unknown,m,NA,m,1CY,2022,19.05.2022,milsar,FE69FE12,3030,NA,136,NA
+1115,M068109,Milvus milvus,Plaffeien,Joestrueti,2021,unknown,m,NA,m,1CY,2021,15.05.2021,NA,NA,NA,NA,815,NA
+1116,M045884,Milvus milvus,Plaffeien,Joestrueti,2021,unknown,m,NA,m,1CY,2021,11.05.2021,NA,NA,NA,NA,815,NA
+251,M036635,Milvus milvus,Ueberstorf,Ufem Burst,2017,unknown,f,NA,f,1CY,2017,29.04.2017,ecotone,WSIK73,RKI06,brown,136,NA
+1118,R6893,Milvus milvus,Schmitten,Gummen,2021,unknown,f,NA,f,1CY,2021,20.05.2021,NA,NA,NA,NA,819,NA
+1119,M045878,Milvus milvus,St. Antoni,Moos,2021,unknown,m,NA,m,1CY,2021,12.05.2021,NA,NA,NA,NA,823,NA
+1120,R6884,Milvus milvus,St. Antoni,Moos,2021,unknown,f,NA,f,1CY,2021,08.05.2021,NA,NA,NA,NA,823,NA
+290,M036611,Milvus milvus,Kleingurmels,Under Gruenenburg,2017,unknown,f,NA,f,1CY,2017,28.04.2017,ecotone,KIWS34,REK15,brown,260,NA
+1122,M045889,Milvus milvus,Guemmenen,Riedacher,2021,unknown,f,NA,f,1CY,2021,20.05.2021,NA,NA,NA,NA,825,NA
+291,M039004,Milvus milvus,Kleingurmels,Under Gruenenburg,2017,unknown,m,NA,m,1CY,2017,02.05.2017,ecotone,KIWS13,RKA19,brown,260,NA
+892,M045965,Milvus milvus,Kleingurmels,Under Gruenenburg_19,2020,unknown,m,NA,m,1CY,2020,09.05.2020,milsar,86D0D910,1300,NA,529,DOD between 19.06 and 21.06
+1125,M045892,Milvus milvus,Alterswil,Wolgiswil,2021,unknown,f,NA,f,1CY,2021,17.05.2021,NA,NA,NA,NA,832,NA
+1126,not yet ringed,Milvus milvus,Lanzenhaeusern,Holzmatten,2021,unknown,f,NA,f,1CY,2021,25.05.2021,NA,NA,NA,NA,833,NA
+893,M045966,Milvus milvus,Kleingurmels,Under Gruenenburg_19,2020,unknown,m,NA,m,1CY,2020,05.05.2020,milsar,AAD0D910,1301,NA,529,NA
+1128,not yet ringed,Milvus milvus,Huttwil,Kaltenegg,2021,unknown,m,NA,m,1CY,2021,09.06.2021,NA,NA,NA,NA,840,NA
+1129,not yet ringed,Milvus milvus,Laupen,Rueplisried,2021,unknown,NA,NA,NA,1CY,2021,18.05.2021,NA,NA,NA,NA,843,NA
+131,M023930,Milvus milvus,Guggisberg,Underbalm,2016,unknown,m,NA,m,1CY,2016,22.05.2016,ecotone,WSIK51,SIW23,brown,160,NA
+132,M023931,Milvus milvus,Guggisberg,Underbalm,2016,unknown,f,NA,f,1CY,2016,19.05.2016,ecotone,WSIK36,SIW07,brown,160,NA
+358,M039491,Milvus milvus,Guggisberg,Underbalm_17,2017,unknown,f,NA,f,1CY,2017,12.05.2017,ecotone,WSIK87,RKI22,brown,326,NA
+105,M036563,Milvus milvus,Sangernboden,underi Burg,2016,unknown,m,NA,m,1CY,2016,18.05.2016,ecotone,WSIK14,WIS16,brown,224,2023: Highest nest of a settler 1199m
+104,M036562,Milvus milvus,Sangernboden,underi Burg,2016,unknown,f,NA,f,1CY,2016,14.05.2016,ecotone,SWIK78,SWI11,brown,224,"2023: New settler, no nest"
+1059,R6889,Milvus milvus,Duedingen,Unter St Wolfgangholz,2021,unknown,f,NA,f,1CY,2021,03.05.2021,milsar,2D6AFE12,5013,NA,672,NA
+71,M023956,Milvus milvus,Duedingen,Unter St. Wolfgangholz,2016,unknown,m,NA,m,1CY,2016,21.05.2016,ecotone,WSIK09,WIS11,brown,206,2021: not transmitting during breeding season
+1182,M068140,Milvus milvus,Duedingen,Unter St. Wolfgangholz,2022,unknown,m,NA,m,1CY,2022,04.05.2022,milsar,1E319F1C,5033,NA,672,NA
+1202,M051159,Milvus milvus,Bruenisried,Unterweid,2022,unknown,m,NA,m,1CY,2022,11.05.2022,milsar,D2F0A215,3024,NA,767,NA
+1139,M045880,Milvus milvus,Gurmels,Kleinboesingen,2021,unknown,m,NA,m,1CY,2021,05.05.2021,NA,NA,NA,NA,856,NA
+1140,M045881,Milvus milvus,Gurmels,Kleinboesingen,2021,unknown,m,NA,m,1CY,2021,01.05.2021,NA,NA,NA,NA,856,NA
+79,M036553,Milvus milvus,Villarsel,very N,2016,unknown,f,NA,f,1CY,2016,09.05.2016,ecotone,WSIK33,SIW05,brown,180,NA
+74,M035198,Milvus milvus,Tentlingen,Vieille Rossmatta N,2016,unknown,m,NA,m,1CY,2016,11.05.2016,ecotone,WSIK68,WIK10,brown,147,NA
+75,M035199,Milvus milvus,Tentlingen,Vieille Rossmatta N,2016,unknown,m,NA,m,1CY,2016,09.05.2016,ecotone,WSIK05,WIS07,brown,147,NA
+141,M023856,Milvus milvus,St. Ursen,Roeschiwil,2015,unknown,m,NA,m,1CY,2015,06.05.2015,ecotone,SWIK56,MLR21,green,42,NA
+275,M036615,Milvus milvus,Tentlingen,Vieille Rossmatta power line,2017,unknown,f,NA,f,1CY,2017,28.04.2017,ecotone,KIWS04,RKA09,brown,218,sent again points on 2019-08-11 to -16 from same forest in France
+312,M039020,Milvus milvus,Tentlingen,Vieille_Rossmatta_17,2017,unknown,f,NA,f,1CY,2017,30.04.2017,ecotone,WSIK71,RKI04,brown,285,NA
+423,M039218,Milvus milvus,Villarsel,Villarsel 17,2017,unknown,f,NA,f,1CY,2017,13.05.2017,milsar,1CCFBB1A,1208,brown,372,NA
+1149,M068145,Milvus milvus,Tentlingen,Baerg,2022,unknown,f,NA,f,1CY,2022,29.04.2022,NA,NA,NA,NA,96,2022: no second climb
+112,M036564,Milvus milvus,Flamatt,Vorschalta,2016,unknown,f,NA,f,1CY,2016,15.05.2016,ecotone,SWIK68,SWI01,brown,133,found weakened 2016-08-04 and brought to rescue center in Fribourg. released again 2016-08-17. Potentially seen 2021: in Flammt Chrummatt (crossroads to Ueberstorf) tagged kite with UHF number xxx01 observed with nesting material and being territorial. If it was this kite
+1151,M051173,Milvus milvus,Ueberstorf,Ufem Burst,2022,unknown,f,NA,f,1CY,2022,18.05.2022,NA,NA,NA,NA,136,2022: Died between two climbs (comment added in 2023)
+1152,M051171,Milvus milvus,Tafers,Rohr,2022,unknown,f,NA,f,1CY,2022,22.05.2022,NA,NA,NA,NA,170,2022: Died between two climbs (comment added in 2023)
+1153,M051168,Milvus milvus,Schmitten,Lanthenholz,2022,unknown,m,NA,m,1CY,2022,30.04.2022,NA,NA,NA,NA,313,2022: no second climb
+177,M023892,Milvus milvus,Lossy,Lossy,2015,unknown,m,NA,m,1CY,2015,13.05.2015,ecotone,SWIK57,MLR06,green,16,NA
+1,M035167,Milvus milvus,Kalchstaetten,Kalchstaetten,2016,m,m,NA,m,3CY+,unknown,NA,ecotone,SWIK57,SIU06,green,unknown,NA
+1156,M051151,Milvus milvus,Schwarzenburg,Chilchermatt,2022,unknown,m,NA,m,1CY,2022,10.05.2022,NA,NA,NA,NA,458,2022: no second climb
+1157,M068134,Milvus milvus,Oberschrot,Sali,2022,unknown,m,NA,m,1CY,2022,02.05.2022,NA,NA,NA,NA,545,NA
+1158,M068135,Milvus milvus,Oberschrot,Sali,2022,unknown,f,NA,f,1CY,2022,30.04.2022,NA,NA,NA,NA,545,NA
+1069,R6554,Milvus milvus,Schwarzenburg,Waldgasse,2021,unknown,f,NA,f,1CY,2021,19.05.2021,milsar,256AFE12,5020,NA,706,NA
+511,M045189,Milvus milvus,Duedingen,St. Wolfgangholz_17,2018,unknown,f,NA,f,1CY,2018,14.05.2018,ecotone,KISA23,KIA23,brown,347,NA
+1161,not yet ringed,Milvus milvus,St. Antoni,Bachmattholz,2022,unknown,m,NA,m,1CY,2022,17.05.2022,NA,NA,NA,NA,559,NA
+301,M039213,Milvus milvus,Rechthalten,Saga,2017,unknown,f,NA,f,1CY,2017,02.05.2017,ecotone,KISA24,KIA24,brown,272,NA
+1163,R6571,Milvus milvus,Tentlingen,Villarsel,2022,unknown,m,NA,m,1CY,2022,03.05.2022,NA,NA,NA,NA,577,NA
+1164,M068137,Milvus milvus,St. Antoni,Baechlisbrunnen,2022,unknown,m,NA,m,1CY,2022,06.05.2022,NA,NA,NA,NA,582,NA
+1165,M051186,Milvus milvus,Ueberstorf,Chuerschi,2022,unknown,m,NA,m,1CY,2022,29.05.2022,NA,NA,NA,NA,584,NA
+1166,M068130,Milvus milvus,Duedingen,Under St. Wolfgangholz,2022,unknown,m,NA,m,1CY,2022,01.05.2022,NA,NA,NA,NA,587,NA
+1167,M068131,Milvus milvus,Duedingen,Under St. Wolfgangholz,2022,unknown,f,NA,f,1CY,2022,28.04.2022,NA,NA,NA,NA,587,NA
+999,M045968,Milvus milvus,Schwarzenburg,Waldgasse_20,2020,unknown,f,NA,f,1CY,2020,21.05.2020,milsar,9FD0D910,1279,NA,706,NA
+1226,M051156,Milvus milvus,Boesingen,Waldheim,2022,unknown,m,NA,m,1CY,2022,08.05.2022,milsar,1C6AFE12,5026,NA,891,2022: found dead on railroad with another unringed kite and close to a dead cat. No signs of electrocution
+86,M023934,Milvus milvus,Albligen,Walismatt,2016,unknown,m,NA,m,1CY,2016,11.05.2016,ecotone,SWIK85,SWI18,brown,137,NA
+87,M023935,Milvus milvus,Albligen,Walismatt,2016,unknown,f,NA,f,1CY,2016,08.05.2016,ecotone,WSIK47,SIW19,brown,137,NA
+1172,M051174,Milvus milvus,Boesingen,Risau,2022,unknown,m,NA,m,1CY,2022,04.05.2022,NA,NA,NA,NA,635,NA
+1173,M068123,Milvus milvus,Boesingen,Risau,2022,unknown,f,NA,f,1CY,2022,30.04.2022,NA,NA,NA,NA,635,NA
+1174,not yet ringed,Milvus milvus,Rechthalten,Weissenstein,2022,unknown,NA,NA,NA,1CY,2022,27.05.2022,NA,NA,NA,NA,641,NA
+1175,M051161,Milvus milvus,Alterswil,Aeschlenberg,2022,unknown,m,NA,m,1CY,2022,06.05.2022,NA,NA,NA,NA,657,NA
+1176,M051162,Milvus milvus,Alterswil,Aeschlenberg,2022,unknown,f,NA,f,1CY,2022,02.05.2022,NA,NA,NA,NA,657,NA
+1177,M051157,Milvus milvus,Flamatt,Chruezacher,2022,unknown,m,NA,m,1CY,2022,29.04.2022,NA,NA,NA,NA,661,NA
+1178,M051158,Milvus milvus,Flamatt,Chruezacher,2022,unknown,m,NA,m,1CY,2022,25.04.2022,NA,NA,NA,NA,661,NA
+1179,R6565,Milvus milvus,Flamatt,Chruezacher,2022,unknown,f,NA,f,1CY,2022,25.04.2022,NA,NA,NA,NA,661,NA
+88,M023936,Milvus milvus,Albligen,Walismatt,2016,unknown,m,NA,m,1CY,2016,08.05.2016,ecotone,WSIK64,WIK06,brown,137,NA
+1183,R6560,Milvus milvus,Ependes,Ependes,2022,unknown,f,NA,f,1CY,2022,06.05.2022,NA,NA,NA,NA,693,NA
+1184,M068144,Milvus milvus,Ependes,Ependes,2022,unknown,m,NA,m,1CY,2022,03.05.2022,NA,NA,NA,NA,693,NA
+302,M036603,Milvus milvus,Alterswil,weiermattenmoos,2017,unknown,m,NA,m,1CY,2017,02.05.2017,ecotone,KIWS03,RKA08,brown,273,NA
+1186,not yet ringed,Milvus milvus,Huttwil,Buehl,2022,unknown,NA,NA,NA,1CY,2022,18.05.2022,NA,NA,NA,NA,719,NA
+1187,M051163,Milvus milvus,St. Antoni,Menzishus,2022,unknown,f,NA,f,1CY,2022,09.05.2022,NA,NA,NA,NA,726,NA
+1188,R6566,Milvus milvus,St. Antoni,Menzishus,2022,unknown,f,NA,f,1CY,2022,05.05.2022,NA,NA,NA,NA,726,NA
+1189,not yet ringed,Milvus milvus,Tafers,Brunnenbergrain,2022,unknown,NA,NA,NA,1CY,2022,10.05.2022,NA,NA,NA,NA,739,2022: considered predated when entering the nest during second climb
+1190,not yet ringed,Milvus milvus,Tafers,Brunnenbergrain,2022,unknown,m,NA,m,1CY,2022,07.05.2022,NA,NA,NA,NA,739,2022: considered predated when entering the nest during second climb
+1191,M051187,Milvus milvus,Heitenried,Schniderhus,2022,unknown,m,NA,m,1CY,2022,11.05.2022,NA,NA,NA,NA,745,NA
+1192,M051170,Milvus milvus,Boesingen,Gertholz,2022,unknown,f,NA,f,1CY,2022,02.05.2022,NA,NA,NA,NA,746,NA
+1193,M068126,Milvus milvus,Boesingen,Gertholz,2022,unknown,f,NA,f,1CY,2022,28.04.2022,NA,NA,NA,NA,746,NA
+1194,R6562,Milvus milvus,Schwarzenburg,Stoecken,2022,unknown,f,NA,f,1CY,2022,11.05.2022,NA,NA,NA,NA,747,NA
+1195,M068150,Milvus milvus,Schwarzenburg,Stoecken,2022,unknown,m,NA,m,1CY,2022,09.05.2022,NA,NA,NA,NA,747,NA
+1196,not yet ringed,Milvus milvus,Ueberstorf,Hangried,2022,unknown,NA,NA,NA,1CY,2022,04.05.2022,NA,NA,NA,NA,753,NA
+1197,M068127,Milvus milvus,Ueberstorf,Hangried,2022,unknown,m,NA,m,1CY,2022,30.04.2022,NA,NA,NA,NA,753,NA
+1198,M068146,Milvus milvus,Aeckenmatt,Muehle,2022,unknown,f,NA,f,1CY,2022,04.05.2022,NA,NA,NA,NA,754,NA
+1199,M068147,Milvus milvus,Aeckenmatt,Muehle,2022,unknown,f,NA,f,1CY,2022,30.04.2022,NA,NA,NA,NA,754,NA
+1200,M051195,Milvus milvus,St. Ursen,Roeschiwil,2022,unknown,m,NA,m,1CY,2022,26.05.2022,Lora,LoraM1,NA,NA,766,NA
+1201,not yet ringed,Milvus milvus,St. Ursen,Roeschiwil,2022,unknown,NA,NA,NA,1CY,2022,24.05.2022,NA,NA,NA,NA,766,NA
+1246,M051197,Milvus milvus,Alterswil,Weiermattenmoos,2022,unknown,m,NA,m,1CY,2022,05.06.2022,milsar,AAD0D910,5036,NA,925,2022: Farmer said he saw the bird entering a machine/tractor while working in the field
+1203,M051189,Milvus milvus,Flamatt,Flamatt,2022,unknown,f,NA,f,1CY,2022,17.05.2022,NA,NA,NA,NA,780,NA
+1204,R6573,Milvus milvus,Flamatt,Flamatt,2022,unknown,f,NA,f,1CY,2022,13.05.2022,NA,NA,NA,NA,780,NA
+1205,R6559,Milvus milvus,Marly,Montdrion,2022,unknown,f,NA,f,1CY,2022,06.05.2022,NA,NA,NA,NA,787,2022: no second climb
+1206,M051154,Milvus milvus,Tafers,Chlimattholz,2022,unknown,f,NA,f,1CY,2022,11.05.2022,NA,NA,NA,NA,795,NA
+1207,M051155,Milvus milvus,Tafers,Chlimattholz,2022,unknown,m,NA,m,1CY,2022,10.05.2022,NA,NA,NA,NA,795,NA
+1208,M068124,Milvus milvus,Kleingurmels,Under Gruenenburg,2022,unknown,f,NA,f,1CY,2022,29.04.2022,NA,NA,NA,NA,798,NA
+1209,M068125,Milvus milvus,Kleingurmels,Under Gruenenburg,2022,unknown,f,NA,f,1CY,2022,26.04.2022,NA,NA,NA,NA,798,NA
+1144,M068118,Milvus milvus,Milken,Weizacker,2021,unknown,m,NA,m,1CY,2021,20.05.2021,milsar,CB319F1C,5031,NA,863,not transm. properly
+947,M045943,Milvus milvus,Tafers,Wierli,2020,unknown,m,NA,m,1CY,2020,12.05.2020,milsar,89D0D910,1299,NA,637,2023: Died 17/03
+1050,M068110,Milvus milvus,Tafers,Wierli,2021,unknown,m,NA,m,1CY,2021,15.05.2021,milsar,1B6AFE12,5029,NA,637,predated in nest
+1051,R6881,Milvus milvus,Tafers,Wierli,2021,unknown,f,NA,f,1CY,2021,11.05.2021,milsar,2C6AFE12,5012,NA,637,predated in nest
+152,M023867,Milvus milvus,Haute-Intyamon,Lessoc,2015,unknown,f,NA,f,1CY,2015,08.05.2015,ecotone,SWIK58,MLR02,green,52,NA
+1215,M051164,Milvus milvus,Lanzenhaeusern,Holzmatten,2022,unknown,m,NA,m,1CY,2022,16.05.2022,NA,NA,NA,NA,833,2022: died between two climbs. probably goshawk predation
+1216,M051194,Milvus milvus,Zumholz,Reinweid,2022,unknown,m,NA,m,1CY,2022,25.05.2022,Lora,LoraM2,NA,NA,835,NA
+512,M045190,Milvus milvus,Duedingen,St. Wolfgangholz_17,2018,unknown,m,NA,m,1CY,2018,13.05.2018,ecotone,KISA24,KIA24,brown,347,NA
+426,M039222,Milvus milvus,Rechthalten,Moosholz_W,2017,unknown,f,NA,f,1CY,2017,13.05.2017,ecotone,KISA25,KIA25,brown,374,NA
+517,M045167,Milvus milvus,Guggisberg,Willmesacher,2018,unknown,m,NA,m,1CY,2018,16.05.2018,ecotone,KIWS95,KRX29,brown,90,2021: at different place (49.13201659726527
+350,M039216,Milvus milvus,Guggisberg,Willmesacher_17,2017,unknown,f,NA,f,1CY,2017,03.05.2017,ecotone,KIWS96,MRX02,brown,321,NA
+351,M039217,Milvus milvus,Guggisberg,Willmesacher_17,2017,unknown,m,NA,m,1CY,2017,03.05.2017,ecotone,KIWS77,KRX02,brown,321,NA
+1222,M068143,Milvus milvus,Duedingen,FuchseNAcher,2022,unknown,NA,NA,NA,1CY,2022,06.05.2022,NA,NA,NA,NA,878,2022: nest was not climbed a second time but chick was checked from distance on the 20.06.2022
+923,M045976,Milvus milvus,Guggisberg,Wilmesacher_N,2020,unknown,f,NA,f,1CY,2020,14.05.2020,milsar,87D0D910,1302,NA,601,NA
+1224,M051178,Milvus milvus,Le Mouret,Le Grabot,2022,unknown,f,NA,f,1CY,2022,06.05.2022,NA,NA,NA,NA,889,NA
+1225,M051179,Milvus milvus,Le Mouret,Le Grabot,2022,unknown,f,NA,f,1CY,2022,02.05.2022,NA,NA,NA,NA,889,NA
+1111,M068114,Milvus milvus,Heitenried,Winterlingen,2021,unknown,m,NA,m,1CY,2021,18.05.2021,milsar,2F6AFE12,5011,NA,807,found dead (09.07.2021) near nest
+1227,not yet ringed,Milvus milvus,Sagenboden,Hinter,2022,unknown,m,NA,m,1CY,2022,27.05.2022,NA,NA,NA,NA,892,2022: badly injured due to plastic on leg - impossible to ring
+1228,not yet ringed,Milvus milvus,Boesingen,Friesenheit,2022,unknown,f,NA,f,1CY,2022,26.05.2022,NA,NA,NA,NA,893,2022: no second climb
+391,M039008,Milvus milvus,Heitenried,Winterlingen_17,2017,unknown,m,NA,m,1CY,2017,05.05.2017,ecotone,KIWS65,RED18,brown,344,NA
+134,M036573,Milvus milvus,Niedermuhlern,Schuer picea,2016,unknown,f,NA,f,1CY,2016,13.05.2016,ecotone,SWIK58,SWX02,brown,191,NA
+1231,not yet ringed,Milvus milvus,St. Antoni,Steinberg,2022,unknown,NA,NA,NA,1CY,2022,22.05.2022,NA,NA,NA,NA,901,NA
+1232,R6563,Milvus milvus,Ueberstorf,Breiteli,2022,unknown,f,NA,f,1CY,2022,03.05.2022,NA,NA,NA,NA,904,NA
+1233,R6564,Milvus milvus,Ueberstorf,Breiteli,2022,unknown,f,NA,f,1CY,2022,01.05.2022,NA,NA,NA,NA,904,NA
+13,CH888178,Milvus milvus,St. Ursen,Stoeckholz,2016,f,NA,NA,f,14CY,2003,NA,ecotone,SWIK59,SIU03,blue,487,2021: new untagged RKs in 640 St. Ursen_Stockhoelz_20-Nest
+14,M023947,Milvus milvus,Alterswil,Wolgiswil spruce,2016,unknown,m,NA,m,1CY,2016,04.05.2016,ecotone,WSIK32,SIX04,brown,201,NA
+1236,not yet ringed,Milvus milvus,Alterswil,Kuett,2022,unknown,NA,NA,NA,1CY,2022,27.05.2022,NA,NA,NA,NA,908,2022: no second climb
+1237,not yet ringed,Milvus milvus,Alterswil,Wengliswil,2022,unknown,m,NA,m,1CY,2022,21.05.2022,NA,NA,NA,NA,909,NA
+1238,M051152,Milvus milvus,Alterswil,Wengliswil,2022,unknown,m,NA,m,1CY,2022,17.05.2022,NA,NA,NA,NA,909,2022: Died between two climbs (comment added in 2023)
+1239,R6568,Milvus milvus,Boesingen,Grenchen,2022,unknown,f,NA,f,1CY,2022,30.04.2022,NA,NA,NA,NA,915,NA
+1240,M051185,Milvus milvus,Milken,Rothen,2022,unknown,f,NA,f,1CY,2022,28.05.2022,NA,NA,NA,NA,920,2022: no second climb. Nest was deserted by female
+1241,dead,Milvus milvus,Milken,Weizacker,2022,unknown,m,NA,m,1CY,2022,25.05.2022,NA,NA,NA,NA,921,NA
+1242,M051166,Milvus milvus,Milken,Weizacker,2022,unknown,m,NA,m,1CY,2022,21.05.2022,NA,NA,NA,NA,921,NA
+1243,M051160,Milvus milvus,Alterswil,Mediwil,2022,unknown,f,NA,f,1CY,2022,19.05.2022,NA,NA,NA,NA,922,2022: Died between two climbs (comment added in 2023)
+1244,M051188,Milvus milvus,Gurmels,Kleinbosingen,2022,unknown,m,NA,m,1CY,2022,16.05.2022,NA,NA,NA,NA,924,NA
+1245,M068142,Milvus milvus,Gurmels,Kleinbosingen,2022,unknown,f,NA,f,1CY,2022,12.05.2022,NA,NA,NA,NA,924,NA
+61,M036505,Milvus milvus,Ueberstorf,Hundsflueh,2016,m,m,NA,m,3CY+,unknown,NA,ecotone,SWIK60,IWS14,blue,unknown,NA
+909,M045959,Milvus milvus,Alterswil,Wolgiswil_19,2020,unknown,f,NA,f,1CY,2020,23.05.2020,milsar,47392D10,1259,NA,558,NA
+1248,not yet ringed,Milvus milvus,La Roche,Les Rontes,2022,unknown,m,NA,m,1CY,2022,12.05.2022,NA,NA,NA,NA,930,NA
+1121,M068105,Milvus milvus,Alterswil,Wolperswil,2021,unknown,m,NA,m,1CY,2021,08.05.2021,milsar,1C6AFE12,5026,NA,824,dead near nest
+1250,not yet ringed,Milvus milvus,Ueberstorf,Hundsflueh,2022,unknown,NA,NA,NA,1CY,2022,05.05.2022,NA,NA,NA,NA,935,NA
+1251,M051180,Milvus milvus,Ueberstorf,Hundsflueh,2022,unknown,f,NA,f,1CY,2022,05.05.2022,NA,NA,NA,NA,935,NA
+1214,M051153,Milvus milvus,Alterswil,Wolperswil,2022,unknown,m,NA,m,1CY,2022,18.05.2022,milsar,D5F0A215,3023,NA,824,NA
+1253,R6561,Milvus milvus,Rechthalten,Saga,2022,unknown,f,NA,f,1CY,2022,08.05.2022,NA,NA,NA,NA,940,NA
+249,M039044,Milvus milvus,Alterswil,wolperswil,2017,unknown,f,NA,f,1CY,2017,20.06.2017,ecotone,KIWS72,RED25,brown,122,2022: last uhf contact on 20.05.22
+1255,dead,Milvus milvus,Vaulrus,Les Molettes,2022,unknown,f,NA,f,1CY,2022,04.06.2022,NA,NA,NA,NA,945,NA
+1256,dead,Milvus milvus,Aeckenmatt,Riedmatte,2022,unknown,m,NA,m,1CY,2022,09.06.2022,NA,NA,NA,NA,947,NA
+124,M036571,Milvus milvus,Schwarzenburg,Zaelg,2016,unknown,f,NA,f,1CY,2016,17.05.2016,ecotone,SWIK90,SWI23,brown,214,NA
+297,M039212,Milvus milvus,Schwarzenburg,Zaelg_17,2017,unknown,f,NA,f,1CY,2017,02.05.2017,ecotone,WSIK79,RKI14,brown,267,NA
+1259,R6557,Milvus milvus,Pensier,La Graviere,2022,unknown,f,NA,f,1CY,2022,29.04.2022,NA,NA,NA,NA,949,NA
+1260,R6558,Milvus milvus,Pensier,La Graviere,2022,unknown,f,NA,f,1CY,2022,28.04.2022,NA,NA,NA,NA,949,NA
+1261,M068136,Milvus milvus,Pensier,La Graviere,2022,unknown,f,NA,f,1CY,2022,28.04.2022,NA,NA,NA,NA,949,NA
+1262,not yet ringed,Milvus milvus,Heitenried,Tannholz,2022,unknown,f,NA,f,1CY,2022,10.06.2022,NA,NA,NA,NA,952,NA
+1263,not yet ringed,Milvus milvus,Massonens,Neirigue,2022,unknown,m,NA,m,1CY,2022,20.05.2022,NA,NA,NA,NA,955,NA
+970,M045962,Milvus milvus,Wuennewil,Zenthus_20,2020,unknown,f,NA,f,1CY,2020,06.05.2020,milsar,84D0D910,1303,NA,666,NA
+1265,M051190,Milvus milvus,Schwarzenburg,Herrenholz,2022,unknown,f,NA,f,1CY,2022,30.05.2022,NA,NA,NA,NA,956,NA
+1266,M051191,Milvus milvus,Alterswil,Galteren,2022,unknown,m,NA,m,1CY,2022,22.05.2022,NA,NA,NA,NA,957,NA
+1267,M051192,Milvus milvus,Alterswil,Galteren,2022,unknown,f,NA,f,1CY,2022,20.05.2022,NA,NA,NA,NA,957,NA
+1268,M068152,Milvus milvus,Pensier,La graviere,2023,unknown,NA,unknown,NA,1CY,2023,25.04.2023,NA,NA,NA,NA,949,NA
+1269,R6592,Milvus milvus,Pensier,La graviere,2023,unknown,NA,unknown,NA,1CY,2023,23.04.2023,NA,NA,NA,NA,949,NA
+1270,R6593,Milvus milvus,Pensier,La graviere,2023,unknown,NA,unknown,NA,1CY,2023,23.04.2023,NA,NA,NA,NA,949,NA
+1271,M068153,Milvus milvus,Duedingen,Unter St.Wolfgangholz,2023,unknown,NA,unknown,NA,1CY,2023,28.04.2023,NA,NA,NA,NA,587,NA
+1272,M053464,Milvus milvus,Duedingen,Unter St Wolfgangholz,2023,unknown,NA,unknown,NA,1CY,2023,02.05.2023,NA,NA,NA,NA,587,NA
+1273,R6594,Milvus milvus,Duedingen,Unter St.Wolfgangholz,2023,unknown,NA,unknown,NA,1CY,2023,28.04.2023,NA,NA,NA,NA,587,NA
+1274,M068154,Milvus milvus,Boesingen,Risau,2023,unknown,NA,unknown,NA,1CY,2023,30.04.2023,NA,NA,NA,NA,635,NA
+1275,M068155,Milvus milvus,Boesingen,Risau,2023,unknown,NA,unknown,NA,1CY,2023,30.04.2023,NA,NA,NA,NA,635,NA
+1276,not yet ringed,Milvus milvus,Boesingen,Risau,2023,unknown,NA,unknown,NA,1CY,2023,08.05.2023,NA,NA,NA,NA,635,NA
+1277,M068156,Milvus milvus,Rechthalten,Bergli,2023,unknown,NA,unknown,NA,1CY,2023,29.04.2023,NA,NA,NA,NA,589,NA
+1278,R6595,Milvus milvus,Rechthalten,Bergli,2023,unknown,NA,unknown,NA,1CY,2023,08.05.2023,NA,NA,NA,NA,589,NA
+1279,R6596,Milvus milvus,Rechthalten,Bergli,2023,unknown,NA,unknown,NA,1CY,2023,29.04.2023,NA,NA,NA,NA,589,NA
+1280,M068157,Milvus milvus,Le Mouret,Le Grabot,2023,unknown,NA,unknown,NA,1CY,2023,05.05.2023,NA,NA,NA,NA,889,NA
+1281,M068158,Milvus milvus,Tentlingen,Villarsel,2023,unknown,NA,unknown,NA,1CY,2023,02.05.2023,NA,NA,NA,NA,577,2023: Died before fledging
+1282,M068159,Milvus milvus,Zumholz,Brand,2023,unknown,NA,unknown,NA,1CY,2023,29.04.2023,NA,NA,NA,NA,1001,NA
+1283,M068160,Milvus milvus,Zumholz,Brand,2023,unknown,NA,unknown,NA,1CY,2023,29.04.2023,NA,NA,NA,NA,1001,NA
+1284,M068161,Milvus milvus,Tafers,Brunnenbergrain,2023,unknown,NA,unknown,NA,1CY,2023,05.05.2023,NA,NA,NA,NA,982,NA
+1285,not yet ringed,Milvus milvus,St. Antoni,Moos,2023,unknown,NA,unknown,NA,1CY,2023,08.05.2023,NA,NA,NA,NA,823,NA
+1286,M068162,Milvus milvus,Kleingurmels,UnderGruenenburg,2023,unknown,NA,unknown,NA,1CY,2023,23.04.2023,NA,NA,NA,NA,987,NA
+1287,R6597,Milvus milvus,Kleingurmels,UnderGruenenburg,2023,unknown,NA,unknown,NA,1CY,2023,23.04.2023,NA,NA,NA,NA,987,NA
+1288,M068163,Milvus milvus,Ueberstorf,Niedermettlen,2023,unknown,NA,unknown,NA,1CY,2023,01.05.2023,NA,NA,NA,NA,962,NA
+1289,M068164,Milvus milvus,Ueberstorf,Niedermettlen,2023,unknown,NA,unknown,NA,1CY,2023,29.04.2023,NA,NA,NA,NA,962,NA
+1290,R6598,Milvus milvus,Ueberstorf,Niedermettlen,2023,unknown,NA,unknown,NA,1CY,2023,29.04.2023,NA,NA,NA,NA,962,NA
+1291,R6599,Milvus milvus,Ueberstorf,Hundsflueh,2023,unknown,NA,unknown,NA,1CY,2023,29.04.2023,NA,NA,NA,NA,935,NA
+1292,R6600,Milvus milvus,Ueberstorf,Hundsflueh,2023,unknown,NA,unknown,NA,1CY,2023,29.04.2023,NA,NA,NA,NA,935,NA
+1293,M068165,Milvus milvus,Schmitten,Lanthen,2023,unknown,NA,unknown,NA,1CY,2023,04.05.2023,NA,NA,NA,NA,421,NA
+1294,M068166,Milvus milvus,Tafers,Wileracher,2023,unknown,NA,unknown,NA,1CY,2023,06.05.2023,NA,NA,NA,NA,1006,NA
+1295,M068167,Milvus milvus,Tafers,Wileracher,2023,unknown,NA,unknown,NA,1CY,2023,06.05.2023,NA,NA,NA,NA,1006,NA
+1296,M068168,Milvus milvus,Tafers,Rohr,2023,unknown,NA,unknown,NA,1CY,2023,02.05.2023,NA,NA,NA,NA,170,NA
+1297,M068169,Milvus milvus,Tafers,Rohr,2023,unknown,NA,unknown,NA,1CY,2023,02.05.2023,NA,NA,NA,NA,170,NA
+1298,M061170,Milvus milvus,Tafers,Brunnenbergain,2023,unknown,NA,unknown,NA,1CY,2023,06.05.2023,NA,NA,NA,NA,918,NA
+1299,M068171,Milvus milvus,St. Ursen,Neumatt,2023,unknown,NA,unknown,NA,1CY,2023,04.05.2023,NA,NA,NA,NA,451,NA
+1300,R7901,Milvus milvus,St. Ursen,Neumatt,2023,unknown,NA,unknown,NA,1CY,2023,04.05.2023,NA,NA,NA,NA,451,NA
+1301,R7902,Milvus milvus,Rechthalten,Weissenstein,2023,unknown,NA,unknown,NA,1CY,2023,04.05.2023,NA,NA,NA,NA,641,NA
+1302,R7903,Milvus milvus,Alterswil,Chala,2023,unknown,NA,unknown,NA,1CY,2023,08.05.2023,NA,NA,NA,NA,1085,NA
+1303,R7406,Milvus milvus,SteinamRhein,Kaltenbach,2023,unknown,NA,f,NA,1CY,2023,02.05.2023,NA,NA,NA,NA,803,NA
+1304,M046763,Milvus milvus,Niederwil,Fuchsloch,2023,unknown,NA,unknown,NA,1CY,2023,13.05.2023,NA,NA,NA,NA,804,NA
+1305,M046764,Milvus milvus,Alpnach,Schlieren,2023,unknown,NA,unknown,NA,1CY,2023,09.05.2023,NA,NA,NA,NA,1014,NA
+1306,M068172,Milvus milvus,Ueberstorf,Summereau,2023,unknown,NA,unknown,NA,1CY,2023,27.04.2023,NA,NA,NA,NA,929,NA
+1307,M068173,Milvus milvus,Ueberstorf,Ufem Burst,2023,unknown,NA,unknown,NA,1CY,2023,18.05.2023,NA,NA,NA,NA,136,2023: Died before fledging
+1308,M068174,Milvus milvus,St. Antoni,Baechlisbrunnen,2023,unknown,NA,unknown,NA,1CY,2023,16.05.2023,NA,NA,NA,NA,582,NA
+1309,M068175,Milvus milvus,St. Antoni,Baechlisbrunnen,2023,unknown,NA,unknown,NA,1CY,2023,16.05.2023,NA,NA,NA,NA,582,NA
+1310,R7904,Milvus milvus,Huttwil,ImPlaemu,2023,unknown,NA,f,NA,1CY,2023,06.05.2023,NA,NA,NA,NA,903,NA
+1311,R7905,Milvus milvus,Schwarzenburg,Stoecken,2023,unknown,NA,f,NA,1CY,2023,10.05.2023,NA,NA,NA,NA,747,NA
+1312,M053479,Milvus milvus,Kalchstaetten,Kirchhalten,2023,unknown,NA,unknown,NA,1CY,2023,29.05.2023,NA,NA,NA,NA,651,NA
+1313,M068176,Milvus milvus,Heitenried,Schindelhus,2023,unknown,NA,unknown,NA,1CY,2023,06.05.2023,NA,NA,NA,NA,745,NA
+1314,R7906,Milvus milvus,Heitenried,Schindelhus,2023,unknown,NA,unknown,NA,1CY,2023,06.05.2023,NA,NA,NA,NA,745,NA
+1315,M068177,Milvus milvus,Gurmels,kleinboesingen,2023,unknown,NA,m,NA,1CY,2023,10.05.2023,NA,NA,NA,NA,986,NA
+1316,M068178,Milvus milvus,Gurmels,kleinboesingen,2023,unknown,NA,m,NA,1CY,2023,10.05.2023,NA,NA,NA,NA,986,NA
+1317,M068179,Milvus milvus,Vaulrus,Les Molettes,2023,unknown,NA,unknown,NA,1CY,2023,06.05.2023,NA,NA,NA,NA,945,NA
+1318,M068180,Milvus milvus,Vaulrus,Les Molettes,2023,unknown,NA,unknown,NA,1CY,2023,06.05.2023,NA,NA,NA,NA,945,NA
+1319,R7907,Milvus milvus,Vaulrus,Les Molettes,2023,unknown,NA,f,NA,1CY,2023,15.05.2023,NA,NA,NA,NA,945,NA
+1320,M068181,Milvus milvus,La Roche,La Fin dessous,2023,unknown,NA,unknown,NA,1CY,2023,30.04.2023,NA,NA,NA,NA,1002,NA
+1321,M068182,Milvus milvus,La Roche,La Roche Les Rontes,2023,unknown,NA,m,NA,1CY,2023,02.05.2023,NA,NA,NA,NA,930,NA
+1322,R7908,Milvus milvus,La Roche,La Roche Les Rontes,2023,unknown,NA,f,NA,1CY,2023,02.05.2023,NA,NA,NA,NA,930,NA
+1323,M068183,Milvus milvus,Treyvaux,Le Paquier,2023,unknown,NA,unknown,NA,1CY,2023,06.05.2023,NA,NA,NA,NA,971,NA
+1324,M068184,Milvus milvus,Schwarzenburg,Kehr,2023,unknown,NA,unknown,NA,1CY,2023,12.05.2023,NA,NA,NA,NA,1015,NA
+1325,M068185,Milvus milvus,Schwarzenburg,Kehr,2023,unknown,NA,unknown,NA,1CY,2023,12.05.2023,NA,NA,NA,NA,1015,NA
+1326,R7909,Milvus milvus,Mamishaus,Ruemlisberg,2023,unknown,NA,f,NA,1CY,2023,07.05.2023,NA,NA,NA,NA,851,NA
+1327,M068186,Milvus milvus,Milken,Guuggenberg,2023,unknown,NA,unknown,NA,1CY,2023,15.05.2023,NA,NA,NA,NA,861,NA
+1328,M068187,Milvus milvus,Rueschegg,Feldweid,2023,unknown,NA,unknown,NA,1CY,2023,05.05.2023,NA,NA,NA,NA,1011,NA
+1329,R7910,Milvus milvus,Bruenisried,Unterweid,2023,unknown,NA,unknown,NA,1CY,2023,05.05.2023,NA,NA,NA,NA,767,NA
+1330,R7911,Milvus milvus,Bruenisried,Unterweid,2023,unknown,NA,unknown,NA,1CY,2023,05.05.2023,NA,NA,NA,NA,767,NA
+1331,M068188,Milvus milvus,Rechthalten,Saga,2023,unknown,NA,unknown,NA,1CY,2023,07.05.2023,NA,NA,NA,NA,940,NA
+1332,R7912,Milvus milvus,Rechthalten,Saga,2023,unknown,NA,unknown,NA,1CY,2023,07.05.2023,NA,NA,NA,NA,940,NA
+1333,M068189,Milvus milvus,Bruenisried,Tana,2023,unknown,NA,unknown,NA,1CY,2023,12.05.2023,NA,NA,NA,NA,1010,NA
+1334,M068190,Milvus milvus,Alterswil,Wengliswil,2023,unknown,NA,unknown,NA,1CY,2023,15.05.2023,NA,NA,NA,NA,990,NA
+1335,M068191,Milvus milvus,Alterswil,Wengliswil,2023,unknown,NA,unknown,NA,1CY,2023,15.05.2023,NA,NA,NA,NA,990,NA
+1336,M068192,Milvus milvus,Heitenried,Lettiswil,2023,unknown,NA,unknown,NA,1CY,2023,03.05.2023,NA,NA,NA,NA,910,NA
+1337,R7913,Milvus milvus,Heitenried,Lettiswil,2023,unknown,NA,unknown,NA,1CY,2023,03.05.2023,NA,NA,NA,NA,910,NA
+1338,Dead,Milvus milvus,Boesingen,Grenchen,2023,unknown,NA,unknown,NA,1CY,2023,01.05.2023,NA,NA,NA,NA,915,NA
+1339,R7914,Milvus milvus,Boesingen,Grenchen,2023,unknown,NA,f,NA,1CY,2023,01.05.2023,NA,NA,NA,NA,915,NA
+1340,M068193,Milvus milvus,Boesingen,Waldheim,2023,unknown,NA,m,NA,1CY,2023,06.05.2023,NA,NA,NA,NA,891,NA
+1341,R7915,Milvus milvus,Boesingen,Waldheim,2023,unknown,NA,f,NA,1CY,2023,06.05.2023,NA,NA,NA,NA,891,NA
+1342,M068194,Milvus milvus,Duedingen,Unter St. Wolfgangholz,2023,unknown,NA,unknown,NA,1CY,2023,03.05.2023,NA,NA,NA,NA,672,NA
+1343,M068195,Milvus milvus,Duedingen,Unter St. Wolfgangholz,2023,unknown,NA,unknown,NA,1CY,2023,03.05.2023,NA,NA,NA,NA,672,NA
+1344,M068196,Milvus milvus,Heitenried,Schaernera,2023,unknown,NA,unknown,NA,1CY,2023,05.05.2023,NA,NA,NA,NA,880,NA
+1345,M068197,Milvus milvus,Heitenried,Schaernera,2023,unknown,NA,unknown,NA,1CY,2023,05.05.2023,NA,NA,NA,NA,880,NA
+1346,M068198,Milvus milvus,Heitenried,Winterlingen,2023,unknown,NA,unknown,NA,1CY,2023,11.05.2023,NA,NA,NA,NA,1026,NA
+1347,M068199,Milvus milvus,Heitenried,Winterlingen,2023,unknown,NA,unknown,NA,1CY,2023,11.05.2023,NA,NA,NA,NA,1026,NA
+1348,M068200,Milvus milvus,Heitenried,Winterlingen,2023,unknown,NA,unknown,NA,1CY,2023,11.05.2023,NA,NA,NA,NA,1026,NA
+1349,M053451,Milvus milvus,St. Antoni,Lehwil,2023,unknown,NA,unknown,NA,1CY,2023,10.05.2023,NA,NA,NA,NA,899,NA
+1350,M053452,Milvus milvus,Schmitten,Bunziwil,2023,unknown,NA,unknown,NA,1CY,2023,29.04.2023,NA,NA,NA,NA,624,NA
+1351,M053453,Milvus milvus,Schmitten,Bunziwil,2023,unknown,NA,unknown,NA,1CY,2023,29.04.2023,NA,NA,NA,NA,624,NA
+1352,M053454,Milvus milvus,Marly,Ranch,2023,unknown,NA,unknown,NA,1CY,2023,02.05.2023,NA,NA,NA,NA,1093,NA
+1353,M053455,Milvus milvus,Marly,Rapettes,2023,unknown,NA,m,NA,1CY,2023,07.05.2023,NA,NA,NA,NA,972,NA
+1354,M053456,Milvus milvus,St. Ursen,Roeschiwil,2023,unknown,NA,unknown,NA,1CY,2023,15.05.2023,NA,NA,NA,NA,1020,NA
+1355,M053457,Milvus milvus,St Antoni,Menzihus,2023,unknown,NA,unknown,NA,1CY,2023,14.05.2023,NA,NA,NA,NA,916,NA
+1356,M053458,Milvus milvus,Ueberstorf,Zil,2023,unknown,NA,unknown,NA,1CY,2023,07.05.2023,NA,NA,NA,NA,979,NA
+1357,R7916,Milvus milvus,Ueberstorf,Zil,2023,unknown,NA,unknown,NA,1CY,2023,07.05.2023,NA,NA,NA,NA,979,NA
+1358,M053459,Milvus milvus,Oberschrot,Grube,2023,unknown,NA,unknown,NA,1CY,2023,03.05.2023,NA,NA,NA,NA,1079,NA
+1359,R7917,Milvus milvus,Schwarzenburg,Bachtelen,2023,unknown,NA,f,NA,1CY,2023,11.05.2023,NA,NA,NA,NA,1068,NA
+1360,R7918,Milvus milvus,Rueggisberg,Chueeweidli,2023,unknown,NA,f,NA,1CY,2023,13.05.2023,NA,NA,NA,NA,777,2023: Died before fledging
+1361,R7919,Milvus milvus,Aekenmatt,Muehle,2023,unknown,NA,f,NA,1CY,2023,09.05.2023,NA,NA,NA,NA,754,NA
+1362,M053460,Milvus milvus,Laupen,Rueplisried,2023,unknown,NA,m,NA,1CY,2023,08.05.2023,NA,NA,NA,NA,974,NA
+1363,M053461,Milvus milvus,Laupen,Rueplisried,2023,unknown,NA,m,NA,1CY,2023,08.05.2023,NA,NA,NA,NA,974,NA
+1364,R7920,Milvus milvus,Jucher,Saengimatt,2023,unknown,NA,unknown,NA,1CY,2023,13.05.2023,NA,NA,NA,NA,1066,2023: Died before fledging
+1365,R7921,Milvus milvus,Gurmels,Houllerain,2023,unknown,NA,f,NA,1CY,2023,16.05.2023,NA,NA,NA,NA,1094,NA
+1366,M053462,Milvus milvus,Alterswil,Mediwil,2023,unknown,NA,m,NA,1CY,2023,13.05.2023,NA,NA,NA,NA,922,2023: Died before fledging
+1367,M053463,Milvus milvus,Alterswil,Wolgiswil,2023,unknown,NA,m,NA,1CY,2023,13.05.2023,NA,NA,NA,NA,832,NA
+1368,M053465,Milvus milvus,Wunnewil,Golf,2023,unknown,NA,m,NA,1CY,2023,06.05.2023,NA,NA,NA,NA,938,NA
+1369,M053466,Milvus milvus,Wunnewil,Golf,2023,unknown,NA,unknown,NA,1CY,2023,06.05.2023,NA,NA,NA,NA,938,NA
+1370,M053467,Milvus milvus,Oberschrot,Sali,2023,unknown,NA,unknown,NA,1CY,2023,15.05.2023,NA,NA,NA,NA,1063,NA
+1371,M053468,Milvus milvus,Oberschrot,Sali,2023,unknown,NA,unknown,NA,1CY,2023,15.05.2023,NA,NA,NA,NA,1063,NA
+1372,M053469,Milvus milvus,Aekenmatt,Bruug,2023,unknown,NA,unknown,NA,1CY,2023,22.05.2023,NA,NA,NA,NA,1036,NA
+1373,M053470,Milvus milvus,Milken,Rothen,2023,unknown,NA,unknown,NA,1CY,2023,21.05.2023,NA,NA,NA,NA,1076,2023: Died before fledging
+1374,R7922,Milvus milvus,St. Antoni,Steinberg,2023,unknown,NA,unknown,NA,1CY,2023,16.05.2023,NA,NA,NA,NA,1028,NA
+1375,M053471,Milvus milvus,St. Antoni,Menzihustop,2023,unknown,NA,unknown,NA,1CY,2023,21.05.2023,NA,NA,NA,NA,1098,2023: Died before fledging
+1376,M053472,Milvus milvus,Massonens,Neirigue,2023,unknown,NA,unknown,NA,1CY,2023,25.05.2023,NA,NA,NA,NA,1096,NA
+1377,M053473,Milvus milvus,Massonens,Neirigue,2023,unknown,NA,unknown,NA,1CY,2023,25.05.2023,NA,NA,NA,NA,1096,NA
+1378,M053474,Milvus milvus,St. Antoni,Bachmattholz,2023,unknown,NA,m,NA,1CY,2023,30.05.2023,NA,NA,NA,NA,1012,NA
+1379,M053475,Milvus milvus,Alterswil,Wolperswil,2023,unknown,NA,unknown,NA,1CY,2023,30.05.2023,NA,NA,NA,NA,824,NA
+1380,M053476,Milvus milvus,Alterswil,Wolperswil,2023,unknown,NA,unknown,NA,1CY,2023,30.05.2023,NA,NA,NA,NA,824,NA
+1381,M053477,Milvus milvus,Schwarzenburg,Herrenholz,2023,unknown,NA,unknown,NA,1CY,2023,21.05.2023,NA,NA,NA,NA,1099,NA
+1382,M053478,Milvus milvus,Ueberstorf,Cholholz,2023,unknown,NA,unknown,NA,1CY,2023,25.05.2023,NA,NA,NA,NA,135,2023: Died before fledging
+1383,M046765,Milvus milvus,Mettlen,Buchen,2023,unknown,NA,unknown,NA,1CY,2023,19.05.2023,NA,NA,NA,NA,1065,NA

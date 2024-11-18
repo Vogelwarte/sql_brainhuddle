@@ -3,8 +3,22 @@
 If you want to play all the stuff with me. Please checkout this repo or unpack the attached zip file.
 
 
-## Install
+## Download or checkout the code
 
+### From github.com
+
+```
+git clone https://github.com/vogelwarte/sql_brainhuddle 
+```
+
+### unzip from Attachment
+Name is *sql_brainhuddle-main.zip*
+
+
+## Recommended Installed Software
+
+- RStudio
+- [DBeavber](https://dbeaver.io)
 
 
 

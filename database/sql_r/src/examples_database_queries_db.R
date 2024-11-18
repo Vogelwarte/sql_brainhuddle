@@ -70,7 +70,7 @@ settlement_locations_short <- nl %>%
 
 print(settlement_locations_short %>% show_query() )
 
-settlement_locations_df <- settlement_locations %>% collect()
+settlement_locations_df <- settlement_locations_short %>% collect()
 
-write_csv(settlement_locations_df, "settlement_locations.csv") # save dataframe
+write_csv(settlement_locations_df, "settlement_locations_db.csv") # save dataframe
 

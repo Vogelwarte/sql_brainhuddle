@@ -228,6 +228,14 @@ DB-Name is **research**
 - psql (Postgres command line client)
 - python: psycopg
 
+
+## DB Connection on Server
+
+- Host: dbspatialdata_projects
+- Database: playground
+- User: sql_brainhuddle
+- Password: VoWa20241119
+
 ___
 
 ## **How to's** with R
@@ -237,15 +245,16 @@ ___
 - *Create DB* 
 - Create Schema 
 - Create Table
-  - default fields id, tm_created, tm_modified, ....
+  - default fields id, tm_created, *tm_modified*, ....
 - Load Data
 - Indexes (Unique)
 
 ---
 
-## DB Connection on Server
+## Further topics for Brain Huddle's
 
-- Host: dbspatialdata_projects
-- Database: playground
-- User: sql_brainhuddle
-- Password: VoWa20241119
+- Spatial Data in SQL [PostGIS](https://postgis.net)
+- Advanced DB Stuff (Views, Materiallized Views, Functions, Triggers, ... )
+- Docker - the easy life
+- Github/Gitlab - Version Control
+- CI/CD - Continuous Integration/Continuous Delivery

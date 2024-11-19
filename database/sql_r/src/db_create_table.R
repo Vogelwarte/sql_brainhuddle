@@ -1,7 +1,8 @@
 # Step: Create a new table
 create_table_query <- "
 CREATE TABLE IF NOT EXISTS participants (
-  participant_id SERIAL PRIMARY KEY,
+  id SERIAL PRIMARY KEY,
+  tm_created timestamptz DEFAULT now() NOT NULL;
   name TEXT NOT NULL,
   position TEXT NOT NULL,
   salary NUMERIC

@@ -60,6 +60,13 @@ section.multicolumn>h1 {
 - **How to's** with R
 - Practicle examples with the red kite
 
+## Goal
+- you can access the Postgres server dbspatialdata_projects in different ways
+- you can create tables with R/Dbeaver (SQL)
+- you can load and query data R/Dbeaver (SQL)
+- you know the most important things for relations
+
+
 ---
 ## Type of Databases (overview)
 

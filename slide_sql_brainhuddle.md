@@ -258,3 +258,4 @@ ___
 - Docker - the easy life
 - Github/Gitlab - Version Control
 - CI/CD - Continuous Integration/Continuous Delivery
+- Ollama - AI on local machine

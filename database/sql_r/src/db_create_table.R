@@ -2,7 +2,7 @@
 create_table_query <- "
 CREATE TABLE IF NOT EXISTS participants (
   id SERIAL PRIMARY KEY,
-  tm_created timestamptz DEFAULT now() NOT NULL;
+  tm_created timestamptz DEFAULT now() NOT NULL,
   name TEXT NOT NULL,
   position TEXT NOT NULL,
   salary NUMERIC

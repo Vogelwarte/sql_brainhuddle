@@ -8,7 +8,7 @@ status <- renv::status()
 if (status$synchronized == FALSE) {
   message("Changes detected. Creating a new snapshot...")
   renv::snapshot()
-Y} else {
+} else {
   message("No changes detected. Restoring the environment...")
   renv::restore()
 }

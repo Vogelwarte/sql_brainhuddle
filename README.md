@@ -18,10 +18,19 @@ Name is *sql_brainhuddle-main.zip*
 ## Recommended Installed Software
 
 - RStudio
-- [DBeavber](https://dbeaver.io)
+- [DBeavber](https://dbeaver.io/download/)
 
 
+## .Renviron
+Please copy and paste this content into the *.Renviron* file in your home or working directory (`./database/sql_r/.Renviron`).
 
+```
+DATABASE_HOST=dbspatialdata_projects
+DATABASE_PORT=5432
+DATABASE_NAME=playground
+DATABASE_USER=sql_brainhuddle
+DATABASE_PASSWORD=<tbd />
+```
 
 
 ### for advanced users

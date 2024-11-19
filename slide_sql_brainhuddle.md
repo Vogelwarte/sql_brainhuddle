@@ -55,10 +55,17 @@ footer: '![height:40px grayscale opacity:0.5](https://www.vogelwarte.ch/wp-conte
 ## Tools
 
 - [PGAdmin](https://www.pgadmin.org)
-- [DBeavber](https://dbeaver.io)
-- R/RStudio
+- [DBeaver](https://dbeaver.io)
 - Microsoft Excel, Access
 - [QGIS]()
+- R/RStudio
+
+## Connections
+- **ODBC** - open "ODBC Data Source (32-bit)" for Vogelwarte DB's
+- **DBeaver** (over JDBC)
+- psql (Postgres command line client)
+- python: psycopg
+- **RPostgres** (C++-Implementation)
 
 ___
 

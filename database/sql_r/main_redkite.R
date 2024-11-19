@@ -1,4 +1,5 @@
 # Load libraries and helper functions
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 source("src/renv_manage.R")
 source("src/settings.R")
 #### Read environ (if not in env - is stored in $home) ####
